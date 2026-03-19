@@ -5,10 +5,21 @@ import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
   site: 'https://taiwan.md',
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      i18n: {
+        defaultLocale: 'zh-TW',
+        locales: {
+          'zh-TW': 'zh-TW',
+          en: 'en',
+          es: 'es',
+        },
+      },
+    }),
+  ],
   i18n: {
     defaultLocale: 'zh-TW',
-    locales: ['zh-TW', 'en'],
+    locales: ['zh-TW', 'en', 'es', 'ja', 'ko', 'fr'],
     routing: {
       prefixDefaultLocale: false
     }

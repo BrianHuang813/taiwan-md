@@ -17,4 +17,29 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Sitemaps (multi-language)
 Sitemap: https://taiwan.md/sitemap-index.xml

@@ -131,7 +131,7 @@ hubRenderer.image = ({ href, title, text }) => {
 };
 const hubHtml = resolvedContent ? marked.parse(resolvedContent, { renderer: hubRenderer }) : '';
 
-// Split hub HTML into sections at <h2> boundaries for chart injection (economy only)
+// Split hub HTML into sections at <h2>boundaries for chart injection (economy only)
 const isEconomy = category === 'economy';
 type HubSection = { html: string; chartAfter?: string };
 let hubSections: HubSection[] = [];
@@ -169,7 +169,7 @@ const otherCategories = Object.keys(categoryConfig)
         <h1 class="hero-title">{categoryInfo.name}</h1>
         <p class="hero-description">{categoryInfo.description}</p>
         <div class="hero-stats">
-          <span class="stats-badge">📚 {articles.length} 篇文章</span>
+          <span class="stats-badge"> {articles.length} 篇文章</span>
         </div>
       </div>
       <div class="hero-decoration"></div>
@@ -201,10 +201,10 @@ const otherCategories = Object.keys(categoryConfig)
                     <div class="econ-chart-container">
                       <div class="econ-chart-header">
                         <h4 class="econ-chart-title">
-                          {section.chartAfter === 'taiex' && '📈 歷年台灣加權股價指數 (TAIEX)'}
-                          {section.chartAfter === 'cpi' && '📊 歷年消費者物價指數 (CPI)'}
-                          {section.chartAfter === 'salary' && '💰 歷年每月經常性薪資'}
-                          {section.chartAfter === 'housing' && '🏠 信義房價指數'}
+                          {section.chartAfter === 'taiex' && ' 歷年台灣加權股價指數 (TAIEX)'}
+                          {section.chartAfter === 'cpi' && ' 歷年消費者物價指數 (CPI)'}
+                          {section.chartAfter === 'salary' && ' 歷年每月經常性薪資'}
+                          {section.chartAfter === 'housing' && ' 信義房價指數'}
                         </h4>
                         <span class="econ-chart-source">
                           {section.chartAfter === 'taiex' && '資料來源：臺灣證券交易所'}
@@ -228,7 +228,7 @@ const otherCategories = Object.keys(categoryConfig)
       )}
 
       <!-- Articles Section -->
-      <h2 class="articles-heading">📖 延伸閱讀</h2>
+      <h2 class="articles-heading">延伸閱讀</h2>
       {articles.length > 0 ? (
         <section class="articles-section">
           <div class="articles-grid">
@@ -261,7 +261,7 @@ const otherCategories = Object.keys(categoryConfig)
                     <div class="article-info">
                       {article.readingTime && (
                         <span class="info-item">
-                          📖 {article.readingTime} 分鐘
+                           {article.readingTime} 分鐘
                         </span>
                       )}
                     </div>

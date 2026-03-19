@@ -128,7 +128,7 @@ const otherCategories = Object.keys(categoryConfig)
         <h1 class="hero-title">{categoryInfo.name_en}</h1>
         <p class="hero-description">{categoryInfo.description_en}</p>
         <div class="hero-stats">
-          <span class="stats-badge">📚 {articles.length} articles</span>
+          <span class="stats-badge"> {articles.length} articles</span>
         </div>
       </div>
       <div class="hero-decoration"></div>
@@ -150,7 +150,7 @@ const otherCategories = Object.keys(categoryConfig)
       )}
 
       <!-- Articles Section -->
-      <h2 class="articles-heading">📖 Further Reading</h2>
+      <h2 class="articles-heading">Further Reading</h2>
       {articles.length > 0 ? (
         <section class="articles-section">
           <div class="articles-grid">
@@ -183,7 +183,7 @@ const otherCategories = Object.keys(categoryConfig)
                     <div class="article-info">
                       {article.readingTime && (
                         <span class="info-item">
-                          📖 {article.readingTime} min read
+                           {article.readingTime} min read
                         </span>
                       )}
                     </div>

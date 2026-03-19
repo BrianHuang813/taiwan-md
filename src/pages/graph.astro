@@ -1,8 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getCollection } from 'astro:content';
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join } from 'path';
+import matter from 'gray-matter';
 
 const categories = [
   'history', 'geography', 'culture', 'food', 'art', 'music',
@@ -17,10 +17,16 @@ const categoryColors: Record<string, string> = {
 };
 
 const categoryNames: Record<string, string> = {
-  history: '📜 歷史', geography: '🗺️ 地理', culture: '🎭 文化',
-  food: '🍜 美食', art: '🎨 藝術', music: '🎵 音樂',
-  technology: '💻 科技', nature: '🌿 自然', people: '👥 人物',
-  society: '⚖️ 社會', economy: '📈 經濟', lifestyle: '🏠 生活',
+  history: '歷史', geography: '地理', culture: '文化',
+  food: '美食', art: '藝術', music: '音樂',
+  technology: '科技', nature: '自然', people: '人物',
+  society: '社會', economy: '經濟', lifestyle: '生活',
+};
+
+const categoryMapping: Record<string, string> = {
+  history: 'History', geography: 'Geography', culture: 'Culture', food: 'Food',
+  art: 'Art', music: 'Music', technology: 'Technology', nature: 'Nature',
+  people: 'People', society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle',
 };
 
 // Build nodes and edges
@@ -28,67 +34,51 @@ const nodes: any[] = [];
 const edges: any[] = [];
 const tagMap: Record<string, string[]> = {}; // tag → article ids
 
-// Pre-fetch all collections
+// Scan zh-TW articles from knowledge/
 let allZhArticles: any[] = [];
-let allEnArticles: any[] = [];
-try { allZhArticles = await getCollection('zh-TW'); } catch (e) { console.log('zh-TW collection error:', e); }
-try { allEnArticles = await getCollection('en'); } catch (e) { console.log('en collection error:', e); }
-
-// Fallback: scan filesystem if collections are empty
-if (allZhArticles.length === 0) {
+for (const cat of categories) {
+  const folder = categoryMapping[cat];
   try {
-    for (const cat of categories) {
-      const catDir = resolve('src/content/zh-TW', cat);
-      try {
-        const files = await readdir(catDir);
-        for (const file of files) {
-          if (file.endsWith('.md') && !file.startsWith('_')) {
-            const slug = file.replace(/\.md$/, '');
-            const content = await readFile(join(catDir, file), 'utf-8');
-            const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-            const tagsMatch = content.match(/^tags:\s*\[(.+?)\]/m);
-            const title = titleMatch ? titleMatch[1] : slug;
-            const tags = tagsMatch ? tagsMatch[1].split(',').map(t => t.trim().replace(/["']/g, '')) : [];
-            allZhArticles.push({ id: `${cat}/${slug}`, data: { title, tags } });
-          }
-        }
-      } catch {}
+    const dirPath = resolve(process.cwd(), 'knowledge', folder);
+    const files = await readdir(dirPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const content = await readFile(resolve(dirPath, file), 'utf-8');
+      const { data: fm } = matter(content);
+      const slug = file.replace(/\.md$/, '');
+      allZhArticles.push({ id: `${cat}/${slug}`, data: { title: fm.title || slug, tags: fm.tags || [] } });
     }
   } catch {}
 }
-if (allEnArticles.length === 0) {
+
+// Scan en articles from knowledge/en/
+let allEnArticles: any[] = [];
+for (const cat of categories) {
+  const folder = categoryMapping[cat];
   try {
-    for (const cat of categories) {
-      const catDir = resolve('src/content/en', cat);
-      try {
-        const files = await readdir(catDir);
-        for (const file of files) {
-          if (file.endsWith('.md') && !file.startsWith('_')) {
-            const slug = file.replace(/\.md$/, '');
-            const content = await readFile(join(catDir, file), 'utf-8');
-            const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-            const title = titleMatch ? titleMatch[1] : slug;
-            allEnArticles.push({ id: `${cat}/${slug}`, data: { title, tags: [] } });
-          }
-        }
-      } catch {}
+    const dirPath = resolve(process.cwd(), 'knowledge', 'en', folder);
+    const files = await readdir(dirPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const content = await readFile(resolve(dirPath, file), 'utf-8');
+      const { data: fm } = matter(content);
+      const slug = file.replace(/\.md$/, '');
+      allEnArticles.push({ id: `${cat}/${slug}`, data: { title: fm.title || slug, tags: [] } });
     }
   } catch {}
 }
 
 // Center node
-nodes.push({ id: 'taiwan', label: '🇹🇼 Taiwan.md', group: 'center', size: 30 });
+nodes.push({ id: 'taiwan', label: 'Taiwan.md', group: 'center', size: 30 });
 
 // SSOT concept node
-nodes.push({ id: 'ssot', label: '📐 SSOT\n(Single Source of Truth)', group: 'meta', color: '#8b5cf6', size: 16 });
+nodes.push({ id: 'ssot', label: 'SSOT\n(Single Source of Truth)', group: 'meta', color: '#8b5cf6', size: 16 });
 edges.push({ source: 'taiwan', target: 'ssot' });
 
 // Special nodes
-nodes.push({ id: 'about', label: '📖 關於', group: 'special', color: '#6366f1', size: 14, url: '/about' });
-nodes.push({ id: 'contribute', label: '✋ 貢獻', group: 'special', color: '#22c55e', size: 14, url: '/contribute' });
-nodes.push({ id: 'quotes', label: '✨ 看見台灣\n引言集', group: 'special', color: '#f59e0b', size: 12, url: '/about' });
-nodes.push({ id: 'editorial', label: '📋 編輯方針', group: 'meta', color: '#8b5cf6', size: 10 });
-nodes.push({ id: 'llms', label: '🤖 AI-Friendly\n(llms.txt)', group: 'meta', color: '#8b5cf6', size: 10 });
+nodes.push({ id: 'about', label: '關於', group: 'special', color: '#6366f1', size: 14, url: '/about' });
+nodes.push({ id: 'contribute', label: '貢獻', group: 'special', color: '#22c55e', size: 14, url: '/contribute' });
+nodes.push({ id: 'quotes', label: '看見台灣\n引言集', group: 'special', color: '#f59e0b', size: 12, url: '/about' });
+nodes.push({ id: 'editorial', label: '編輯方針', group: 'meta', color: '#8b5cf6', size: 10 });
+nodes.push({ id: 'llms', label: 'AI-Friendly\n(llms.txt)', group: 'meta', color: '#8b5cf6', size: 10 });
 edges.push({ source: 'taiwan', target: 'about' });
 edges.push({ source: 'taiwan', target: 'contribute' });
 edges.push({ source: 'about', target: 'quotes' });
@@ -148,7 +138,7 @@ for (const cat of categories) {
     const nodeId = `en/${cat}/${slug}`;
     nodes.push({
       id: nodeId,
-      label: `🌐 ${article.data.title}`,
+      label: ` ${article.data.title}`,
       group: cat,
       color: categoryColors[cat],
       size: 8,
@@ -175,12 +165,6 @@ for (const [tag, articleIds] of Object.entries(tagMap)) {
 }
 
 // Parse Hub wikilinks to create Hub→article edges
-const categoryMapping: Record<string, string> = {
-  'history': 'History', 'geography': 'Geography', 'culture': 'Culture',
-  'food': 'Food', 'art': 'Art', 'music': 'Music',
-  'technology': 'Technology', 'nature': 'Nature', 'people': 'People',
-  'society': 'Society', 'economy': 'Economy', 'lifestyle': 'Lifestyle'
-};
 const nodeIds = new Set(nodes.map(n => n.id));
 
 for (const [cat, folder] of Object.entries(categoryMapping)) {
@@ -197,7 +181,7 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
         // Check if target matches an article node
         const matchNode = nodes.find(n => 
           n.label === target || 
-          n.label === `🌐 ${target}` ||
+          n.label === ` ${target}` ||
           n.id === `${cat}/${target}` ||
           n.id === `${cat}/${encodeURIComponent(target)}`
         );
@@ -230,10 +214,10 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
 const graphData = JSON.stringify({ nodes, edges });
 ---
 
-<Layout title="🕸️ 知識圖譜 — Taiwan.md">
+<Layout title=" 知識圖譜 — Taiwan.md">
   <main class="graph-page">
     <div class="graph-header">
-      <h1>🕸️ 知識圖譜 Knowledge Graph</h1>
+      <h1>知識圖譜 Knowledge Graph</h1>
       <p>Taiwan.md 的所有知識節點與連結</p>
       <div class="search-box">
         <input id="graph-search" type="search" placeholder="搜尋節點或文章" aria-label="搜尋知識圖譜節點" />
@@ -350,7 +334,7 @@ const graphData = JSON.stringify({ nodes, edges });
 
       const matchedIds = new Set(
         data.nodes
-          .filter((item) => String(item.label || '').toLowerCase().includes(normalized))
+          .filter((item) =>String(item.label || '').toLowerCase().includes(normalized))
           .map((item) => item.id)
       );
 

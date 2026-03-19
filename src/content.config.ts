@@ -20,9 +20,8 @@ const baseContentSchema = z.object({
 const zhTWCollection = defineCollection({
   type: 'content',
   schema: baseContentSchema.extend({
-    // 中文特有欄位
-    originalTitle: z.string().optional(), // 原始中文標題
-    alternativeNames: z.array(z.string()).optional().default([]), // 別名
+    originalTitle: z.string().optional(),
+    alternativeNames: z.array(z.string()).optional().default([]),
   }),
 });
 
@@ -30,8 +29,17 @@ const zhTWCollection = defineCollection({
 const enCollection = defineCollection({
   type: 'content',
   schema: baseContentSchema.extend({
-    // 英文特有欄位
-    chineseTitle: z.string().optional(), // 對應中文標題
+    chineseTitle: z.string().optional(),
+    translationStatus: z.enum(['complete', 'partial', 'planned']).optional().default('complete'),
+  }),
+});
+
+// 西班牙文內容 collection
+const esCollection = defineCollection({
+  type: 'content',
+  schema: baseContentSchema.extend({
+    chineseTitle: z.string().optional(),
+    englishTitle: z.string().optional(),
     translationStatus: z.enum(['complete', 'partial', 'planned']).optional().default('complete'),
   }),
 });
@@ -40,6 +48,7 @@ const enCollection = defineCollection({
 export const collections = {
   'zh-TW': zhTWCollection,
   'en': enCollection,
+  'es': esCollection,
 };
 
 // Type exports for TypeScript support
@@ -50,5 +59,11 @@ export type ZhTWContent = z.infer<typeof baseContentSchema> & {
 
 export type EnContent = z.infer<typeof baseContentSchema> & {
   chineseTitle?: string;
+  translationStatus?: 'complete' | 'partial' | 'planned';
+};
+
+export type EsContent = z.infer<typeof baseContentSchema> & {
+  chineseTitle?: string;
+  englishTitle?: string;
   translationStatus?: 'complete' | 'partial' | 'planned';
 };

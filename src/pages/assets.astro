@@ -10,7 +10,7 @@ import Layout from '../layouts/Layout.astro';
     </section>
 
     <section class="problem">
-      <h2>🤖 為什麼 AI 總是畫錯台灣？</h2>
+      <h2>為什麼 AI 總是畫錯台灣？</h2>
       <p>大多數 AI 圖像生成模型的訓練資料中，缺乏結構化的台灣地理資料。結果就是：AI 畫出來的台灣經常形狀扭曲、比例失真、甚至跟其他島嶼搞混。</p>
       <p>Taiwan.md 提供<strong>正確、開源、可自由使用</strong>的台灣 SVG 輪廓圖，讓每一個需要「台灣長什麼樣子」的場景都有標準答案。</p>
     </section>
@@ -78,7 +78,7 @@ import Layout from '../layouts/Layout.astro';
     </section>
 
     <section class="usage">
-      <h2>📝 使用方式</h2>
+      <h2>使用方式</h2>
       <div class="code-block">
         <pre><code>&lt;!-- 直接嵌入 --&gt;
 &lt;img src="https://taiwan.md/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan" width="200"&gt;
@@ -92,7 +92,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
     </section>
 
     <section class="license">
-      <h2>📄 授權與來源</h2>
+      <h2>授權與來源</h2>
       <p>所有 SVG 檔案以 <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a> 授權釋出。歡迎自由使用、修改、商用，只需標注來源。</p>
       
       <h3>來源標注</h3>
@@ -117,10 +117,10 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         const text = await res.text();
         await navigator.clipboard.writeText(text);
         const orig = btn.textContent;
-        btn.textContent = '✅ 已複製';
+        btn.textContent = ' 已複製';
         setTimeout(() => btn.textContent = orig, 2000);
       } catch(e) {
-        btn.textContent = '❌ 複製失敗';
+        btn.textContent = ' 複製失敗';
         setTimeout(() => btn.textContent = '複製 SVG 代碼', 2000);
       }
     }

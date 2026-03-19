@@ -10,9 +10,9 @@ import Layout from '../../layouts/Layout.astro';
     </section>
 
     <section class="problem">
-      <h2>🤖 Why Does AI Always Draw Taiwan Wrong?</h2>
+      <h2>Why Does AI Always Draw Taiwan Wrong?</h2>
       <p>Most AI image generation models lack structured geographic data for Taiwan in their training sets. The result: AI-generated images of Taiwan are often distorted, disproportionate, or confused with other islands.</p>
-      <p>Taiwan.md provides <strong>accurate, open-source, freely usable</strong> SVG outlines of Taiwan — a definitive answer for every scenario that needs to know "what does Taiwan look like."</p>
+      <p>Taiwan.md provides <strong>accurate, open-source, freely usable</strong>SVG outlines of Taiwan — a definitive answer for every scenario that needs to know "what does Taiwan look like."</p>
     </section>
 
     <section class="svg-cards">
@@ -78,7 +78,7 @@ import Layout from '../../layouts/Layout.astro';
     </section>
 
     <section class="usage">
-      <h2>📝 How to Use</h2>
+      <h2>How to Use</h2>
       <div class="code-block">
         <pre><code>&lt;!-- Embed directly --&gt;
 &lt;img src="https://taiwan.md/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan" width="200"&gt;
@@ -92,7 +92,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
     </section>
 
     <section class="license">
-      <h2>📄 License & Attribution</h2>
+      <h2>License & Attribution</h2>
       <p>All SVG files are released under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. Free to use, modify, and use commercially — just give attribution.</p>
       
       <h3>Sources</h3>
@@ -117,10 +117,10 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         const text = await res.text();
         await navigator.clipboard.writeText(text);
         const orig = btn.textContent;
-        btn.textContent = '✅ Copied';
+        btn.textContent = ' Copied';
         setTimeout(() => btn.textContent = orig, 2000);
       } catch(e) {
-        btn.textContent = '❌ Failed';
+        btn.textContent = ' Failed';
         setTimeout(() => btn.textContent = 'Copy SVG Code', 2000);
       }
     }
