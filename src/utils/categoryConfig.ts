@@ -160,6 +160,21 @@ export const categoryConfig = {
 
 export type CategoryKey = keyof typeof categoryConfig;
 
+export const categoryList = Object.keys(categoryConfig) as CategoryKey[];
+
 export function getCategoryConfig(category: string): typeof categoryConfig[CategoryKey] | null {
   return categoryConfig[category as CategoryKey] || null;
+}
+
+export function getCategoryConfigs(t: (key: string) => string): Record<string, typeof categoryConfig[CategoryKey] & { name: string; description: string }> {
+  const result: Record<string, typeof categoryConfig[CategoryKey] & { name: string; description: string }> = {};
+  for (const key of categoryList) {
+    const base = categoryConfig[key];
+    result[key] = {
+      ...base,
+      name: t(`categoryConfig.${key}` as any) || base.name,
+      description: t(`categoryConfig.${key}.description` as any) || base.description,
+    };
+  }
+  return result;
 }
