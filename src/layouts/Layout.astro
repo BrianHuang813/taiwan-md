@@ -25,24 +25,56 @@ interface Props {
   category?: string;
 }
 
-const { title, description = '讓全世界完整認識台灣', lang = getLocaleFromPath(Astro.url.pathname), image, type, datePublished, dateModified, content, tags, category } = Astro.props;
+const {
+  title,
+  description = '讓全世界完整認識台灣',
+  lang: _lang,
+  image,
+  type,
+  datePublished,
+  dateModified,
+  content,
+  tags,
+  category,
+} = Astro.props;
+let _astroUrl = 'https://taiwan.md/';
+try {
+  _astroUrl = Astro.url.href;
+} catch {}
+const lang: Locale = _lang ?? getLocaleFromPath(new URL(_astroUrl).pathname);
 
 // Build search index at build time
 const categoryMapping: Record<string, string> = {
-  'history': 'History', 'geography': 'Geography', 'culture': 'Culture',
-  'food': 'Food', 'art': 'Art', 'music': 'Music', 'technology': 'Technology',
-  'nature': 'Nature', 'people': 'People', 'society': 'Society',
-  'economy': 'Economy', 'lifestyle': 'Lifestyle'
+  history: 'History',
+  geography: 'Geography',
+  culture: 'Culture',
+  food: 'Food',
+  art: 'Art',
+  music: 'Music',
+  technology: 'Technology',
+  nature: 'Nature',
+  people: 'People',
+  society: 'Society',
+  economy: 'Economy',
+  lifestyle: 'Lifestyle',
 };
 
-const searchIndex: Array<{t: string; d: string; u: string; tags: string[]; lang: string}> = [];
+const searchIndex: Array<{
+  t: string;
+  d: string;
+  u: string;
+  tags: string[];
+  lang: string;
+}> = [];
 
 for (const [slug, folder] of Object.entries(categoryMapping)) {
   // Chinese articles
   try {
     const zhPath = resolve(process.cwd(), 'knowledge', folder);
     const files = await readdir(zhPath);
-    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+    for (const file of files.filter(
+      (f) => f.endsWith('.md') && !f.startsWith('_'),
+    )) {
       const { data } = matter(await readFile(join(zhPath, file), 'utf-8'));
       const name = basename(file, '.md');
       searchIndex.push({
@@ -50,7 +82,7 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
         d: data.description || '',
         u: `/${slug}/${name}`,
         tags: data.tags || [],
-        lang: 'zh-TW'
+        lang: 'zh-TW',
       });
     }
   } catch {}
@@ -58,7 +90,9 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
   try {
     const enPath = resolve(process.cwd(), 'knowledge', 'en', folder);
     const files = await readdir(enPath);
-    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+    for (const file of files.filter(
+      (f) => f.endsWith('.md') && !f.startsWith('_'),
+    )) {
       const { data } = matter(await readFile(join(enPath, file), 'utf-8'));
       const name = basename(file, '.md');
       searchIndex.push({
@@ -66,7 +100,7 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
         d: data.description || '',
         u: `/en/${slug}/${name}`,
         tags: data.tags || [],
-        lang: 'en'
+        lang: 'en',
       });
     }
   } catch {}
@@ -74,7 +108,9 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
   try {
     const esPath = resolve(process.cwd(), 'knowledge', 'es', folder);
     const files = await readdir(esPath);
-    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+    for (const file of files.filter(
+      (f) => f.endsWith('.md') && !f.startsWith('_'),
+    )) {
       const { data } = matter(await readFile(join(esPath, file), 'utf-8'));
       const name = basename(file, '.md');
       searchIndex.push({
@@ -82,7 +118,7 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
         d: data.description || '',
         u: `/es/${slug}/${name}`,
         tags: data.tags || [],
-        lang: 'es'
+        lang: 'es',
       });
     }
   } catch {}
@@ -123,12 +159,18 @@ const prefix = getLangPrefix(lang);
       />
     </noscript>
     <title>{title} | Taiwan.md</title>
-    <link rel="alternate" type="application/rss+xml" title="Taiwan.md RSS" href="/rss.xml" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Taiwan.md RSS"
+      href="/rss.xml"
+    />
     <SEO
       title={title}
       description={description}
       lang={lang}
       image={image}
+      url={_astroUrl}
       type={type}
       datePublished={datePublished}
       dateModified={dateModified}
@@ -143,12 +185,16 @@ const prefix = getLangPrefix(lang);
       src="https://www.googletagmanager.com/gtag/js?id=G-JGC5W00N7T"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag() {
+        dataLayer.push(arguments);
+      }
       gtag('js', new Date());
       gtag('config', 'G-JGC5W00N7T');
     </script>
   </head>
-    <body class="font-sans leading-relaxed text-forest bg-gradient-to-b from-white to-cream-50 antialiased">
+  <body
+    class="font-sans leading-relaxed text-forest bg-gradient-to-b from-white to-cream-50 antialiased"
+  >
     <LanguageBanner lang={lang} />
     <Navbar lang={lang} />
     <SearchModal searchIndex={searchIndex} lang={lang} />
@@ -160,7 +206,12 @@ const prefix = getLangPrefix(lang);
     <Footer lang={lang} />
 
     <!-- Floating .md button -->
-    <a id="md-btn" class="fixed bottom-6 left-6 z-40 w-12 h-12 bg-forest text-teal rounded-xl flex items-center justify-center font-mono text-sm font-bold no-underline shadow-card hover:-translate-y-0.5 hover:shadow-lg hover:bg-teal hover:text-white transition-all" title="Edit on GitHub" target="_blank">
+    <a
+      id="md-btn"
+      class="fixed bottom-6 left-6 z-40 w-12 h-12 bg-forest text-teal rounded-xl flex items-center justify-center font-mono text-sm font-bold no-underline shadow-card hover:-translate-y-0.5 hover:shadow-lg hover:bg-teal hover:text-white transition-all"
+      title="Edit on GitHub"
+      target="_blank"
+    >
       .md
     </a>
 
@@ -173,7 +224,14 @@ const prefix = getLangPrefix(lang);
 
         let target = '/README.md';
 
-        if (pathname === '/' || pathname === '/en' || pathname === '/en/' || pathname === '/es' || pathname === '/es/' || pathname === '/index.html') {
+        if (
+          pathname === '/' ||
+          pathname === '/en' ||
+          pathname === '/en/' ||
+          pathname === '/es' ||
+          pathname === '/es/' ||
+          pathname === '/index.html'
+        ) {
           target = '/README.md';
         } else if (pathname.includes('/contribute')) {
           target = '/CONTRIBUTING.md';
@@ -182,19 +240,29 @@ const prefix = getLangPrefix(lang);
         } else if (pathname.includes('/graph')) {
           target = '/src/pages/graph.astro';
         } else if (pathname.includes('/map')) {
-          target = pathname.startsWith('/en') ? '/src/pages/en/map.astro' : '/src/pages/map.astro';
+          target = pathname.startsWith('/en')
+            ? '/src/pages/en/map.astro'
+            : '/src/pages/map.astro';
         } else if (pathname.includes('/about')) {
           target = '/src/pages/about.astro';
         } else {
           const isEn = pathname.startsWith('/en/');
           const isEs = pathname.startsWith('/es/');
-          const cleanPath = pathname.replace(/^\/(en|es)/, '').replace(/^\//, '').replace(/\/$/, '').replace('index.html', '');
+          const cleanPath = pathname
+            .replace(/^\/(en|es)/, '')
+            .replace(/^\//, '')
+            .replace(/\/$/, '')
+            .replace('index.html', '');
           const parts = cleanPath.split('/');
 
           if (parts.length > 0 && parts[0]) {
             const cat = parts[0];
             const catFolder = cat.charAt(0).toUpperCase() + cat.slice(1);
-            const prefix = isEn ? '/knowledge/en' : isEs ? '/knowledge/es' : '/knowledge';
+            const prefix = isEn
+              ? '/knowledge/en'
+              : isEs
+                ? '/knowledge/es'
+                : '/knowledge';
 
             if (parts.length === 1) {
               target = `${prefix}/${catFolder}/_${catFolder} Hub.md`;
@@ -214,18 +282,27 @@ const prefix = getLangPrefix(lang);
       function initScrollAnimations() {
         var els = document.querySelectorAll('.animate-on-scroll:not(.visible)');
         if (!els.length || !('IntersectionObserver' in window)) {
-          document.querySelectorAll('.animate-on-scroll').forEach(function(el) { el.classList.add('visible'); });
+          document
+            .querySelectorAll('.animate-on-scroll')
+            .forEach(function (el) {
+              el.classList.add('visible');
+            });
           return;
         }
-        var observer = new IntersectionObserver(function(entries) {
-          entries.forEach(function(entry) {
-            if (entry.isIntersecting) {
-              entry.target.classList.add('visible');
-              observer.unobserve(entry.target);
-            }
-          });
-        }, { threshold: 0.15 });
-        els.forEach(function(el) { observer.observe(el); });
+        var observer = new IntersectionObserver(
+          function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) {
+                entry.target.classList.add('visible');
+                observer.unobserve(entry.target);
+              }
+            });
+          },
+          { threshold: 0.15 },
+        );
+        els.forEach(function (el) {
+          observer.observe(el);
+        });
       }
       initScrollAnimations();
       document.addEventListener('astro:page-load', initScrollAnimations);
@@ -260,10 +337,14 @@ const prefix = getLangPrefix(lang);
     --border-soft: 1px solid rgba(148, 163, 184, 0.2);
     /* === Taiwan Typography System === */
     --font-title: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
-    --font-reading: 'LXGW WenKai TC', 'LXGW WenKai TC Light', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
-    --font-interface: 'Noto Sans TC', 'Source Han Sans TC', 'PingFang TC', sans-serif;
+    --font-reading:
+      'LXGW WenKai TC', 'LXGW WenKai TC Light', 'Noto Sans TC',
+      'Source Han Sans TC', sans-serif;
+    --font-interface:
+      'Noto Sans TC', 'Source Han Sans TC', 'PingFang TC', sans-serif;
     --font-quote: 'LXGW WenKai TC', 'Noto Serif TC', serif;
-    --font-mono: 'SF Mono', 'Fira Code', 'Source Code Pro', 'Consolas', monospace;
+    --font-mono:
+      'SF Mono', 'Fira Code', 'Source Code Pro', 'Consolas', monospace;
     /* Legacy compatibility */
     --font-editorial: var(--font-title);
     --title-display-size: clamp(2.25rem, 5vw, 3.2rem);
@@ -279,8 +360,7 @@ const prefix = getLangPrefix(lang);
   }
 
   /* Image constraints for article content */
-=======
-  html {
+  ======= html {
     font-size: 118%;
   }
   :root {
@@ -306,10 +386,14 @@ const prefix = getLangPrefix(lang);
     --border-soft: 1px solid rgba(148, 163, 184, 0.2);
     /* === Taiwan Typography System === */
     --font-title: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
-    --font-reading: 'LXGW WenKai TC', 'LXGW WenKai TC Light', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
-    --font-interface: 'Noto Sans TC', 'Source Han Sans TC', 'PingFang TC', sans-serif;
+    --font-reading:
+      'LXGW WenKai TC', 'LXGW WenKai TC Light', 'Noto Sans TC',
+      'Source Han Sans TC', sans-serif;
+    --font-interface:
+      'Noto Sans TC', 'Source Han Sans TC', 'PingFang TC', sans-serif;
     --font-quote: 'LXGW WenKai TC', 'Noto Serif TC', serif;
-    --font-mono: 'SF Mono', 'Fira Code', 'Source Code Pro', 'Consolas', monospace;
+    --font-mono:
+      'SF Mono', 'Fira Code', 'Source Code Pro', 'Consolas', monospace;
     /* Legacy compatibility */
     --font-editorial: var(--font-title);
     --title-display-size: clamp(2.25rem, 5vw, 3.2rem);
@@ -367,7 +451,9 @@ const prefix = getLangPrefix(lang);
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
     /* 優化中文字體顯示 */
-    font-feature-settings: "kern" 1, "liga" 1;
+    font-feature-settings:
+      'kern' 1,
+      'liga' 1;
   }
 
   /* Taiwan Typography: 標題字體層級 */
@@ -449,19 +535,27 @@ const prefix = getLangPrefix(lang);
   }
 
   /* Global link styles for article prose content only */
-  main .prose a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.btn-ghost):not([class*="btn"]) {
+  main
+    .prose
+    a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.btn-ghost):not(
+      [class*='btn']
+    ) {
     color: theme('colors.teal.DEFAULT');
     text-decoration: none;
     border-bottom: 1px solid theme('colors.teal.200');
     padding-bottom: 1px;
     transition: all 0.2s ease;
   }
-  main .prose a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.btn-ghost):not([class*="btn"]):hover {
+  main
+    .prose
+    a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.btn-ghost):not(
+      [class*='btn']
+    ):hover {
     color: theme('colors.forest.DEFAULT');
     border-bottom-color: theme('colors.teal.DEFAULT');
   }
   /* External links get an icon */
-  main .prose a[target="_blank"]::after {
+  main .prose a[target='_blank']::after {
     content: '↗';
     font-size: 0.8em;
     margin-left: 0.2em;

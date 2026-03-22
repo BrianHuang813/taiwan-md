@@ -46,7 +46,7 @@ export const ui = {
     'nav.explore': '🕸️ Knowledge Graph',
     'nav.graph': '🕸️ Graph',
     'nav.graph-view': 'Knowledge Graph',
-    'nav.map': '📍 Geographic Taiwan',
+    'nav.map': '📍 Map',
     'nav.contribute': '✋ Contribute',
     'nav.resources': '🔗 Resources',
     'nav.data': '📊 Data Taiwan',
@@ -136,13 +136,17 @@ export const ui = {
     'journey.subtitle': 'Choose your path',
     'journey.begin': 'Start Exploring',
     'journey.nature.title': 'Nature & Landscape',
-    'journey.nature.desc': 'From Taroko Gorge to Yushan, explore Taiwan\'s stunning natural world',
+    'journey.nature.desc':
+      "From Taroko Gorge to Yushan, explore Taiwan's stunning natural world",
     'journey.history.title': 'History & Society',
-    'journey.history.desc': 'Trace the arc of Taiwan\'s story from ancient times to today',
+    'journey.history.desc':
+      "Trace the arc of Taiwan's story from ancient times to today",
     'journey.culture.title': 'Culture & Arts',
-    'journey.culture.desc': 'Dive into the rich tapestry of Taiwanese traditions and creativity',
+    'journey.culture.desc':
+      'Dive into the rich tapestry of Taiwanese traditions and creativity',
     'journey.flavors.title': 'Flavors of Taiwan',
-    'journey.flavors.desc': 'From night market classics to fine dining, taste Taiwan\'s culinary soul',
+    'journey.flavors.desc':
+      "From night market classics to fine dining, taste Taiwan's culinary soul",
     // Article page
     'article.toc': 'Table of Contents',
     'article.sources': 'Sources',
@@ -165,16 +169,23 @@ export const ui = {
     'article.articles': 'articles',
     'article.langLabel': 'Language',
     'article.disclaimer.title': 'About this article',
-    'article.disclaimer.body': 'This article was collaboratively written with AI assistance and community review.',
+    'article.disclaimer.body':
+      'This article was collaboratively written with AI assistance and community review.',
     'article.tts.play': 'Listen',
     'article.tts.stop': 'Stop',
     // Categories shorthand
     'cat.history': 'History',
+    'cat.geography': 'Geography',
     'cat.culture': 'Culture',
     'cat.food': 'Food',
+    'cat.art': 'Art',
+    'cat.music': 'Music',
     'cat.technology': 'Technology',
     'cat.nature': 'Nature',
+    'cat.people': 'People',
     'cat.society': 'Society',
+    'cat.economy': 'Economy',
+    'cat.lifestyle': 'Lifestyle',
     'cat.cta': 'Explore all articles',
     // Footer extras
     'footer.built': 'Built with ❤️ for Taiwan',
@@ -185,7 +196,8 @@ export const ui = {
     'search.hint': 'Press Enter to search',
     // Welcome modal
     'welcome.title': 'Welcome to Taiwan.md',
-    'welcome.slide1': 'An open-source knowledge base about Taiwan, built by the community',
+    'welcome.slide1':
+      'An open-source knowledge base about Taiwan, built by the community',
     'welcome.slide2': 'Curated Journeys',
     'welcome.slide3': 'Interactive Map',
     'welcome.slide4': 'Multiple Languages',
@@ -328,11 +340,17 @@ export const ui = {
     'article.tts.stop': '停止',
     // Categories shorthand
     'cat.history': '歷史',
+    'cat.geography': '地理',
     'cat.culture': '文化',
     'cat.food': '美食',
+    'cat.art': '藝術',
+    'cat.music': '音樂',
     'cat.technology': '科技',
     'cat.nature': '自然',
+    'cat.people': '人物',
     'cat.society': '社會',
+    'cat.economy': '經濟',
+    'cat.lifestyle': '生活',
     'cat.cta': '探索所有文章',
     // Footer extras
     'footer.built': '用 ❤️ 為台灣而建',
@@ -355,10 +373,10 @@ export const ui = {
   },
   es: {
     'nav.home': 'Inicio',
-    'nav.map': '📍 Mapa Interactivo',
+    'nav.map': '📍 Mapa',
     'nav.contribute': '✋ Contribuir',
     'nav.about': 'Acerca de',
-    'nav.graph': '🕸️ Grafo de Conocimiento',
+    'nav.graph': '🕸️ Grafo',
     'nav.graph-view': 'Grafo de Conocimiento',
     'nav.resources': '🔗 Recursos',
     'nav.data': '📊 Datos',
@@ -366,7 +384,8 @@ export const ui = {
     'nav.projects': 'Proyectos',
     'nav.language-switch': 'Idioma',
     'nav.search-modal.input-placeholder': 'Buscar artículos...',
-    'nav.search-modal.type-to-search': 'Escribe para buscar en todos los artículos',
+    'nav.search-modal.type-to-search':
+      'Escribe para buscar en todos los artículos',
     'footer.explore': 'Explorar',
     'footer.project': 'Proyecto',
     'footer.about': 'Acerca de',
@@ -432,8 +451,10 @@ export const ui = {
     'nav.changelog': 'Historial',
     // Hero
     'hero.title': 'Descubre Taiwán',
-    'hero.subtitle': 'Historias, cultura y conocimiento desde el corazón de Asia',
-    'hero.description': 'Una base de conocimiento abierta construida por la comunidad',
+    'hero.subtitle':
+      'Historias, cultura y conocimiento desde el corazón de Asia',
+    'hero.description':
+      'Una base de conocimiento abierta construida por la comunidad',
     'hero.cta.journey': 'Comenzar el Recorrido',
     'hero.cta.map': 'Explorar el Mapa',
     // Journey section
@@ -441,13 +462,17 @@ export const ui = {
     'journey.subtitle': 'Elige tu camino',
     'journey.begin': 'Explorar',
     'journey.nature.title': 'Naturaleza y Paisaje',
-    'journey.nature.desc': 'De Taroko a Yushan, explora el impresionante mundo natural de Taiwán',
+    'journey.nature.desc':
+      'De Taroko a Yushan, explora el impresionante mundo natural de Taiwán',
     'journey.history.title': 'Historia y Sociedad',
-    'journey.history.desc': 'Recorre el arco de la historia de Taiwán desde la antigüedad hasta hoy',
+    'journey.history.desc':
+      'Recorre el arco de la historia de Taiwán desde la antigüedad hasta hoy',
     'journey.culture.title': 'Cultura y Artes',
-    'journey.culture.desc': 'Sumérgete en el rico tapiz de las tradiciones y la creatividad taiwanesa',
+    'journey.culture.desc':
+      'Sumérgete en el rico tapiz de las tradiciones y la creatividad taiwanesa',
     'journey.flavors.title': 'Sabores de Taiwán',
-    'journey.flavors.desc': 'De los clásicos del mercado nocturno a la alta cocina, saborea el alma culinaria de Taiwán',
+    'journey.flavors.desc':
+      'De los clásicos del mercado nocturno a la alta cocina, saborea el alma culinaria de Taiwán',
     // Article page
     'article.toc': 'Índice',
     'article.sources': 'Fuentes',
@@ -470,16 +495,23 @@ export const ui = {
     'article.articles': 'artículos',
     'article.langLabel': 'Idioma',
     'article.disclaimer.title': 'Sobre este artículo',
-    'article.disclaimer.body': 'Este artículo fue escrito en colaboración con asistencia de IA y revisión comunitaria.',
+    'article.disclaimer.body':
+      'Este artículo fue escrito en colaboración con asistencia de IA y revisión comunitaria.',
     'article.tts.play': 'Escuchar',
     'article.tts.stop': 'Detener',
     // Categories shorthand
     'cat.history': 'Historia',
+    'cat.geography': 'Geografía',
     'cat.culture': 'Cultura',
     'cat.food': 'Gastronomía',
+    'cat.art': 'Arte',
+    'cat.music': 'Música',
     'cat.technology': 'Tecnología',
     'cat.nature': 'Naturaleza',
+    'cat.people': 'Personas',
     'cat.society': 'Sociedad',
+    'cat.economy': 'Economía',
+    'cat.lifestyle': 'Estilo de vida',
     'cat.cta': 'Explorar todos los artículos',
     // Footer extras
     'footer.built': 'Construido con ❤️ para Taiwán',
@@ -490,7 +522,8 @@ export const ui = {
     'search.hint': 'Pulsa Enter para buscar',
     // Welcome modal
     'welcome.title': 'Bienvenido a Taiwan.md',
-    'welcome.slide1': 'Una base de conocimiento de código abierto sobre Taiwán, construida por la comunidad',
+    'welcome.slide1':
+      'Una base de conocimiento de código abierto sobre Taiwán, construida por la comunidad',
     'welcome.slide2': 'Recorridos Curados',
     'welcome.slide3': 'Mapa Interactivo',
     'welcome.slide4': 'Múltiples Idiomas',
@@ -527,7 +560,7 @@ export function t(key: string, lang: Lang = defaultLang): string {
     return ui.en[key as keyof typeof ui.en];
   }
   if (key in ui['zh-TW']) {
-    return ui['zh-TW'][key as keyof typeof ui['zh-TW']];
+    return ui['zh-TW'][key as keyof (typeof ui)['zh-TW']];
   }
   return key;
 }

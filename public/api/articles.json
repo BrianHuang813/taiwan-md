@@ -20,13 +20,7 @@
     "title": "二二八事件",
     "description": "1947年改變台灣歷史軌跡的重大事件，從事件爆發到轉型正義的漫長路程",
     "category": "History",
-    "tags": [
-      "歷史",
-      "政治",
-      "轉型正義",
-      "白色恐怖",
-      "民主化"
-    ],
+    "tags": ["歷史", "政治", "轉型正義", "白色恐怖", "民主化"],
     "url": "https://taiwan.md/History/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6",
     "readingTime": 11,
     "featured": false,
@@ -66,13 +60,7 @@
     "title": "人權與性別平等",
     "description": "台灣在人權保障與性別平等方面的進步歷程，從威權體制下的人權侵害到成為亞洲人權先驅",
     "category": "Society",
-    "tags": [
-      "Society",
-      "人權",
-      "性別平等",
-      "同性婚姻",
-      "轉型正義"
-    ],
+    "tags": ["Society", "人權", "性別平等", "同性婚姻", "轉型正義"],
     "url": "https://taiwan.md/Society/%E4%BA%BA%E6%AC%8A%E8%88%87%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89",
     "readingTime": 8,
     "featured": false,
@@ -102,13 +90,7 @@
     "title": "中鋼：鐵頭部長與十大建設的鋼鐵傳奇",
     "description": "從趙耀東歐美談判智取技術，到高雄小港升起的第一縷白煙，中鋼用50年打造台灣重工業脊樑，是十大建設最成功的明珠",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "鋼鐵業",
-      "十大建設",
-      "重工業"
-    ],
+    "tags": ["Economy", "企業", "鋼鐵業", "十大建設", "重工業"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E4%B8%AD%E9%8B%BC",
     "readingTime": 10,
     "featured": false,
@@ -119,14 +101,7 @@
     "title": "五月天",
     "description": "從師大附中走向世界舞台，定義華語搖滾精神的永遠少年",
     "category": "People",
-    "tags": [
-      "人物",
-      "樂團",
-      "搖滾樂",
-      "華語音樂",
-      "金曲獎",
-      "演唱會"
-    ],
+    "tags": ["人物", "樂團", "搖滾樂", "華語音樂", "金曲獎", "演唱會"],
     "url": "https://taiwan.md/People/%E4%BA%94%E6%9C%88%E5%A4%A9",
     "readingTime": 7,
     "featured": false,
@@ -137,12 +112,7 @@
     "title": "仁寶電腦",
     "description": "全球第二大筆電代工龍頭，台灣ODM產業的重要推手",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "電子代工",
-      "ODM"
-    ],
+    "tags": ["Economy", "企業", "電子代工", "ODM"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E4%BB%81%E5%AF%B6%E9%9B%BB%E8%85%A6",
     "readingTime": 17,
     "featured": false,
@@ -153,14 +123,7 @@
     "title": "太陽花學運",
     "description": "一個30秒的麥克風宣布，最終讓台灣對中貿易依存度從42%跌至32%——十年後回望，這場佔領運動真正改變的不是任何法案，而是台灣的經濟命運",
     "category": "Society",
-    "tags": [
-      "Society",
-      "歷史",
-      "政治",
-      "公民運動",
-      "科技",
-      "民主"
-    ],
+    "tags": ["Society", "歷史", "政治", "公民運動", "科技", "民主"],
     "url": "https://taiwan.md/Society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B",
     "readingTime": 16,
     "featured": true,
@@ -171,13 +134,7 @@
     "title": "方序中",
     "description": "金曲獎金馬獎視覺設計操刀者，究方社創辦人，台灣視覺識別設計領軍人物",
     "category": "People",
-    "tags": [
-      "設計師",
-      "視覺識別",
-      "金曲獎",
-      "金馬獎",
-      "究方社"
-    ],
+    "tags": ["設計師", "視覺識別", "金曲獎", "金馬獎", "究方社"],
     "url": "https://taiwan.md/People/%E6%96%B9%E5%BA%8F%E4%B8%AD",
     "readingTime": 11,
     "featured": false,
@@ -188,12 +145,7 @@
     "title": "日治時期",
     "description": "1895-1945年日本統治台灣50年，帶來全面現代化建設與制度化管理，同時實施同化政策，深刻影響台灣社會發展",
     "category": "History",
-    "tags": [
-      "History",
-      "日本統治",
-      "現代化",
-      "皇民化運動"
-    ],
+    "tags": ["History", "日本統治", "現代化", "皇民化運動"],
     "url": "https://taiwan.md/History/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F",
     "readingTime": 7,
     "featured": true,
@@ -204,11 +156,7 @@
     "title": "日治時期台灣文學",
     "description": "",
     "category": "Art",
-    "tags": [
-      "文學",
-      "日治時期",
-      "殖民文學"
-    ],
+    "tags": ["文學", "日治時期", "殖民文學"],
     "url": "https://taiwan.md/Art/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E6%96%87%E5%AD%B8",
     "readingTime": 17,
     "featured": false,
@@ -219,14 +167,7 @@
     "title": "牛肉麵",
     "description": "從外省移民鄉愁到台灣國民美食，牛肉麵的文化融合與全球飄香",
     "category": "Food",
-    "tags": [
-      "美食",
-      "牛肉麵",
-      "外省菜",
-      "文化融合",
-      "台北牛肉麵節",
-      "米其林"
-    ],
+    "tags": ["美食", "牛肉麵", "外省菜", "文化融合", "台北牛肉麵節", "米其林"],
     "url": "https://taiwan.md/Food/%E7%89%9B%E8%82%89%E9%BA%B5",
     "readingTime": 17,
     "featured": true,
@@ -237,12 +178,7 @@
     "title": "王永慶",
     "description": "台塑集團創辦人，從米店起家到石化帝國的經營之神",
     "category": "People",
-    "tags": [
-      "企業家",
-      "台塑集團",
-      "石化工業",
-      "經營管理"
-    ],
+    "tags": ["企業家", "台塑集團", "石化工業", "經營管理"],
     "url": "https://taiwan.md/People/%E7%8E%8B%E6%B0%B8%E6%85%B6",
     "readingTime": 5,
     "featured": false,
@@ -253,12 +189,7 @@
     "title": "王建民",
     "description": "台灣旅美棒球投手，伸卡球威震大聯盟",
     "category": "People",
-    "tags": [
-      "人物",
-      "棒球",
-      "運動",
-      "職業運動員"
-    ],
+    "tags": ["人物", "棒球", "運動", "職業運動員"],
     "url": "https://taiwan.md/People/%E7%8E%8B%E5%BB%BA%E6%B0%91",
     "readingTime": 8,
     "featured": false,
@@ -310,12 +241,7 @@
     "title": "半導體產業",
     "description": "台灣半導體產業，特別是台積電，不僅是台灣經濟的重要支柱，更在全球科技生態系統中扮演關鍵角色。從智慧手機、電腦到人工智慧晶片，幾乎所有現代科技產品都依賴台積電的先進製程。這種技術優勢形成了「矽盾」效應，使台灣在地緣政治中具有重要的戰略價值。",
     "category": "Technology",
-    "tags": [
-      "科技",
-      "半導體",
-      "TSMC",
-      "產業"
-    ],
+    "tags": ["科技", "半導體", "TSMC", "產業"],
     "url": "https://taiwan.md/Technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD",
     "readingTime": 11,
     "featured": false,
@@ -326,14 +252,7 @@
     "title": "半導體產業",
     "description": "從張忠謀的歷史賭注到2奈米時代：台積電如何讓台灣成為全球科技命脈",
     "category": "半導體產業.md",
-    "tags": [
-      "半導體",
-      "TSMC",
-      "台積電",
-      "先進製程",
-      "科技島",
-      "矽盾"
-    ],
+    "tags": ["半導體", "TSMC", "台積電", "先進製程", "科技島", "矽盾"],
     "url": "https://taiwan.md/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD",
     "readingTime": 19,
     "featured": true,
@@ -344,14 +263,7 @@
     "title": "台泥：台灣第一上市公司的綠色轉型傳奇",
     "description": "1962年台灣證交所為它而生，股票代號1101象徵台股起源。從辜家三代經營76年，台泥用一座座水泥窯見證台灣建設奇蹟，如今轉型綠色企業迎戰碳中和時代",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "水泥業",
-      "建材",
-      "國營民營化",
-      "綠色轉型"
-    ],
+    "tags": ["Economy", "企業", "水泥業", "建材", "國營民營化", "綠色轉型"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E6%B3%A5",
     "readingTime": 12,
     "featured": false,
@@ -362,13 +274,7 @@
     "title": "台海危機與兩岸關係發展",
     "description": "回顧台海三次重大危機及兩岸關係七十餘年發展歷程，理解台海局勢的歷史脈絡與當代挑戰",
     "category": "History",
-    "tags": [
-      "兩岸關係",
-      "台海危機",
-      "歷史",
-      "國際關係",
-      "地緣政治"
-    ],
+    "tags": ["兩岸關係", "台海危機", "歷史", "國際關係", "地緣政治"],
     "url": "https://taiwan.md/History/%E5%8F%B0%E6%B5%B7%E5%8D%B1%E6%A9%9F%E8%88%87%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82%E7%99%BC%E5%B1%95",
     "readingTime": 21,
     "featured": true,
@@ -379,13 +285,7 @@
     "title": "台灣5G網路建設與數位轉型",
     "description": "台灣從4G領先到5G布局，探索數位轉型國家戰略與智慧應用發展歷程",
     "category": "Technology",
-    "tags": [
-      "5G",
-      "數位轉型",
-      "數位發展部",
-      "智慧城市",
-      "電信產業"
-    ],
+    "tags": ["5G", "數位轉型", "數位發展部", "智慧城市", "電信產業"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A35G%E7%B6%B2%E8%B7%AF%E5%BB%BA%E8%A8%AD%E8%88%87%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B",
     "readingTime": 23,
     "featured": true,
@@ -396,13 +296,7 @@
     "title": "台灣人工智慧實驗室 (Taiwan AI Labs)",
     "description": "由「PTT之父」杜奕瑾創立的非營利 AI 研究機構，專注智慧醫療、智慧城市與假訊息防制，推動科技向善與開源精神",
     "category": "Technology",
-    "tags": [
-      "人工智慧",
-      "智慧醫療",
-      "杜奕瑾",
-      "科技創新",
-      "資訊戰防制"
-    ],
+    "tags": ["人工智慧", "智慧醫療", "杜奕瑾", "科技創新", "資訊戰防制"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%AF%A6%E9%A9%97%E5%AE%A4",
     "readingTime": 6,
     "featured": true,
@@ -413,11 +307,7 @@
     "title": "台灣人物知識庫企劃 — 200 人計畫",
     "description": "Taiwan.md 人物頁面擴充路線圖，目標涵蓋 200 位代表台灣的重要人物",
     "category": "People",
-    "tags": [
-      "企劃",
-      "People",
-      "roadmap"
-    ],
+    "tags": ["企劃", "People", "roadmap"],
     "url": "https://taiwan.md/People/PEOPLE-ROADMAP",
     "readingTime": 22,
     "featured": false,
@@ -428,13 +318,7 @@
     "title": "台灣小吃",
     "description": "豐富多元的台灣小吃文化，融合閩南、客家、外省、原住民與現代創新的美食傳統",
     "category": "Food",
-    "tags": [
-      "Food",
-      "小吃",
-      "街頭美食",
-      "夜市",
-      "台灣料理"
-    ],
+    "tags": ["Food", "小吃", "街頭美食", "夜市", "台灣料理"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83",
     "readingTime": 8,
     "featured": true,
@@ -483,14 +367,7 @@
     "title": "台灣五大地形與地理結構：從山脈到平原的島嶼風貌",
     "description": "探索台灣獨特的地理結構，從中央山脈到西部平原，認識這座島嶼的地形多樣性",
     "category": "Geography",
-    "tags": [
-      "地理",
-      "地形",
-      "山脈",
-      "平原",
-      "台灣",
-      "自然地理"
-    ],
+    "tags": ["地理", "地形", "山脈", "平原", "台灣", "自然地理"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E4%BA%94%E5%A4%A7%E5%9C%B0%E5%BD%A2%E8%88%87%E5%9C%B0%E7%90%86%E7%B5%90%E6%A7%8B",
     "readingTime": 15,
     "featured": true,
@@ -501,13 +378,7 @@
     "title": "台灣公園與日常休閒",
     "description": "從清晨太極到夜間散步——台灣公園作為跨世代社交場域的文化觀察",
     "category": "Lifestyle",
-    "tags": [
-      "公園",
-      "休閒",
-      "社交文化",
-      "跨世代",
-      "日常生活"
-    ],
+    "tags": ["公園", "休閒", "社交文化", "跨世代", "日常生活"],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%9C%92%E8%88%87%E6%97%A5%E5%B8%B8%E4%BC%91%E9%96%92",
     "readingTime": 14,
     "featured": false,
@@ -518,14 +389,7 @@
     "title": "台灣太空產業發展：從福衛計畫到商業太空時代",
     "description": "台灣太空產業從早期福衛衛星發展，到近年福衛八號量產化，以及立方衛星計畫推動商業太空供應鏈的發展歷程",
     "category": "Technology",
-    "tags": [
-      "太空產業",
-      "衛星",
-      "TASA",
-      "福衛",
-      "太空科技",
-      "商業太空"
-    ],
+    "tags": ["太空產業", "衛星", "TASA", "福衛", "太空科技", "商業太空"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E5%A4%AA%E7%A9%BA%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
     "readingTime": 20,
     "featured": true,
@@ -536,14 +400,7 @@
     "title": "台灣手搖飲文化",
     "description": "從珍珠奶茶到精品茶飲，台灣手搖飲文化的崛起與全球擴張",
     "category": "Food",
-    "tags": [
-      "美食",
-      "手搖飲",
-      "珍珠奶茶",
-      "茶飲",
-      "文化輸出",
-      "品牌國際化"
-    ],
+    "tags": ["美食", "手搖飲", "珍珠奶茶", "茶飲", "文化輸出", "品牌國際化"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%87%E5%8C%96",
     "readingTime": 15,
     "featured": true,
@@ -554,12 +411,7 @@
     "title": "台灣手路菜：正在消失的味覺記憶",
     "description": "從嘉義薄荷雞到菜尾湯，阿嬤的拿手好菜承載著家族記憶，卻正在時代變遷中慢慢失傳",
     "category": "Food",
-    "tags": [
-      "台灣美食",
-      "傳統料理",
-      "家族記憶",
-      "手路菜"
-    ],
+    "tags": ["台灣美食", "傳統料理", "家族記憶", "手路菜"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%89%8B%E8%B7%AF%E8%8F%9C",
     "readingTime": 10,
     "featured": false,
@@ -570,13 +422,7 @@
     "title": "台灣文化創意園區發展",
     "description": "從舊建築活化到創意聚落，台灣文化創意園區的發展歷程與創新模式",
     "category": "Culture",
-    "tags": [
-      "文創園區",
-      "舊建築活化",
-      "創意產業",
-      "都市更新",
-      "文化保存"
-    ],
+    "tags": ["文創園區", "舊建築活化", "創意產業", "都市更新", "文化保存"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
     "readingTime": 18,
     "featured": false,
@@ -587,11 +433,7 @@
     "title": "台灣文學史",
     "description": "",
     "category": "Art",
-    "tags": [
-      "文學",
-      "歷史",
-      "文化"
-    ],
+    "tags": ["文學", "歷史", "文化"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2",
     "readingTime": 17,
     "featured": false,
@@ -622,14 +464,7 @@
     "title": "台灣水果王國",
     "description": "2021年愛文芒果飆破每台斤百元，背後是果農與天災、市場、政治的三重搏鬥",
     "category": "台灣水果王國.md",
-    "tags": [
-      "水果",
-      "芒果",
-      "荔枝",
-      "釋迦",
-      "農業",
-      "外銷"
-    ],
+    "tags": ["水果", "芒果", "荔枝", "釋迦", "農業", "外銷"],
     "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%9E%9C%E7%8E%8B%E5%9C%8B",
     "readingTime": 12,
     "featured": false,
@@ -640,13 +475,7 @@
     "title": "台灣水庫與水資源管理",
     "description": "從缺水危機到水庫淤積，台灣水資源的挑戰與南北分配不均的困境",
     "category": "Geography",
-    "tags": [
-      "水資源",
-      "水庫",
-      "缺水",
-      "水利工程",
-      "氣候變遷"
-    ],
+    "tags": ["水資源", "水庫", "缺水", "水利工程", "氣候變遷"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E6%B0%B4%E5%BA%AB%E8%88%87%E6%B0%B4%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86",
     "readingTime": 23,
     "featured": false,
@@ -657,13 +486,7 @@
     "title": "台灣水彩畫的百年流變",
     "description": "從日治時期石川欽一郎的啟蒙，到當代簡忠威揚名國際，台灣水彩畫走過百年歷程，成為亞洲最活躍的水彩創作重鎮。",
     "category": "Art",
-    "tags": [
-      "Art",
-      "watercolor",
-      "painting",
-      "水彩",
-      "美術史"
-    ],
+    "tags": ["Art", "watercolor", "painting", "水彩", "美術史"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%B0%B4%E5%BD%A9%E7%95%AB%E7%9A%84%E7%99%BE%E5%B9%B4%E6%B5%81%E8%AE%8A",
     "readingTime": 11,
     "featured": false,
@@ -704,13 +527,7 @@
     "title": "台灣市場文化與傳統市場",
     "description": "從庶民生活的縮影，看見台灣社會的韌性與轉型",
     "category": "Lifestyle",
-    "tags": [
-      "傳統市場",
-      "庶民文化",
-      "社會功能",
-      "都市計畫",
-      "社區經濟"
-    ],
+    "tags": ["傳統市場", "庶民文化", "社會功能", "都市計畫", "社區經濟"],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E5%B8%82%E5%A0%B4%E6%96%87%E5%8C%96%E8%88%87%E5%82%B3%E7%B5%B1%E5%B8%82%E5%A0%B4",
     "readingTime": 15,
     "featured": false,
@@ -732,11 +549,7 @@
     "title": "台灣民謠與歌謠",
     "description": "",
     "category": "Music",
-    "tags": [
-      "音樂",
-      "民謠",
-      "歌謠"
-    ],
+    "tags": ["音樂", "民謠", "歌謠"],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E6%B0%91%E8%AC%A0%E8%88%87%E6%AD%8C%E8%AC%A0",
     "readingTime": 16,
     "featured": false,
@@ -747,13 +560,7 @@
     "title": "台灣生態多樣性熱點",
     "description": "3.6 萬平方公里島嶼擠下 5.9 萬種生物，密度是全球平均值的 100 倍",
     "category": "Geography",
-    "tags": [
-      "生態",
-      "生物多樣性",
-      "特有種",
-      "保育",
-      "國家公園"
-    ],
+    "tags": ["生態", "生物多樣性", "特有種", "保育", "國家公園"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7%E7%86%B1%E9%BB%9E",
     "readingTime": 14,
     "featured": false,
@@ -783,15 +590,7 @@
     "title": "台灣石虎保育",
     "description": "全台剩不到五百隻的幽靈貓——當最後的原生貓科走上消失的邊緣",
     "category": "Nature",
-    "tags": [
-      "石虎",
-      "保育",
-      "路殺",
-      "棲地",
-      "苗栗",
-      "瀕危物種",
-      "生態"
-    ],
+    "tags": ["石虎", "保育", "路殺", "棲地", "苗栗", "瀕危物種", "生態"],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E7%9F%B3%E8%99%8E%E4%BF%9D%E8%82%B2",
     "readingTime": 15,
     "featured": false,
@@ -802,14 +601,7 @@
     "title": "台灣交通系統",
     "description": "高鐵 90 分鐘縱貫南北，捷運密織都市血脈，機車穿梭巷弄間",
     "category": "Lifestyle",
-    "tags": [
-      "生活",
-      "交通",
-      "高鐵",
-      "捷運",
-      "機車",
-      "台灣"
-    ],
+    "tags": ["生活", "交通", "高鐵", "捷運", "機車", "台灣"],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E4%BA%A4%E9%80%9A%E7%B3%BB%E7%B5%B1",
     "readingTime": 12,
     "featured": true,
@@ -820,14 +612,7 @@
     "title": "台灣交通運輸網絡",
     "description": "高鐵、捷運、公路、航空，編織移動台灣的立體交通網絡",
     "category": "Geography",
-    "tags": [
-      "交通運輸",
-      "高鐵",
-      "捷運",
-      "公路",
-      "航空",
-      "港口"
-    ],
+    "tags": ["交通運輸", "高鐵", "捷運", "公路", "航空", "港口"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E4%BA%A4%E9%80%9A%E9%81%8B%E8%BC%B8%E7%B6%B2%E7%B5%A1",
     "readingTime": 32,
     "featured": false,
@@ -838,13 +623,7 @@
     "title": "台灣企業：中華電信",
     "description": "台灣最大電信業者，從國營壟斷到數位轉型的領航者",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "電信業",
-      "數位轉型",
-      "國營企業民營化"
-    ],
+    "tags": ["Economy", "企業", "電信業", "數位轉型", "國營企業民營化"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1",
     "readingTime": 14,
     "featured": false,
@@ -855,13 +634,7 @@
     "title": "台灣企業：日月光半導體",
     "description": "全球第一大封測廠，建設公司老闆為何轉戰半導體？",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "半導體業",
-      "封裝測試",
-      "科技製造"
-    ],
+    "tags": ["Economy", "企業", "半導體業", "封裝測試", "科技製造"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E6%97%A5%E6%9C%88%E5%85%89%E5%8D%8A%E5%B0%8E%E9%AB%94",
     "readingTime": 12,
     "featured": false,
@@ -872,14 +645,7 @@
     "title": "台灣企業：台塑集團",
     "description": "台灣經營之神王永慶打造的石化王國，台塑四寶的製造傳奇",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "石化工業",
-      "台塑集團",
-      "傳統產業",
-      "台塑四寶"
-    ],
+    "tags": ["Economy", "企業", "石化工業", "台塑集團", "傳統產業", "台塑四寶"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98",
     "readingTime": 14,
     "featured": false,
@@ -888,18 +654,11 @@
   },
   {
     "title": "台灣企業：台達電子",
-    "description": "從30萬台幣到小行星命名：一個戰亂孤兒的電源帝國",
+    "description": "13 歲戰亂孤兒變身太空傳奇：30 萬台幣如何重新定義全球電力產業",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "電源管理",
-      "綠能科技",
-      "工業自動化",
-      "ESG"
-    ],
+    "tags": ["Economy", "企業", "電源管理", "綠能科技", "工業自動化", "ESG"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E9%81%94%E9%9B%BB%E5%AD%90",
-    "readingTime": 13,
+    "readingTime": 18,
     "featured": true,
     "date": "2026-03-22",
     "path": "Economy/台灣企業：台達電子.md"
@@ -908,14 +667,7 @@
     "title": "台灣企業：台積電",
     "description": "全球晶片代工龍頭，掌握人類數位文明的關鍵命脈",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "半導體",
-      "科技",
-      "製造業",
-      "台積電"
-    ],
+    "tags": ["Economy", "企業", "半導體", "科技", "製造業", "台積電"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB",
     "readingTime": 13,
     "featured": false,
@@ -946,12 +698,7 @@
     "title": "台灣企業：玉山金控",
     "description": "從信用卡專業銀行到數位金融先鋒，43歲最年輕金控總經理的突破故事",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "金融業",
-      "數位轉型"
-    ],
+    "tags": ["Economy", "企業", "金融業", "數位轉型"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%8E%89%E5%B1%B1%E9%87%91%E6%8E%A7",
     "readingTime": 9,
     "featured": false,
@@ -962,12 +709,7 @@
     "title": "台灣企業：長春石化",
     "description": "1949年台南小工廠到全球化工巨頭，「不上市不借錢」的隱形冠軍故事",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "石化業",
-      "化工"
-    ],
+    "tags": ["Economy", "企業", "石化業", "化工"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%95%B7%E6%98%A5%E7%9F%B3%E5%8C%96",
     "readingTime": 9,
     "featured": false,
@@ -978,13 +720,7 @@
     "title": "台灣企業：長榮海運",
     "description": "從一艘二手船到全球海運帝國，張榮發的藍海傳奇",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "海運業",
-      "物流",
-      "國際貿易"
-    ],
+    "tags": ["Economy", "企業", "海運業", "物流", "國際貿易"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%95%B7%E6%A6%AE%E6%B5%B7%E9%81%8B",
     "readingTime": 15,
     "featured": false,
@@ -995,14 +731,7 @@
     "title": "台灣企業：國泰金控",
     "description": "台灣最大金控集團，霖園集團打造的金融帝國",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "金融業",
-      "金控",
-      "銀行",
-      "保險"
-    ],
+    "tags": ["Economy", "企業", "金融業", "金控", "銀行", "保險"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%9C%8B%E6%B3%B0%E9%87%91%E6%8E%A7",
     "readingTime": 15,
     "featured": false,
@@ -1032,13 +761,7 @@
     "title": "台灣企業：統一企業",
     "description": "38歲高清愿從零開始，13歲童工如何打造6,576億營收帝國",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "食品業",
-      "零售業",
-      "品牌經營"
-    ],
+    "tags": ["Economy", "企業", "食品業", "零售業", "品牌經營"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%B5%B1%E4%B8%80%E4%BC%81%E6%A5%AD",
     "readingTime": 10,
     "featured": false,
@@ -1049,12 +772,7 @@
     "title": "台灣企業：瑞昱半導體",
     "description": "七個工程師200萬創業，讓小螃蟹爬進全世界每台電腦的傳奇故事",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "半導體",
-      "IC設計"
-    ],
+    "tags": ["Economy", "企業", "半導體", "IC設計"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%91%9E%E6%98%B1%E5%8D%8A%E5%B0%8E%E9%AB%94",
     "readingTime": 10,
     "featured": false,
@@ -1065,14 +783,7 @@
     "title": "台灣企業：廣達電腦",
     "description": "從工廠火災到全球筆電王，林百里如何建造AI時代的新帝國？",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "電子代工",
-      "ODM",
-      "AI雲端",
-      "筆記型電腦"
-    ],
+    "tags": ["Economy", "企業", "電子代工", "ODM", "AI雲端", "筆記型電腦"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%BB%A3%E9%81%94%E9%9B%BB%E8%85%A6",
     "readingTime": 14,
     "featured": false,
@@ -1083,14 +794,7 @@
     "title": "台灣企業：聯發科技",
     "description": "全球手機晶片挑戰者，從山寨機推手到AI晶片新星",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "半導體",
-      "晶片設計",
-      "IC設計",
-      "聯發科"
-    ],
+    "tags": ["Economy", "企業", "半導體", "晶片設計", "IC設計", "聯發科"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80",
     "readingTime": 15,
     "featured": false,
@@ -1101,14 +805,7 @@
     "title": "台灣企業：鴻海精密",
     "description": "全球最大電子代工帝國，iPhone 背後的隱形冠軍",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "電子製造",
-      "代工",
-      "鴻海",
-      "富士康"
-    ],
+    "tags": ["Economy", "企業", "電子製造", "代工", "鴻海", "富士康"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86",
     "readingTime": 14,
     "featured": false,
@@ -1119,13 +816,7 @@
     "title": "台灣冰品文化",
     "description": "從玉井芒果冰到雪花冰革命，探索台灣人冬天也要吃冰的獨特文化",
     "category": "Food",
-    "tags": [
-      "冰品",
-      "芒果冰",
-      "雪花冰",
-      "剉冰",
-      "ICE MONSTER"
-    ],
+    "tags": ["冰品", "芒果冰", "雪花冰", "剉冰", "ICE MONSTER"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%86%B0%E5%93%81%E6%96%87%E5%8C%96",
     "readingTime": 10,
     "featured": false,
@@ -1136,13 +827,7 @@
     "title": "台灣回收與資源循環文化",
     "description": "從垃圾島到回收典範的綠色革命",
     "category": "Lifestyle",
-    "tags": [
-      "垃圾不落地",
-      "四合一回收",
-      "環保文化",
-      "資源循環",
-      "綠色生活"
-    ],
+    "tags": ["垃圾不落地", "四合一回收", "環保文化", "資源循環", "綠色生活"],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E5%9B%9E%E6%94%B6%E8%88%87%E8%B3%87%E6%BA%90%E5%BE%AA%E7%92%B0%E6%96%87%E5%8C%96",
     "readingTime": 25,
     "featured": false,
@@ -1153,14 +838,7 @@
     "title": "台灣在國際標準中的標示問題",
     "description": "從 ISO 代碼到開源軟體——台灣的名字如何在全球數位基礎設施中被書寫、爭議與修正",
     "category": "Society",
-    "tags": [
-      "ISO 3166",
-      "國際標準",
-      "開源軟體",
-      "g0v",
-      "數位主權",
-      "台灣標示"
-    ],
+    "tags": ["ISO 3166", "國際標準", "開源軟體", "g0v", "數位主權", "台灣標示"],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E5%9C%A8%E5%9C%8B%E9%9A%9B%E6%A8%99%E6%BA%96%E4%B8%AD%E7%9A%84%E6%A8%99%E7%A4%BA%E5%95%8F%E9%A1%8C",
     "readingTime": 11,
     "featured": false,
@@ -1171,13 +849,7 @@
     "title": "台灣地方小吃地圖",
     "description": "從基隆廟口的鼎邊糊到屏東萬巒的豬腳，從新竹的貢丸到台東的釋迦，每個城市都有專屬的味覺DNA。跟著在地人的腳步，探索台灣22個縣市最具代表性的地方小吃，品味島嶼上最真實的庶民文化。",
     "category": "Food",
-    "tags": [
-      "地方小吃",
-      "在地美食",
-      "縣市特色",
-      "台灣美食地圖",
-      "庶民文化"
-    ],
+    "tags": ["地方小吃", "在地美食", "縣市特色", "台灣美食地圖", "庶民文化"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%9C%B0%E6%96%B9%E5%B0%8F%E5%90%83%E5%9C%B0%E5%9C%96",
     "readingTime": 21,
     "featured": true,
@@ -1207,13 +879,7 @@
     "title": "台灣米其林與精緻餐飲",
     "description": "2018年，米其林指南的紅色封面首次印上「TAIPEI」字樣，標誌著台灣餐飲業正式進入國際評價體系。從街邊小攤到星級餐廳，從庶民美食到精緻料理，台灣餐飲文化在國際舞台上展現出既傳統又創新的迷人風貌。",
     "category": "Food",
-    "tags": [
-      "米其林",
-      "精緻餐飲",
-      "星級餐廳",
-      "台灣美食",
-      "國際化"
-    ],
+    "tags": ["米其林", "精緻餐飲", "星級餐廳", "台灣美食", "國際化"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E8%88%87%E7%B2%BE%E7%B7%BB%E9%A4%90%E9%A3%B2",
     "readingTime": 20,
     "featured": true,
@@ -1224,13 +890,7 @@
     "title": "台灣米食文化",
     "description": "粽子、米粉、碗粿、麻糬等以稻米為核心的飲食傳統，承載著農業社會的記憶與節慶文化的意涵",
     "category": "Food",
-    "tags": [
-      "米食",
-      "稻米",
-      "傳統文化",
-      "節慶食品",
-      "農業"
-    ],
+    "tags": ["米食", "稻米", "傳統文化", "節慶食品", "農業"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E7%B1%B3%E9%A3%9F%E6%96%87%E5%8C%96",
     "readingTime": 9,
     "featured": false,
@@ -1241,13 +901,7 @@
     "title": "台灣老街文化與商業街區",
     "description": "從清代港口繁華到日治巴洛克洋樓，台灣老街是一部用磚瓦寫成的庶民史",
     "category": "Culture",
-    "tags": [
-      "老街",
-      "歷史街區",
-      "文化保存",
-      "觀光",
-      "建築"
-    ],
+    "tags": ["老街", "歷史街區", "文化保存", "觀光", "建築"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%80%81%E8%A1%97%E6%96%87%E5%8C%96%E8%88%87%E5%95%86%E6%A5%AD%E8%A1%97%E5%8D%80",
     "readingTime": 21,
     "featured": false,
@@ -1258,13 +912,7 @@
     "title": "台灣志工文化與公益參與",
     "description": "從慈濟功德會到災害救援，台灣社會深厚的志工傳統與公益參與精神",
     "category": "Society",
-    "tags": [
-      "志工服務",
-      "公益團體",
-      "慈善文化",
-      "社會參與",
-      "社區營造"
-    ],
+    "tags": ["志工服務", "公益團體", "慈善文化", "社會參與", "社區營造"],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E5%BF%97%E5%B7%A5%E6%96%87%E5%8C%96%E8%88%87%E5%85%AC%E7%9B%8A%E5%8F%83%E8%88%87",
     "readingTime": 15,
     "featured": false,
@@ -1275,12 +923,7 @@
     "title": "台灣步道文化與公民守護",
     "description": "從千里步道協會到iTrail平台，探索台灣獨特的步道守護文化與公民科學精神",
     "category": "Nature",
-    "tags": [
-      "自然",
-      "步道",
-      "公民科學",
-      "生態保育"
-    ],
+    "tags": ["自然", "步道", "公民科學", "生態保育"],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E6%AD%A5%E9%81%93%E6%96%87%E5%8C%96%E8%88%87%E5%85%AC%E6%B0%91%E5%AE%88%E8%AD%B7",
     "readingTime": 17,
     "featured": false,
@@ -1291,13 +934,7 @@
     "title": "台灣豆漿與早餐店",
     "description": "從永和豆漿的起源神話到美而美加盟王國，探索台灣早餐店的密度傳奇",
     "category": "Food",
-    "tags": [
-      "豆漿",
-      "早餐店",
-      "永和豆漿",
-      "燒餅油條",
-      "美而美"
-    ],
+    "tags": ["豆漿", "早餐店", "永和豆漿", "燒餅油條", "美而美"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E8%B1%86%E6%BC%BF%E8%88%87%E6%97%A9%E9%A4%90%E5%BA%97",
     "readingTime": 10,
     "featured": true,
@@ -1308,13 +945,7 @@
     "title": "台灣邦交國與國際外交",
     "description": "從 70 國到 12 國，台灣如何在沒有聯合國席位的情況下維持國際存在感",
     "category": "Society",
-    "tags": [
-      "外交",
-      "邦交國",
-      "國際關係",
-      "兩岸",
-      "聯合國"
-    ],
+    "tags": ["外交", "邦交國", "國際關係", "兩岸", "聯合國"],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E9%82%A6%E4%BA%A4%E5%9C%8B%E8%88%87%E5%9C%8B%E9%9A%9B%E5%A4%96%E4%BA%A4",
     "readingTime": 18,
     "featured": true,
@@ -1325,12 +956,7 @@
     "title": "台灣乖乖文化：綠色零食如何成為科技業守護神",
     "description": "從研究生的電腦到台積電機台，為什麼台灣人相信綠色乖乖能讓機器乖乖運作？",
     "category": "Culture",
-    "tags": [
-      "台灣文化",
-      "民俗信仰",
-      "科技業",
-      "都市傳說"
-    ],
+    "tags": ["台灣文化", "民俗信仰", "科技業", "都市傳說"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E4%B9%96%E4%B9%96%E6%96%87%E5%8C%96",
     "readingTime": 7,
     "featured": false,
@@ -1341,14 +967,7 @@
     "title": "台灣咖啡文化",
     "description": "獨立咖啡廳密度世界前三，從阿里山豆到咖啡廳辦公的島嶼咖啡學",
     "category": "Lifestyle",
-    "tags": [
-      "生活",
-      "咖啡",
-      "阿里山",
-      "路易莎",
-      "第三空間",
-      "台灣"
-    ],
+    "tags": ["生活", "咖啡", "阿里山", "路易莎", "第三空間", "台灣"],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E5%92%96%E5%95%A1%E6%96%87%E5%8C%96",
     "readingTime": 14,
     "featured": false,
@@ -1359,13 +978,7 @@
     "title": "台灣咖啡產業",
     "description": "從日治時期的種植起源到Simple Kaffa世界冠軍，台灣咖啡的百年進化史",
     "category": "Food",
-    "tags": [
-      "咖啡",
-      "古坑咖啡",
-      "阿里山咖啡",
-      "Simple Kaffa",
-      "第三波咖啡"
-    ],
+    "tags": ["咖啡", "古坑咖啡", "阿里山咖啡", "Simple Kaffa", "第三波咖啡"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%92%96%E5%95%A1%E7%94%A2%E6%A5%AD",
     "readingTime": 12,
     "featured": true,
@@ -1376,13 +989,7 @@
     "title": "台灣夜市小吃圖鑑",
     "description": "臭豆腐、大腸包小腸、雞排、地瓜球等夜市經典美食，展現台灣庶民飲食文化的創意與活力",
     "category": "Food",
-    "tags": [
-      "夜市",
-      "小吃",
-      "街頭美食",
-      "庶民文化",
-      "台灣味"
-    ],
+    "tags": ["夜市", "小吃", "街頭美食", "庶民文化", "台灣味"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82%E5%B0%8F%E5%90%83%E5%9C%96%E9%91%91",
     "readingTime": 11,
     "featured": false,
@@ -1393,14 +1000,7 @@
     "title": "台灣夜市文化與小吃風情",
     "description": "深度探索台灣夜市文化的形成背景、獨特魅力，以及代表性小吃的歷史故事與文化意義",
     "category": "Culture",
-    "tags": [
-      "夜市",
-      "小吃",
-      "庶民文化",
-      "飲食文化",
-      "觀夜生活",
-      "社交文化"
-    ],
+    "tags": ["夜市", "小吃", "庶民文化", "飲食文化", "觀夜生活", "社交文化"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82%E6%96%87%E5%8C%96%E8%88%87%E5%B0%8F%E5%90%83%E9%A2%A8%E6%83%85",
     "readingTime": 20,
     "featured": true,
@@ -1411,15 +1011,7 @@
     "title": "台灣宗教與寺廟文化",
     "description": "從媽祖遶境到佛道融合，探索台灣寺廟如何成為信仰、社群與文化的生活中心",
     "category": "Culture",
-    "tags": [
-      "宗教",
-      "寺廟",
-      "民間信仰",
-      "媽祖",
-      "佛教",
-      "道教",
-      "籤詩"
-    ],
+    "tags": ["宗教", "寺廟", "民間信仰", "媽祖", "佛教", "道教", "籤詩"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%AE%97%E6%95%99%E8%88%87%E5%AF%BA%E5%BB%9F%E6%96%87%E5%8C%96",
     "readingTime": 13,
     "featured": true,
@@ -1441,13 +1033,7 @@
     "title": "台灣板塊運動與地震活動",
     "description": "探討台灣位於歐亞板塊與菲律賓海板塊交界的地質特性，以及造成頻繁地震活動的原因",
     "category": "Geography",
-    "tags": [
-      "地質",
-      "板塊運動",
-      "地震",
-      "活動斷層",
-      "自然災害"
-    ],
+    "tags": ["地質", "板塊運動", "地震", "活動斷層", "自然災害"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E6%9D%BF%E5%A1%8A%E9%81%8B%E5%8B%95%E8%88%87%E5%9C%B0%E9%9C%87%E6%B4%BB%E5%8B%95",
     "readingTime": 14,
     "featured": true,
@@ -1458,15 +1044,7 @@
     "title": "台灣河川系統與水文特色：短急流與季節變遷的水文地理",
     "description": "探索台灣獨特的河川系統，從濁水溪到高屏溪，了解島嶼地形如何塑造台灣的水文特色",
     "category": "Geography",
-    "tags": [
-      "地理",
-      "河川",
-      "水文",
-      "濁水溪",
-      "高屏溪",
-      "淡水河",
-      "水資源"
-    ],
+    "tags": ["地理", "河川", "水文", "濁水溪", "高屏溪", "淡水河", "水資源"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E6%B2%B3%E5%B7%9D%E7%B3%BB%E7%B5%B1%E8%88%87%E6%B0%B4%E6%96%87%E7%89%B9%E8%89%B2",
     "readingTime": 17,
     "featured": true,
@@ -1477,13 +1055,7 @@
     "title": "台灣社區與里文化",
     "description": "從最基層的民主實踐到社區營造的社會創新",
     "category": "Society",
-    "tags": [
-      "里鄰制度",
-      "社區營造",
-      "社區大學",
-      "公民參與",
-      "地方自治"
-    ],
+    "tags": ["里鄰制度", "社區營造", "社區大學", "公民參與", "地方自治"],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E7%A4%BE%E5%8D%80%E8%88%87%E9%87%8C%E6%96%87%E5%8C%96",
     "readingTime": 20,
     "featured": false,
@@ -1494,14 +1066,7 @@
     "title": "台灣花布",
     "description": "從日治時期工廠製品到本土文化象徵，台灣花布的身份認同之旅",
     "category": "Culture",
-    "tags": [
-      "文化",
-      "客家",
-      "紡織",
-      "設計",
-      "本土化",
-      "文化復興"
-    ],
+    "tags": ["文化", "客家", "紡織", "設計", "本土化", "文化復興"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%8A%B1%E5%B8%83",
     "readingTime": 18,
     "featured": false,
@@ -1521,19 +1086,13 @@
   },
   {
     "title": "台灣長期照顧制度發展",
-    "description": "從長照1.0到2.0，台灣因應高齡化社會挑戰的長期照顧政策與服務體系建構",
+    "description": "全世界最先進的長照制度，卻同時存在著最大的隱形照顧體系",
     "category": "Society",
-    "tags": [
-      "長期照顧",
-      "高齡化",
-      "社會政策",
-      "長照2.0",
-      "居家服務"
-    ],
+    "tags": ["長期照顧", "高齡化", "外籍看護", "長照2.0", "制度矛盾"],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E9%95%B7%E6%9C%9F%E7%85%A7%E9%A1%A7%E5%88%B6%E5%BA%A6%E7%99%BC%E5%B1%95",
-    "readingTime": 17,
+    "readingTime": 19,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-22",
     "path": "Society/台灣長期照顧制度發展.md"
   },
   {
@@ -1570,13 +1129,7 @@
     "title": "台灣建築",
     "description": "從石板屋到摩天樓：一座島嶼的建築時光之旅",
     "category": "Art",
-    "tags": [
-      "建築",
-      "文化",
-      "歷史",
-      "原住民",
-      "日治"
-    ],
+    "tags": ["建築", "文化", "歷史", "原住民", "日治"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%89",
     "readingTime": 11,
     "featured": true,
@@ -1624,15 +1177,7 @@
     "title": "台灣皇蛾",
     "description": "全世界最大的蛾，翅膀展開如一本攤開的書——牠一生不吃東西，只為飛一趟",
     "category": "Nature",
-    "tags": [
-      "皇蛾",
-      "蛇頭蛾",
-      "Atlas Moth",
-      "蛾類",
-      "保育",
-      "昆蟲",
-      "生態"
-    ],
+    "tags": ["皇蛾", "蛇頭蛾", "Atlas Moth", "蛾類", "保育", "昆蟲", "生態"],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E7%9A%87%E8%9B%BE",
     "readingTime": 13,
     "featured": false,
@@ -1643,14 +1188,7 @@
     "title": "台灣穿山甲",
     "description": "全世界被走私最多的哺乳動物，在台灣找到了一個安全的家",
     "category": "Nature",
-    "tags": [
-      "穿山甲",
-      "保育",
-      "瀕危物種",
-      "走私",
-      "台北動物園",
-      "生態"
-    ],
+    "tags": ["穿山甲", "保育", "瀕危物種", "走私", "台北動物園", "生態"],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E7%A9%BF%E5%B1%B1%E7%94%B2",
     "readingTime": 11,
     "featured": false,
@@ -1661,14 +1199,7 @@
     "title": "台灣音樂產業與串流時代：從唱片行到數位平台的轉型之路",
     "description": "探討台灣音樂產業如何從唱片行黃金時代走過盜版危機，率先發展出KKBOX全球首個合法串流平台，到今日與Spotify、Apple Music並存的數位音樂生態",
     "category": "Music",
-    "tags": [
-      "音樂產業",
-      "串流音樂",
-      "KKBOX",
-      "數位音樂",
-      "唱片行",
-      "獨立音樂"
-    ],
+    "tags": ["音樂產業", "串流音樂", "KKBOX", "數位音樂", "唱片行", "獨立音樂"],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E9%9F%B3%E6%A8%82%E7%94%A2%E6%A5%AD%E8%88%87%E4%B8%B2%E6%B5%81%E6%99%82%E4%BB%A3",
     "readingTime": 18,
     "featured": true,
@@ -1697,13 +1228,7 @@
     "title": "台灣音響產業發展",
     "description": "從 OEM 代工到自有品牌，台灣音響產業的技術實力與全球市場地位",
     "category": "Technology",
-    "tags": [
-      "音響產業",
-      "電子製造",
-      "聲學技術",
-      "Hi-Fi",
-      "專業音響"
-    ],
+    "tags": ["音響產業", "電子製造", "聲學技術", "Hi-Fi", "專業音響"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E9%9F%B3%E9%9F%BF%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
     "readingTime": 12,
     "featured": false,
@@ -1751,13 +1276,7 @@
     "title": "台灣原住民音樂傳統",
     "description": "探索台灣 16 族原住民豐富的音樂文化，從古調吟唱到傳統樂器，見證數千年文化傳承",
     "category": "Music",
-    "tags": [
-      "原住民",
-      "傳統音樂",
-      "文化傳承",
-      "樂器",
-      "祭典"
-    ],
+    "tags": ["原住民", "傳統音樂", "文化傳承", "樂器", "祭典"],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%9F%B3%E6%A8%82%E5%82%B3%E7%B5%B1",
     "readingTime": 15,
     "featured": true,
@@ -1768,13 +1287,7 @@
     "title": "台灣原住民族16族文化地圖",
     "description": "探索台灣16個原住民族的分布區域、語言系統、重要祭典與當代創作發展，了解台灣原住民族的多元文化面貌",
     "category": "Culture",
-    "tags": [
-      "原住民族",
-      "文化",
-      "祭典",
-      "語言",
-      "當代創作"
-    ],
+    "tags": ["原住民族", "文化", "祭典", "語言", "當代創作"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F16%E6%97%8F%E6%96%87%E5%8C%96%E5%9C%B0%E5%9C%96",
     "readingTime": 10,
     "featured": false,
@@ -1803,13 +1316,7 @@
     "title": "台灣原住民族歷史與正名運動",
     "description": "從「番」到「原住民族」的正名歷程，一場持續數百年的身份認同與尊嚴之戰",
     "category": "History",
-    "tags": [
-      "原住民族",
-      "正名運動",
-      "身份認同",
-      "社會運動",
-      "文化保存"
-    ],
+    "tags": ["原住民族", "正名運動", "身份認同", "社會運動", "文化保存"],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E6%AD%B7%E5%8F%B2%E8%88%87%E6%AD%A3%E5%90%8D%E9%81%8B%E5%8B%95",
     "readingTime": 9,
     "featured": false,
@@ -1820,14 +1327,7 @@
     "title": "台灣原住民飲食文化",
     "description": "從小米到野菜，探索台灣原住民族傳統飲食智慧與文化傳承",
     "category": "Food",
-    "tags": [
-      "原住民",
-      "飲食文化",
-      "小米",
-      "野菜",
-      "傳統料理",
-      "部落美食"
-    ],
+    "tags": ["原住民", "飲食文化", "小米", "野菜", "傳統料理", "部落美食"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
     "readingTime": 13,
     "featured": false,
@@ -1856,13 +1356,7 @@
     "title": "台灣原住民語言復振運動",
     "description": "從語言流失危機到復振行動，探討台灣原住民族語言保存的挑戰、政策發展與社區實踐成果",
     "category": "Culture",
-    "tags": [
-      "原住民族語言",
-      "語言復振",
-      "族語教育",
-      "語言政策",
-      "文化傳承"
-    ],
+    "tags": ["原住民族語言", "語言復振", "族語教育", "語言政策", "文化傳承"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E8%AA%9E%E8%A8%80%E5%BE%A9%E6%8C%AF%E9%81%8B%E5%8B%95",
     "readingTime": 11,
     "featured": false,
@@ -1873,13 +1367,7 @@
     "title": "台灣島嶼地理特色與形成",
     "description": "探索台灣獨特的島嶼地理特色，從板塊運動到地形結構，了解福爾摩沙島的自然奧秘",
     "category": "Geography",
-    "tags": [
-      "地理",
-      "地質",
-      "島嶼",
-      "板塊運動",
-      "地形"
-    ],
+    "tags": ["地理", "地質", "島嶼", "板塊運動", "地形"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E5%B3%B6%E5%B6%BC%E5%9C%B0%E7%90%86%E7%89%B9%E8%89%B2%E8%88%87%E5%BD%A2%E6%88%90",
     "readingTime": 14,
     "featured": false,
@@ -1908,13 +1396,7 @@
     "title": "台灣海岸地形與海洋地景",
     "description": "從北部岬灣海岸到東部斷層海岸，台灣豐富多變的海岸地形展現板塊運動的鬼斧神工",
     "category": "Geography",
-    "tags": [
-      "海岸地形",
-      "海洋地景",
-      "板塊構造",
-      "地質作用",
-      "自然景觀"
-    ],
+    "tags": ["海岸地形", "海洋地景", "板塊構造", "地質作用", "自然景觀"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B2%B8%E5%9C%B0%E5%BD%A2%E8%88%87%E6%B5%B7%E6%B4%8B%E5%9C%B0%E6%99%AF",
     "readingTime": 24,
     "featured": true,
@@ -1925,13 +1407,7 @@
     "title": "台灣海岸地形與海洋地景",
     "description": "野柳女王頭的脖子正以每年0.2公分的速度變細，總有一天會斷裂——這正是台灣海岸地形的宿命與美麗",
     "category": "台灣海岸地形與海洋地景.md",
-    "tags": [
-      "海岸地形",
-      "地質",
-      "清水斷崖",
-      "野柳",
-      "板塊構造"
-    ],
+    "tags": ["海岸地形", "地質", "清水斷崖", "野柳", "板塊構造"],
     "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B2%B8%E5%9C%B0%E5%BD%A2%E8%88%87%E6%B5%B7%E6%B4%8B%E5%9C%B0%E6%99%AF",
     "readingTime": 10,
     "featured": true,
@@ -1971,13 +1447,7 @@
     "title": "台灣海洋污染治理與保育挑戰",
     "description": "面對海洋廢棄物、過度捕撈與氣候變遷，探討台灣海洋保育的現況、挑戰與創新解決方案",
     "category": "Nature",
-    "tags": [
-      "海洋保育",
-      "海洋污染",
-      "海洋廢棄物",
-      "海洋委員會",
-      "永續漁業"
-    ],
+    "tags": ["海洋保育", "海洋污染", "海洋廢棄物", "海洋委員會", "永續漁業"],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E6%B1%A1%E6%9F%93%E6%B2%BB%E7%90%86%E8%88%87%E4%BF%9D%E8%82%B2%E6%8C%91%E6%88%B0",
     "readingTime": 28,
     "featured": true,
@@ -1988,13 +1458,7 @@
     "title": "台灣海洋保育與挑戰：從污染治理到生態復育",
     "description": "探討台灣海洋面臨的污染挑戰，以及政府和民間團體推動的海洋保育成果，從小琉球到東沙環礁的保育經驗",
     "category": "Nature",
-    "tags": [
-      "海洋保育",
-      "環境保護",
-      "海洋污染",
-      "珊瑚礁",
-      "海洋國家公園"
-    ],
+    "tags": ["海洋保育", "環境保護", "海洋污染", "珊瑚礁", "海洋國家公園"],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E4%BF%9D%E8%82%B2%E8%88%87%E6%8C%91%E6%88%B0",
     "readingTime": 17,
     "featured": true,
@@ -2005,13 +1469,7 @@
     "title": "台灣海洋貿易史",
     "description": "大航海時代的台灣，從國際貿易中心到海盜王國的興衰傳奇",
     "category": "History",
-    "tags": [
-      "海洋貿易",
-      "大航海時代",
-      "國際貿易",
-      "海盜",
-      "港口城市"
-    ],
+    "tags": ["海洋貿易", "大航海時代", "國際貿易", "海盜", "港口城市"],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E8%B2%BF%E6%98%93%E5%8F%B2",
     "readingTime": 10,
     "featured": false,
@@ -2022,13 +1480,7 @@
     "title": "台灣海鮮文化",
     "description": "漁港新鮮直送、海鮮餐廳文化、蚵仔煎等海味料理，展現台灣四面環海的島嶼特色與豐富的海鮮飲食傳統",
     "category": "Food",
-    "tags": [
-      "海鮮",
-      "漁港",
-      "島嶼文化",
-      "蚵仔煎",
-      "海鮮料理"
-    ],
+    "tags": ["海鮮", "漁港", "島嶼文化", "蚵仔煎", "海鮮料理"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%B5%B7%E9%AE%AE%E6%96%87%E5%8C%96",
     "readingTime": 9,
     "featured": false,
@@ -2039,13 +1491,7 @@
     "title": "台灣素食文化",
     "description": "台灣素食人口比例全球前三，從佛教素食傳統到現代素料創新的文化演進",
     "category": "Food",
-    "tags": [
-      "素食",
-      "佛教",
-      "素料",
-      "慈濟",
-      "素食餐廳"
-    ],
+    "tags": ["素食", "佛教", "素料", "慈濟", "素食餐廳"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E7%B4%A0%E9%A3%9F%E6%96%87%E5%8C%96",
     "readingTime": 11,
     "featured": false,
@@ -2074,14 +1520,7 @@
     "title": "台灣茶道與生活美學",
     "description": "從功夫茶到茶席美學，探索台灣如何將東方茶文化與在地生活美學融合創新",
     "category": "Culture",
-    "tags": [
-      "茶文化",
-      "茶道",
-      "生活美學",
-      "工藝美學",
-      "侘寂",
-      "慢活文化"
-    ],
+    "tags": ["茶文化", "茶道", "生活美學", "工藝美學", "侘寂", "慢活文化"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%8C%B6%E9%81%93%E8%88%87%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%B8",
     "readingTime": 20,
     "featured": true,
@@ -2092,13 +1531,7 @@
     "title": "台灣茶道與生活美學",
     "description": "1981年紫藤廬開幕那晚，黨外人士與文人雅集品茗，這裡不只是茶館，更是反對運動的秘密基地",
     "category": "台灣茶道與生活美學.md",
-    "tags": [
-      "茶文化",
-      "茶道",
-      "生活美學",
-      "紫藤廬",
-      "茶藝館"
-    ],
+    "tags": ["茶文化", "茶道", "生活美學", "紫藤廬", "茶藝館"],
     "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E8%8C%B6%E9%81%93%E8%88%87%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%B8",
     "readingTime": 13,
     "featured": true,
@@ -2127,13 +1560,7 @@
     "title": "台灣國家風景區系統",
     "description": "從東北角到墾丁，台灣13處國家風景區展現豐富的自然與人文景觀",
     "category": "Geography",
-    "tags": [
-      "國家風景區",
-      "觀光資源",
-      "自然景觀",
-      "文化保存",
-      "生態旅遊"
-    ],
+    "tags": ["國家風景區", "觀光資源", "自然景觀", "文化保存", "生態旅遊"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%B3%BB%E7%B5%B1",
     "readingTime": 24,
     "featured": true,
@@ -2144,15 +1571,7 @@
     "title": "台灣國際貿易政策：在全球化浪潮中尋找定位",
     "description": "台灣作為貿易導向經濟體，積極推動CPTPP入會、新南向政策等多元化貿易戰略，在地緣政治限制下尋求國際經貿空間突破。",
     "category": "Economy",
-    "tags": [
-      "經濟",
-      "貿易政策",
-      "CPTPP",
-      "新南向",
-      "ECFA",
-      "FTA",
-      "國際經貿"
-    ],
+    "tags": ["經濟", "貿易政策", "CPTPP", "新南向", "ECFA", "FTA", "國際經貿"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E8%B2%BF%E6%98%93%E6%94%BF%E7%AD%96%EF%BC%9A%E5%9C%A8%E5%85%A8%E7%90%83%E5%8C%96%E6%B5%AA%E6%BD%AE%E4%B8%AD%E5%B0%8B%E6%89%BE%E5%AE%9A%E4%BD%8D",
     "readingTime": 15,
     "featured": true,
@@ -2163,14 +1582,7 @@
     "title": "台灣婚喪喜慶與人生禮俗",
     "description": "從訂婚十二禮到辦桌文化，探索台灣人生禮俗如何在傳統與現代間找到平衡",
     "category": "Culture",
-    "tags": [
-      "婚禮",
-      "喪禮",
-      "人生禮俗",
-      "辦桌文化",
-      "傳統習俗",
-      "現代轉化"
-    ],
+    "tags": ["婚禮", "喪禮", "人生禮俗", "辦桌文化", "傳統習俗", "現代轉化"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%A9%9A%E5%96%AA%E5%96%9C%E6%85%B6%E8%88%87%E4%BA%BA%E7%94%9F%E7%A6%AE%E4%BF%97",
     "readingTime": 22,
     "featured": true,
@@ -2202,14 +1614,7 @@
     "title": "台灣教育制度",
     "description": "從聯考到學測，12年國教與補習班文化的島嶼教育學",
     "category": "Lifestyle",
-    "tags": [
-      "生活",
-      "教育",
-      "學測",
-      "補習班",
-      "12年國教",
-      "台灣"
-    ],
+    "tags": ["生活", "教育", "學測", "補習班", "12年國教", "台灣"],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6",
     "readingTime": 15,
     "featured": false,
@@ -2220,11 +1625,7 @@
     "title": "台灣現代詩",
     "description": "",
     "category": "Art",
-    "tags": [
-      "文學",
-      "詩",
-      "現代詩"
-    ],
+    "tags": ["文學", "詩", "現代詩"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E8%A9%A9",
     "readingTime": 14,
     "featured": false,
@@ -2235,14 +1636,7 @@
     "title": "台灣產業轉型升級：從製造大國到創新強國",
     "description": "台灣產業結構從勞力密集轉向知識密集，透過5+2產業創新、6大核心戰略產業等政策，推動傳統製造業升級與新興產業發展。",
     "category": "Economy",
-    "tags": [
-      "經濟",
-      "產業政策",
-      "轉型升級",
-      "創新",
-      "製造業",
-      "高科技"
-    ],
+    "tags": ["經濟", "產業政策", "轉型升級", "創新", "製造業", "高科技"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E7%94%A2%E6%A5%AD%E8%BD%89%E5%9E%8B%E5%8D%87%E7%B4%9A%EF%BC%9A%E5%BE%9E%E8%A3%BD%E9%80%A0%E5%A4%A7%E5%9C%8B%E5%88%B0%E5%89%B5%E6%96%B0%E5%BC%B7%E5%9C%8B",
     "readingTime": 17,
     "featured": true,
@@ -2253,13 +1647,7 @@
     "title": "台灣眷村菜",
     "description": "1949大遷移帶來的各省味道，從竹籬笆內的廚房到眷村拆遷後的味覺保存",
     "category": "Food",
-    "tags": [
-      "眷村菜",
-      "外省菜",
-      "牛肉麵",
-      "大遷移",
-      "竹籬笆"
-    ],
+    "tags": ["眷村菜", "外省菜", "牛肉麵", "大遷移", "竹籬笆"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E8%8F%9C",
     "readingTime": 11,
     "featured": false,
@@ -2270,13 +1658,7 @@
     "title": "台灣眷村歷史",
     "description": "從竹籬笆到文化資產，外省移民眷村的集體記憶與認同變遷",
     "category": "History",
-    "tags": [
-      "眷村",
-      "外省移民",
-      "集體記憶",
-      "文化保存",
-      "都市更新"
-    ],
+    "tags": ["眷村", "外省移民", "集體記憶", "文化保存", "都市更新"],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E6%AD%B7%E5%8F%B2",
     "readingTime": 18,
     "featured": false,
@@ -2287,12 +1669,7 @@
     "title": "台灣軟體產業發展",
     "description": "從代工思維到軟體創新，台灣如何在後半導體時代找到新定位",
     "category": "Technology",
-    "tags": [
-      "軟體產業",
-      "資訊服務",
-      "數位轉型",
-      "新創"
-    ],
+    "tags": ["軟體產業", "資訊服務", "數位轉型", "新創"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E8%BB%9F%E9%AB%94%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
     "readingTime": 17,
     "featured": false,
@@ -2303,13 +1680,7 @@
     "title": "台灣都市發展與城鄉差距",
     "description": "六都格局下的台灣城鄉發展不均，從農業台灣到都市台灣的空間轉型",
     "category": "Geography",
-    "tags": [
-      "都市發展",
-      "城鄉差距",
-      "六都",
-      "都市更新",
-      "區域發展"
-    ],
+    "tags": ["都市發展", "城鄉差距", "六都", "都市更新", "區域發展"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E9%83%BD%E5%B8%82%E7%99%BC%E5%B1%95%E8%88%87%E5%9F%8E%E9%84%89%E5%B7%AE%E8%B7%9D",
     "readingTime": 19,
     "featured": false,
@@ -2320,13 +1691,7 @@
     "title": "台灣都市發展與城鄉差距",
     "description": "70年從農業島變都市島，六都集中7成人口的光與影：繁榮台中vs凋零雲林的殘酷對比",
     "category": "台灣都市發展與城鄉差距.md",
-    "tags": [
-      "都市發展",
-      "城鄉差距",
-      "六都",
-      "人口流動",
-      "區域發展"
-    ],
+    "tags": ["都市發展", "城鄉差距", "六都", "人口流動", "區域發展"],
     "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E9%83%BD%E5%B8%82%E7%99%BC%E5%B1%95%E8%88%87%E5%9F%8E%E9%84%89%E5%B7%AE%E8%B7%9D",
     "readingTime": 20,
     "featured": false,
@@ -2337,13 +1702,7 @@
     "title": "台灣媒體與新聞自由",
     "description": "從黨國控制到媒體戰國時代：台灣新聞自由的民主化歷程與數位轉型挑戰",
     "category": "Society",
-    "tags": [
-      "媒體",
-      "新聞自由",
-      "民主化",
-      "數位轉型",
-      "媒體識讀"
-    ],
+    "tags": ["媒體", "新聞自由", "民主化", "數位轉型", "媒體識讀"],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1",
     "readingTime": 16,
     "featured": false,
@@ -2365,11 +1724,7 @@
     "title": "台灣散文",
     "description": "",
     "category": "Art",
-    "tags": [
-      "文學",
-      "散文",
-      "生活書寫"
-    ],
+    "tags": ["文學", "散文", "生活書寫"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%95%A3%E6%96%87",
     "readingTime": 15,
     "featured": false,
@@ -2399,14 +1754,7 @@
     "title": "台灣森林生態系",
     "description": "從亞熱帶海岸到高山針葉林，台灣3000公尺垂直落差中的豐富森林世界",
     "category": "Nature",
-    "tags": [
-      "森林生態",
-      "垂直分布",
-      "台灣杉",
-      "檜木",
-      "生物多樣性",
-      "國有林"
-    ],
+    "tags": ["森林生態", "垂直分布", "台灣杉", "檜木", "生物多樣性", "國有林"],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E6%A3%AE%E6%9E%97%E7%94%9F%E6%85%8B%E7%B3%BB",
     "readingTime": 16,
     "featured": true,
@@ -2436,13 +1784,7 @@
     "title": "台灣策展人與藝術文化建構",
     "description": "從獨立策展到美術館體系，台灣策展人如何建構當代藝術的文化論述與國際對話",
     "category": "Art",
-    "tags": [
-      "策展人",
-      "當代藝術",
-      "文化建構",
-      "美術館",
-      "藝術論述"
-    ],
+    "tags": ["策展人", "當代藝術", "文化建構", "美術館", "藝術論述"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E7%AD%96%E5%B1%95%E4%BA%BA%E8%88%87%E8%97%9D%E8%A1%93%E6%96%87%E5%8C%96%E5%BB%BA%E6%A7%8B",
     "readingTime": 14,
     "featured": true,
@@ -2453,13 +1795,7 @@
     "title": "台灣街頭藝術與塗鴉文化",
     "description": "從地下塗鴉到合法彩繪，城市牆面如何成為台灣藝術家的創作舞台",
     "category": "Culture",
-    "tags": [
-      "街頭藝術",
-      "塗鴉",
-      "都市文化",
-      "公共藝術",
-      "次文化"
-    ],
+    "tags": ["街頭藝術", "塗鴉", "都市文化", "公共藝術", "次文化"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%A1%97%E9%A0%AD%E8%97%9D%E8%A1%93%E8%88%87%E5%A1%97%E9%B4%89%E6%96%87%E5%8C%96",
     "readingTime": 15,
     "featured": false,
@@ -2489,11 +1825,7 @@
     "title": "台灣傳統藝術",
     "description": "",
     "category": "Art",
-    "tags": [
-      "藝術",
-      "傳統",
-      "民間藝術"
-    ],
+    "tags": ["藝術", "傳統", "民間藝術"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E5%82%B3%E7%B5%B1%E8%97%9D%E8%A1%93",
     "readingTime": 10,
     "featured": false,
@@ -2523,13 +1855,7 @@
     "title": "台灣搖滾樂發展史：從地下到主流的三十年",
     "description": "從1980年代地下搖滾到1990年代樂團興起，台灣搖滾樂如何從邊緣走向主流，成為華語搖滾重要力量",
     "category": "Music",
-    "tags": [
-      "搖滾樂",
-      "音樂史",
-      "地下音樂",
-      "樂團",
-      "台灣音樂"
-    ],
+    "tags": ["搖滾樂", "音樂史", "地下音樂", "樂團", "台灣音樂"],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E6%90%96%E6%BB%BE%E6%A8%82%E7%99%BC%E5%B1%95%E5%8F%B2",
     "readingTime": 13,
     "featured": true,
@@ -2540,13 +1866,7 @@
     "title": "台灣新住民美食融合",
     "description": "當泰式酸辣遇上台灣甜鹹、當越南河粉邂逅台式滷味、當印尼香料擁抱本土食材，一場跨越國界的味覺革命正在台灣悄然發生。新住民帶來的不只是故鄉的料理，更是豐富台灣美食文化的全新可能。",
     "category": "Food",
-    "tags": [
-      "新住民美食",
-      "東南亞料理",
-      "文化融合",
-      "多元飲食",
-      "移民文化"
-    ],
+    "tags": ["新住民美食", "東南亞料理", "文化融合", "多元飲食", "移民文化"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%96%B0%E4%BD%8F%E6%B0%91%E7%BE%8E%E9%A3%9F%E8%9E%8D%E5%90%88",
     "readingTime": 23,
     "featured": true,
@@ -2557,13 +1877,7 @@
     "title": "台灣新創生態系",
     "description": "從代工思維到創新驅動，台灣如何建構完整的新創創業生態系統",
     "category": "Technology",
-    "tags": [
-      "新創企業",
-      "創業生態系",
-      "創投基金",
-      "加速器",
-      "創新育成"
-    ],
+    "tags": ["新創企業", "創業生態系", "創投基金", "加速器", "創新育成"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E6%96%B0%E5%89%B5%E7%94%9F%E6%85%8B%E7%B3%BB",
     "readingTime": 25,
     "featured": true,
@@ -2574,12 +1888,7 @@
     "title": "台灣新媒體藝術",
     "description": "",
     "category": "Art",
-    "tags": [
-      "新媒體藝術",
-      "數位藝術",
-      "科技藝術",
-      "生成藝術"
-    ],
+    "tags": ["新媒體藝術", "數位藝術", "科技藝術", "生成藝術"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%96%B0%E5%AA%92%E9%AB%94%E8%97%9D%E8%A1%93",
     "readingTime": 24,
     "featured": false,
@@ -2590,14 +1899,7 @@
     "title": "台灣新興宗教與心靈文化",
     "description": "探討戰後台灣新興宗教的興起與發展，包括佛教四大山頭、一貫道等宗教團體對社會文化的深遠影響",
     "category": "Culture",
-    "tags": [
-      "宗教",
-      "佛教",
-      "一貫道",
-      "人間佛教",
-      "心靈文化",
-      "慈善事業"
-    ],
+    "tags": ["宗教", "佛教", "一貫道", "人間佛教", "心靈文化", "慈善事業"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%88%88%E5%AE%97%E6%95%99%E8%88%87%E5%BF%83%E9%9D%88%E6%96%87%E5%8C%96",
     "readingTime": 24,
     "featured": true,
@@ -2608,13 +1910,7 @@
     "title": "台灣溫泉地景",
     "description": "北投、知本、礁溪，溫泉文化與地質科學的美麗交會",
     "category": "Geography",
-    "tags": [
-      "溫泉",
-      "地質",
-      "火山",
-      "溫泉文化",
-      "觀光"
-    ],
+    "tags": ["溫泉", "地質", "火山", "溫泉文化", "觀光"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E6%BA%AB%E6%B3%89%E5%9C%B0%E6%99%AF",
     "readingTime": 17,
     "featured": false,
@@ -2665,12 +1961,7 @@
     "title": "台灣當代藝術",
     "description": "從北美館到威尼斯雙年展台灣館，台灣當代藝術在全球舞台的獨特位置",
     "category": "Art",
-    "tags": [
-      "art",
-      "contemporary",
-      "culture",
-      "museums"
-    ],
+    "tags": ["art", "contemporary", "culture", "museums"],
     "url": "https://taiwan.md/Art/%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93",
     "readingTime": 7,
     "featured": false,
@@ -2699,13 +1990,7 @@
     "title": "台灣資安產業發展",
     "description": "從政府政策到民間創新，台灣如何在全球網路威脅中建構完整的資訊安全產業生態系",
     "category": "Technology",
-    "tags": [
-      "資安產業",
-      "網路安全",
-      "數位發展",
-      "資安政策",
-      "技術創新"
-    ],
+    "tags": ["資安產業", "網路安全", "數位發展", "資安政策", "技術創新"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E8%B3%87%E5%AE%89%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
     "readingTime": 22,
     "featured": true,
@@ -2716,13 +2001,7 @@
     "title": "台灣農業地景與產業分布",
     "description": "從北到南的農業地景變化，彰顯台灣從「台灣穀倉」到「精緻農業」的轉型之路",
     "category": "Geography",
-    "tags": [
-      "農業",
-      "地景",
-      "產業",
-      "糧食安全",
-      "地理"
-    ],
+    "tags": ["農業", "地景", "產業", "糧食安全", "地理"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E5%9C%B0%E6%99%AF%E8%88%87%E7%94%A2%E6%A5%AD%E5%88%86%E5%B8%83",
     "readingTime": 10,
     "featured": false,
@@ -2733,14 +2012,7 @@
     "title": "台灣農業現代化發展",
     "description": "探討台灣從傳統農業轉型為現代精緻農業的歷程，包括有機農業、農村再生、休閒農業等創新發展模式",
     "category": "Economy",
-    "tags": [
-      "農業",
-      "精緻農業",
-      "有機農業",
-      "農村再生",
-      "休閒農業",
-      "現代化"
-    ],
+    "tags": ["農業", "精緻農業", "有機農業", "農村再生", "休閒農業", "現代化"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%99%BC%E5%B1%95",
     "readingTime": 23,
     "featured": true,
@@ -2770,13 +2042,7 @@
     "title": "台灣遊戲產業與數位娛樂",
     "description": "從早期代理商到原創開發商，台灣如何在全球遊戲市場中找到自己的聲音",
     "category": "Technology",
-    "tags": [
-      "遊戲產業",
-      "數位娛樂",
-      "文化創意",
-      "科技業",
-      "獨立遊戲"
-    ],
+    "tags": ["遊戲產業", "數位娛樂", "文化創意", "科技業", "獨立遊戲"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E9%81%8A%E6%88%B2%E7%94%A2%E6%A5%AD%E8%88%87%E6%95%B8%E4%BD%8D%E5%A8%9B%E6%A8%82",
     "readingTime": 12,
     "featured": true,
@@ -2787,14 +2053,7 @@
     "title": "台灣電子音樂與派對文化：從地下 Rave 到國際舞台",
     "description": "從1990年代 Rave 派對文化到 Road to Ultra 電音節，台灣電子音樂如何從地下走向主流，孕育出國際級 DJ 與獨立電子廠牌",
     "category": "Music",
-    "tags": [
-      "電子音樂",
-      "Rave",
-      "派對文化",
-      "DJ",
-      "電音節",
-      "地下音樂"
-    ],
+    "tags": ["電子音樂", "Rave", "派對文化", "DJ", "電音節", "地下音樂"],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%AD%90%E9%9F%B3%E6%A8%82%E8%88%87%E6%B4%BE%E5%B0%8D%E6%96%87%E5%8C%96",
     "readingTime": 11,
     "featured": true,
@@ -2816,13 +2075,7 @@
     "title": "台灣電動車產業鏈發展",
     "description": "從電池技術到充電基礎設施，探索台灣電動車產業的完整生態系與2030淨零轉型策略",
     "category": "Technology",
-    "tags": [
-      "電動車",
-      "電池技術",
-      "充電基礎設施",
-      "淨零轉型",
-      "綠色運輸"
-    ],
+    "tags": ["電動車", "電池技術", "充電基礎設施", "淨零轉型", "綠色運輸"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%8B%95%E8%BB%8A%E7%94%A2%E6%A5%AD%E9%8F%88%E7%99%BC%E5%B1%95",
     "readingTime": 26,
     "featured": true,
@@ -2833,11 +2086,7 @@
     "title": "台灣電影",
     "description": "",
     "category": "Art",
-    "tags": [
-      "電影",
-      "新浪潮",
-      "藝術"
-    ],
+    "tags": ["電影", "新浪潮", "藝術"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1",
     "readingTime": 12,
     "featured": true,
@@ -2859,13 +2108,7 @@
     "title": "台灣滷肉飯",
     "description": "從眷村廚房到國民美食，探索台灣滷肉飯的南北戰爭與文化認同",
     "category": "Food",
-    "tags": [
-      "滷肉飯",
-      "肉燥飯",
-      "眷村菜",
-      "國民美食",
-      "南北差異"
-    ],
+    "tags": ["滷肉飯", "肉燥飯", "眷村菜", "國民美食", "南北差異"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%BB%B7%E8%82%89%E9%A3%AF",
     "readingTime": 8,
     "featured": true,
@@ -2876,13 +2119,7 @@
     "title": "台灣漫畫與動漫文化",
     "description": "從漫畫王的黃金年代到CCC創作集的文創復興，台灣漫畫如何在日漫夾擊下找到自己的聲音",
     "category": "Culture",
-    "tags": [
-      "漫畫",
-      "動漫",
-      "文化創意",
-      "次文化",
-      "青少年文化"
-    ],
+    "tags": ["漫畫", "動漫", "文化創意", "次文化", "青少年文化"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB%E8%88%87%E5%8B%95%E6%BC%AB%E6%96%87%E5%8C%96",
     "readingTime": 14,
     "featured": false,
@@ -2893,14 +2130,7 @@
     "title": "台灣漫畫與插畫",
     "description": "從鄭問征服日本成為「亞洲至寶」，到蔡志忠用漫畫詮釋古典哲學，台灣漫畫在世界舞台展現獨特文化魅力",
     "category": "Art",
-    "tags": [
-      "漫畫",
-      "插畫",
-      "視覺藝術",
-      "鄭問",
-      "蔡志忠",
-      "金漫獎"
-    ],
+    "tags": ["漫畫", "插畫", "視覺藝術", "鄭問", "蔡志忠", "金漫獎"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB%E8%88%87%E6%8F%92%E7%95%AB",
     "readingTime": 11,
     "featured": false,
@@ -2911,14 +2141,7 @@
     "title": "台灣製香文化與香腳原鄉",
     "description": "從嘉義雲霄社區的百年香腳技藝，到台灣遍布全島的製香產業——一門關於虔誠、手藝與堅持的古老行業",
     "category": "Culture",
-    "tags": [
-      "製香",
-      "傳統工藝",
-      "宗教文化",
-      "嘉義",
-      "香腳",
-      "民間信仰"
-    ],
+    "tags": ["製香", "傳統工藝", "宗教文化", "嘉義", "香腳", "民間信仰"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%A3%BD%E9%A6%99%E6%96%87%E5%8C%96%E8%88%87%E9%A6%99%E8%85%B3%E5%8E%9F%E9%84%89",
     "readingTime": 13,
     "featured": false,
@@ -2927,32 +2150,20 @@
   },
   {
     "title": "台灣劇場與表演藝術",
-    "description": "",
+    "description": "一個26歲文學青年如何創造華語世界第一個當代舞團，一群京劇演員如何讓莎士比亞說中文",
     "category": "Art",
-    "tags": [
-      "劇場",
-      "表演藝術",
-      "舞蹈"
-    ],
+    "tags": ["劇場", "表演藝術", "舞蹈", "雲門舞集", "當代傳奇劇場"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E5%8A%87%E5%A0%B4%E8%88%87%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93",
-    "readingTime": 14,
+    "readingTime": 13,
     "featured": false,
-    "date": "2026-03-18",
+    "date": "2026-03-22",
     "path": "Art/台灣劇場與表演藝術.md"
   },
   {
     "title": "台灣嘻哈與饒舌發展",
     "description": "從大支、熱狗到頑童MJ116，蛋堡、Leo王，台灣嘻哈文化的在地化與金曲獎認可",
     "category": "Music",
-    "tags": [
-      "音樂",
-      "嘻哈",
-      "饒舌",
-      "Hip-Hop",
-      "Rap",
-      "金曲獎",
-      "流行音樂"
-    ],
+    "tags": ["音樂", "嘻哈", "饒舌", "Hip-Hop", "Rap", "金曲獎", "流行音樂"],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E5%98%BB%E5%93%88%E8%88%87%E9%A5%92%E8%88%8C%E7%99%BC%E5%B1%95",
     "readingTime": 21,
     "featured": true,
@@ -2963,14 +2174,7 @@
     "title": "台灣廟會與陣頭文化",
     "description": "八家將的威武，電音三太子的創新，媽祖遶境的虔誠——台灣廟會是信仰與狂歡的完美結合",
     "category": "Culture",
-    "tags": [
-      "廟會",
-      "陣頭",
-      "民間信仰",
-      "電音三太子",
-      "八家將",
-      "媽祖遶境"
-    ],
+    "tags": ["廟會", "陣頭", "民間信仰", "電音三太子", "八家將", "媽祖遶境"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%BB%9F%E6%9C%83%E8%88%87%E9%99%A3%E9%A0%AD%E6%96%87%E5%8C%96",
     "readingTime": 11,
     "featured": false,
@@ -2992,13 +2196,7 @@
     "title": "台灣數位影像與動畫產業",
     "description": "從全球最大動畫代工王國到原創內容新勢力，台灣數位影像產業半世紀的蛻變之路",
     "category": "Technology",
-    "tags": [
-      "數位影像",
-      "動畫",
-      "視覺特效",
-      "文創產業",
-      "影視工業"
-    ],
+    "tags": ["數位影像", "動畫", "視覺特效", "文創產業", "影視工業"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E6%95%B8%E4%BD%8D%E5%BD%B1%E5%83%8F%E8%88%87%E5%8B%95%E7%95%AB%E7%94%A2%E6%A5%AD",
     "readingTime": 14,
     "featured": false,
@@ -3027,15 +2225,7 @@
     "title": "台灣機車文化",
     "description": "摩托車密度全球前列的島嶼王國，從通勤工具到生活方式的文化演進",
     "category": "Lifestyle",
-    "tags": [
-      "生活",
-      "機車",
-      "摩托車",
-      "通勤文化",
-      "Gogoro",
-      "改裝車",
-      "交通"
-    ],
+    "tags": ["生活", "機車", "摩托車", "通勤文化", "Gogoro", "改裝車", "交通"],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E6%A9%9F%E8%BB%8A%E6%96%87%E5%8C%96",
     "readingTime": 20,
     "featured": true,
@@ -3046,13 +2236,7 @@
     "title": "台灣獨立音樂場景演變",
     "description": "從地下樂團到獨立音樂，探索台灣非主流音樂三十年發展軌跡與文化意義",
     "category": "Music",
-    "tags": [
-      "獨立音樂",
-      "地下樂團",
-      "搖滾樂",
-      "音樂產業",
-      "次文化"
-    ],
+    "tags": ["獨立音樂", "地下樂團", "搖滾樂", "音樂產業", "次文化"],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E7%8D%A8%E7%AB%8B%E9%9F%B3%E6%A8%82%E5%A0%B4%E6%99%AF%E6%BC%94%E8%AE%8A",
     "readingTime": 26,
     "featured": true,
@@ -3063,12 +2247,7 @@
     "title": "台灣諧音禁忌文化：為什麼「四」讓整個社會跳過樓層？",
     "description": "從醫院沒有四樓到車牌8888天價標售，台灣人對諧音的敏感程度堪稱世界之最",
     "category": "Culture",
-    "tags": [
-      "台灣文化",
-      "民俗信仰",
-      "諧音文化",
-      "數字禁忌"
-    ],
+    "tags": ["台灣文化", "民俗信仰", "諧音文化", "數字禁忌"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%AB%A7%E9%9F%B3%E7%A6%81%E5%BF%8C%E6%96%87%E5%8C%96",
     "readingTime": 9,
     "featured": false,
@@ -3079,14 +2258,7 @@
     "title": "台灣辦桌文化",
     "description": "從農村慶典到都市宴會，總鋪師的拿手絕活與社區黏著劑的辦桌精神",
     "category": "Food",
-    "tags": [
-      "辦桌",
-      "總鋪師",
-      "流水席",
-      "台式宴席",
-      "社區文化",
-      "傳統技藝"
-    ],
+    "tags": ["辦桌", "總鋪師", "流水席", "台式宴席", "社區文化", "傳統技藝"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E8%BE%A6%E6%A1%8C%E6%96%87%E5%8C%96",
     "readingTime": 13,
     "featured": false,
@@ -3097,13 +2269,7 @@
     "title": "台灣選舉與政黨政治",
     "description": "從黨外運動到多黨民主，台灣如何從威權走向民主的選舉文化演變",
     "category": "History",
-    "tags": [
-      "選舉",
-      "民主化",
-      "政黨政治",
-      "黨外運動",
-      "總統直選"
-    ],
+    "tags": ["選舉", "民主化", "政黨政治", "黨外運動", "總統直選"],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%88%87%E6%94%BF%E9%BB%A8%E6%94%BF%E6%B2%BB",
     "readingTime": 17,
     "featured": false,
@@ -3114,13 +2280,7 @@
     "title": "台灣選舉與政黨政治",
     "description": "從1950年地方議員到2000年政黨輪替，看台灣如何用選票寫下民主轉型的奇蹟",
     "category": "台灣選舉與政黨政治.md",
-    "tags": [
-      "選舉",
-      "民主化",
-      "政黨政治",
-      "美麗島事件",
-      "政黨輪替"
-    ],
+    "tags": ["選舉", "民主化", "政黨政治", "美麗島事件", "政黨輪替"],
     "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%88%87%E6%94%BF%E9%BB%A8%E6%94%BF%E6%B2%BB",
     "readingTime": 14,
     "featured": false,
@@ -3190,13 +2350,7 @@
     "title": "台灣醫療與全民健保",
     "description": "1995年3月1日開辦當天，健保就讓原本看不起病的400萬人有了醫療保障——但29年後，這個奇蹟正面臨財務懸崖",
     "category": "台灣醫療與全民健保.md",
-    "tags": [
-      "全民健保",
-      "醫療制度",
-      "健保卡",
-      "醫療",
-      "社會保險"
-    ],
+    "tags": ["全民健保", "醫療制度", "健保卡", "醫療", "社會保險"],
     "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D",
     "readingTime": 16,
     "featured": false,
@@ -3207,13 +2361,7 @@
     "title": "台灣醬料與調味",
     "description": "醬油膏、沙茶醬、甜辣醬、豆瓣醬等台灣特色調味料，構成了島嶼獨特風味的基底，反映多元文化融合的調味哲學",
     "category": "Food",
-    "tags": [
-      "醬料",
-      "調味料",
-      "飲食文化",
-      "台灣味",
-      "發酵食品"
-    ],
+    "tags": ["醬料", "調味料", "飲食文化", "台灣味", "發酵食品"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E9%86%AC%E6%96%99%E8%88%87%E8%AA%BF%E5%91%B3",
     "readingTime": 8,
     "featured": false,
@@ -3224,12 +2372,7 @@
     "title": "台灣騎樓文化與街景",
     "description": "遮風避雨的生活廊道，機車、攤販與人情味交織的台灣街頭記憶",
     "category": "Lifestyle",
-    "tags": [
-      "Lifestyle",
-      "騎樓",
-      "街景",
-      "都市文化"
-    ],
+    "tags": ["Lifestyle", "騎樓", "街景", "都市文化"],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E9%A8%8E%E6%A8%93%E6%96%87%E5%8C%96%E8%88%87%E8%A1%97%E6%99%AF",
     "readingTime": 11,
     "featured": false,
@@ -3240,13 +2383,7 @@
     "title": "台灣藝術教育與學院發展",
     "description": "從師範體系到專業藝術大學，台灣藝術教育的體制變革與人才培育",
     "category": "Art",
-    "tags": [
-      "藝術教育",
-      "美術系",
-      "藝術大學",
-      "師資培育",
-      "學院發展"
-    ],
+    "tags": ["藝術教育", "美術系", "藝術大學", "師資培育", "學院發展"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E8%97%9D%E8%A1%93%E6%95%99%E8%82%B2%E8%88%87%E5%AD%B8%E9%99%A2%E7%99%BC%E5%B1%95",
     "readingTime": 18,
     "featured": true,
@@ -3257,13 +2394,7 @@
     "title": "台灣鹹酥雞",
     "description": "台灣最普遍的宵夜文化，從鹹酥雞攤的社會學到炸物美學的進化",
     "category": "Food",
-    "tags": [
-      "鹹酥雞",
-      "宵夜文化",
-      "炸物",
-      "九層塔",
-      "夜市"
-    ],
+    "tags": ["鹹酥雞", "宵夜文化", "炸物", "九層塔", "夜市"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E9%B9%B9%E9%85%A5%E9%9B%9E",
     "readingTime": 9,
     "featured": true,
@@ -3274,13 +2405,7 @@
     "title": "台灣麵包與烘焙",
     "description": "從吳寶春的世界冠軍到85度C的國際擴張，探索台式麵包的獨特魅力",
     "category": "Food",
-    "tags": [
-      "麵包",
-      "烘焙",
-      "吳寶春",
-      "台式麵包",
-      "85度C"
-    ],
+    "tags": ["麵包", "烘焙", "吳寶春", "台式麵包", "85度C"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E9%BA%B5%E5%8C%85%E8%88%87%E7%83%98%E7%84%99",
     "readingTime": 11,
     "featured": false,
@@ -3291,13 +2416,7 @@
     "title": "台灣麵食文化",
     "description": "從擔仔麵到牛肉麵，從陽春麵到乾拌麵，台灣麵食文化融合閩南、外省與創新元素，形成獨特的麵條飲食傳統",
     "category": "Food",
-    "tags": [
-      "麵食",
-      "飲食文化",
-      "台灣料理",
-      "外省菜",
-      "閩南菜"
-    ],
+    "tags": ["麵食", "飲食文化", "台灣料理", "外省菜", "閩南菜"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E9%BA%B5%E9%A3%9F%E6%96%87%E5%8C%96",
     "readingTime": 8,
     "featured": false,
@@ -3308,13 +2427,7 @@
     "title": "台灣攝影",
     "description": "從張照堂1965年引領現代攝影革命，到阮義忠《人與土地》定義紀實美學，台灣攝影在光影中記錄島嶼故事",
     "category": "Art",
-    "tags": [
-      "攝影",
-      "視覺藝術",
-      "張照堂",
-      "阮義忠",
-      "紀實"
-    ],
+    "tags": ["攝影", "視覺藝術", "張照堂", "阮義忠", "紀實"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%94%9D%E5%BD%B1",
     "readingTime": 13,
     "featured": false,
@@ -3325,14 +2438,7 @@
     "title": "台灣鐵道史",
     "description": "從清朝劉銘傳到日治縱貫線到高鐵，鐵道如何塑造台灣的城市發展與文化記憶",
     "category": "History",
-    "tags": [
-      "鐵道",
-      "交通建設",
-      "城市發展",
-      "劉銘傳",
-      "縱貫線",
-      "高鐵"
-    ],
+    "tags": ["鐵道", "交通建設", "城市發展", "劉銘傳", "縱貫線", "高鐵"],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E9%90%B5%E9%81%93%E5%8F%B2",
     "readingTime": 15,
     "featured": false,
@@ -3354,11 +2460,7 @@
     "title": "史前時代與原住民",
     "description": "台灣史前時代與原住民族是理解台灣身份認同的關鍵起點。作為南島語族可能的發源地，台灣不僅是太平洋島嶼文明的搖籃，更是多元文化台灣的根基。這段歷史證明了台灣自古即為多族群共存的島嶼，為現代多元社會奠定基礎。",
     "category": "History",
-    "tags": [
-      "History",
-      "史前時代",
-      "原住民"
-    ],
+    "tags": ["History", "史前時代", "原住民"],
     "url": "https://taiwan.md/History/%E5%8F%B2%E5%89%8D%E6%99%82%E4%BB%A3%E8%88%87%E5%8E%9F%E4%BD%8F%E6%B0%91",
     "readingTime": 5,
     "featured": true,
@@ -3369,11 +2471,7 @@
     "title": "民主化",
     "description": "台灣民主化的成功經驗具有重大的歷史與現實意義。它證明了華人社會完全可以建立成熟的民主制度，為全球第三波民主化提供了重要案例。更重要的是，這個轉型過程全程以和平手段進行，沒有經歷大規模暴力衝突，為其他威權國家的民主化提供了珍貴的參考經驗。",
     "category": "History",
-    "tags": [
-      "歷史",
-      "民主化",
-      "政治"
-    ],
+    "tags": ["歷史", "民主化", "政治"],
     "url": "https://taiwan.md/History/%E6%B0%91%E4%B8%BB%E5%8C%96",
     "readingTime": 10,
     "featured": true,
@@ -3384,11 +2482,7 @@
     "title": "民主化",
     "description": "1979年12月10日高雄街頭的警民衝突，最終催生了台灣的民主轉型——但代價是多少人的青春與自由？",
     "category": "民主化.md",
-    "tags": [
-      "歷史",
-      "民主化",
-      "政治"
-    ],
+    "tags": ["歷史", "民主化", "政治"],
     "url": "https://taiwan.md/%E6%B0%91%E4%B8%BB%E5%8C%96",
     "readingTime": 14,
     "featured": true,
@@ -3399,12 +2493,7 @@
     "title": "民主制度",
     "description": "台灣從威權統治走向民主制度的歷程，透過解嚴、總統直選等階段建立完整的民主體制",
     "category": "Society",
-    "tags": [
-      "Society",
-      "民主化",
-      "解嚴",
-      "總統直選"
-    ],
+    "tags": ["Society", "民主化", "解嚴", "總統直選"],
     "url": "https://taiwan.md/Society/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6",
     "readingTime": 7,
     "featured": false,
@@ -3415,13 +2504,7 @@
     "title": "生態多樣性",
     "description": "台灣面積僅佔全球0.025%，卻擁有超過5萬種生物，森林覆蓋率60.71%排名全球第33位",
     "category": "Nature",
-    "tags": [
-      "生態多樣性",
-      "特有種",
-      "生物保育",
-      "生態系統",
-      "環境保護"
-    ],
+    "tags": ["生態多樣性", "特有種", "生物保育", "生態系統", "環境保護"],
     "url": "https://taiwan.md/Nature/%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7",
     "readingTime": 10,
     "featured": true,
@@ -3451,14 +2534,7 @@
     "title": "伍佰",
     "description": "台灣搖滾國寶，本土搖滾樂的代名詞，以《挪威的森林》等作品奠定搖滾地位",
     "category": "People",
-    "tags": [
-      "音樂",
-      "搖滾",
-      "台語歌曲",
-      "嘉義",
-      "本土搖滾",
-      "吉他"
-    ],
+    "tags": ["音樂", "搖滾", "台語歌曲", "嘉義", "本土搖滾", "吉他"],
     "url": "https://taiwan.md/People/%E4%BC%8D%E4%BD%B0",
     "readingTime": 6,
     "featured": false,
@@ -3469,13 +2545,7 @@
     "title": "兆豐金控：從日治官銀到台商全球金融夥伴",
     "description": "承襲1897年台灣銀行血脈，歷經三次改名兩次合併，兆豐金控用127年時間在38國建立金融網絡，成為台商走向世界的重要推手",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "金融業",
-      "公營銀行",
-      "國際金融"
-    ],
+    "tags": ["Economy", "企業", "金融業", "公營銀行", "國際金融"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%85%86%E8%B1%90%E9%87%91%E6%8E%A7",
     "readingTime": 11,
     "featured": false,
@@ -3486,14 +2556,7 @@
     "title": "地形與地質",
     "description": "台灣島複雜多樣的地形地貌，板塊運動造就的五大山脈與豐富地質景觀",
     "category": "Geography",
-    "tags": [
-      "地理",
-      "地質",
-      "山脈",
-      "板塊運動",
-      "地震",
-      "溫泉"
-    ],
+    "tags": ["地理", "地質", "山脈", "板塊運動", "地震", "溫泉"],
     "url": "https://taiwan.md/Geography/%E5%9C%B0%E5%BD%A2%E8%88%87%E5%9C%B0%E8%B3%AA",
     "readingTime": 12,
     "featured": false,
@@ -3541,14 +2604,7 @@
     "title": "朱宗慶",
     "description": "從維也納歸來的打擊樂拓荒者，40 年來將冷門藝術轉為全民音樂",
     "category": "People",
-    "tags": [
-      "人物",
-      "朱宗慶",
-      "音樂家",
-      "打擊樂",
-      "教育",
-      "表演藝術"
-    ],
+    "tags": ["人物", "朱宗慶", "音樂家", "打擊樂", "教育", "表演藝術"],
     "url": "https://taiwan.md/People/%E6%9C%B1%E5%AE%97%E6%85%B6",
     "readingTime": 15,
     "featured": false,
@@ -3559,13 +2615,7 @@
     "title": "朱經武",
     "description": "超導體物理學家，1987年液氮溫度超導突破的領導者",
     "category": "People",
-    "tags": [
-      "物理學家",
-      "超導體",
-      "諾貝爾獎候選人",
-      "中研院",
-      "休士頓大學"
-    ],
+    "tags": ["物理學家", "超導體", "諾貝爾獎候選人", "中研院", "休士頓大學"],
     "url": "https://taiwan.md/People/%E6%9C%B1%E7%B6%93%E6%AD%A6",
     "readingTime": 7,
     "featured": true,
@@ -3576,15 +2626,7 @@
     "title": "江振誠",
     "description": "台灣國際名廚，世界 50 大餐廳主廚，RAW 創辦人，以「八角哲學」聞名全球",
     "category": "People",
-    "tags": [
-      "人物",
-      "江振誠",
-      "名廚",
-      "米其林",
-      "RAW",
-      "餐飲",
-      "台灣"
-    ],
+    "tags": ["人物", "江振誠", "名廚", "米其林", "RAW", "餐飲", "台灣"],
     "url": "https://taiwan.md/People/%E6%B1%9F%E6%8C%AF%E8%AA%A0",
     "readingTime": 10,
     "featured": false,
@@ -3613,12 +2655,7 @@
     "title": "何飛鵬",
     "description": "城邦媒體集團創辦人，台灣出版業巨擘，數位轉型先行者",
     "category": "People",
-    "tags": [
-      "城邦媒體",
-      "出版業",
-      "數位轉型",
-      "媒體經營"
-    ],
+    "tags": ["城邦媒體", "出版業", "數位轉型", "媒體經營"],
     "url": "https://taiwan.md/People/%E4%BD%95%E9%A3%9B%E9%B5%AC",
     "readingTime": 8,
     "featured": false,
@@ -3629,12 +2666,7 @@
     "title": "吳大猷",
     "description": "理論物理學家，被譽為中國物理學之父",
     "category": "People",
-    "tags": [
-      "人物",
-      "科學家",
-      "物理學",
-      "教育"
-    ],
+    "tags": ["人物", "科學家", "物理學", "教育"],
     "url": "https://taiwan.md/People/%E5%90%B3%E5%A4%A7%E7%8C%B7",
     "readingTime": 7,
     "featured": true,
@@ -3664,14 +2696,7 @@
     "title": "吳哲宇 — 用程式碼創造生命的新媒體藝術家",
     "description": "從台灣走向威尼斯雙年展、Art Basel Miami 的生成藝術先驅，用演算法在數位世界中鍛造永恆",
     "category": "People",
-    "tags": [
-      "新媒體藝術",
-      "生成藝術",
-      "程式創作",
-      "NFT",
-      "教育",
-      "人物"
-    ],
+    "tags": ["新媒體藝術", "生成藝術", "程式創作", "NFT", "教育", "人物"],
     "url": "https://taiwan.md/People/%E5%90%B3%E5%93%B2%E5%AE%87",
     "readingTime": 14,
     "featured": false,
@@ -3682,14 +2707,7 @@
     "title": "吳寶春",
     "description": "世界麵包大賽冠軍，以荔枝玫瑰麵包驚艷國際，從屏東鄉下到世界頂尖烘焙職人",
     "category": "People",
-    "tags": [
-      "餐飲",
-      "烘焙",
-      "職人精神",
-      "世界冠軍",
-      "屏東",
-      "麵包"
-    ],
+    "tags": ["餐飲", "烘焙", "職人精神", "世界冠軍", "屏東", "麵包"],
     "url": "https://taiwan.md/People/%E5%90%B3%E5%AF%B6%E6%98%A5",
     "readingTime": 4,
     "featured": false,
@@ -3700,13 +2718,7 @@
     "title": "呂秀蓮",
     "description": "台灣女權運動先驅，華人世界首位女性副總統",
     "category": "People",
-    "tags": [
-      "人物",
-      "政治家",
-      "女權運動",
-      "副總統",
-      "美麗島事件"
-    ],
+    "tags": ["人物", "政治家", "女權運動", "副總統", "美麗島事件"],
     "url": "https://taiwan.md/People/%E5%91%82%E7%A7%80%E8%93%AE",
     "readingTime": 12,
     "featured": false,
@@ -3735,13 +2747,7 @@
     "title": "宏碁集團 (Acer) - PC 產業的變革先驅",
     "description": "從台灣桃園起家的個人電腦先驅，創造「多品牌、多通路」商業模式，成為全球 PC 產業的變革引擎",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "個人電腦",
-      "品牌",
-      "全球化"
-    ],
+    "tags": ["Economy", "企業", "個人電腦", "品牌", "全球化"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AE%8F%E7%A2%81",
     "readingTime": 19,
     "featured": false,
@@ -3752,12 +2758,7 @@
     "title": "戒嚴時期",
     "description": "戒嚴時期是理解現代台灣政治發展的關鍵階段。這段威權統治的歷史，不僅深刻影響了台灣社會的政治文化，也為後來的民主化轉型奠定了對比基礎。戒嚴期間的政治迫害與人權侵犯，成為台灣追求民主自由的重要動力，同時也是轉型正義必須面對的歷史遺產。",
     "category": "History",
-    "tags": [
-      "歷史",
-      "戒嚴",
-      "威權",
-      "白色恐怖"
-    ],
+    "tags": ["歷史", "戒嚴", "威權", "白色恐怖"],
     "url": "https://taiwan.md/History/%E6%88%92%E5%9A%B4%E6%99%82%E6%9C%9F",
     "readingTime": 11,
     "featured": false,
@@ -3768,15 +2769,7 @@
     "title": "李安",
     "description": "從台灣到好萊塢，征服世界的跨文化敘事大師與電影技術革新者",
     "category": "People",
-    "tags": [
-      "人物",
-      "李安",
-      "導演",
-      "奧斯卡",
-      "電影",
-      "跨文化",
-      "好萊塢"
-    ],
+    "tags": ["人物", "李安", "導演", "奧斯卡", "電影", "跨文化", "好萊塢"],
     "url": "https://taiwan.md/People/%E6%9D%8E%E5%AE%89",
     "readingTime": 21,
     "featured": true,
@@ -3824,13 +2817,7 @@
     "title": "李國修",
     "description": "屏風表演班創辦人，台灣喜劇之王，2013年病逝",
     "category": "People",
-    "tags": [
-      "李國修",
-      "屏風表演班",
-      "喜劇",
-      "劇場",
-      "台灣戲劇"
-    ],
+    "tags": ["李國修", "屏風表演班", "喜劇", "劇場", "台灣戲劇"],
     "url": "https://taiwan.md/People/%E6%9D%8E%E5%9C%8B%E4%BF%AE",
     "readingTime": 12,
     "featured": false,
@@ -3861,12 +2848,7 @@
     "title": "李登輝",
     "description": "台灣民主化推手，被譽為「民主先生」",
     "category": "People",
-    "tags": [
-      "人物",
-      "政治",
-      "民主化",
-      "總統"
-    ],
+    "tags": ["人物", "政治", "民主化", "總統"],
     "url": "https://taiwan.md/People/%E6%9D%8E%E7%99%BB%E8%BC%9D",
     "readingTime": 7,
     "featured": false,
@@ -3877,15 +2859,7 @@
     "title": "李遠哲",
     "description": "1986 年諾貝爾化學獎得主，以交叉分子束技術開創化學動力學新領域，台灣首位諾貝爾科學獎得主",
     "category": "People",
-    "tags": [
-      "人物",
-      "李遠哲",
-      "諾貝爾獎",
-      "化學",
-      "科學家",
-      "中研院",
-      "台灣"
-    ],
+    "tags": ["人物", "李遠哲", "諾貝爾獎", "化學", "科學家", "中研院", "台灣"],
     "url": "https://taiwan.md/People/%E6%9D%8E%E9%81%A0%E5%93%B2",
     "readingTime": 10,
     "featured": true,
@@ -3896,13 +2870,7 @@
     "title": "杜奕瑾",
     "description": "PTT 創辦人、微軟 AI 研發主管、台灣人工智慧實驗室創辦人——從 BBS 言論自由到 AI 科技向善的台灣數位先驅",
     "category": "People",
-    "tags": [
-      "杜奕瑾",
-      "PTT",
-      "Taiwan AI Labs",
-      "數位民主",
-      "人工智慧"
-    ],
+    "tags": ["杜奕瑾", "PTT", "Taiwan AI Labs", "數位民主", "人工智慧"],
     "url": "https://taiwan.md/People/%E6%9D%9C%E5%A5%95%E7%91%BE",
     "readingTime": 5,
     "featured": true,
@@ -3913,13 +2881,7 @@
     "title": "杜聰明",
     "description": "台灣第一位醫學博士，台灣現代醫學之父",
     "category": "People",
-    "tags": [
-      "醫學",
-      "醫學博士",
-      "台灣現代醫學",
-      "京都帝國大學",
-      "藥理學"
-    ],
+    "tags": ["醫學", "醫學博士", "台灣現代醫學", "京都帝國大學", "藥理學"],
     "url": "https://taiwan.md/People/%E6%9D%9C%E8%81%B0%E6%98%8E",
     "readingTime": 8,
     "featured": false,
@@ -3930,15 +2892,7 @@
     "title": "周杰倫",
     "description": "華語流行天王，用中國風R&B重新定義亞洲流行音樂的革命性創作者",
     "category": "People",
-    "tags": [
-      "人物",
-      "周杰倫",
-      "華語流行音樂",
-      "歌手",
-      "創作",
-      "R&B",
-      "中國風"
-    ],
+    "tags": ["人物", "周杰倫", "華語流行音樂", "歌手", "創作", "R&B", "中國風"],
     "url": "https://taiwan.md/People/%E5%91%A8%E6%9D%B0%E5%80%AB",
     "readingTime": 28,
     "featured": true,
@@ -3949,13 +2903,7 @@
     "title": "和碩聯合科技 (Pegatron) - 電子代工的隱形冠軍",
     "description": "從華碩分拆而生的代工巨頭，是 iPhone、遊戲機、筆電背後的隱形製造者，「電子五哥」之一",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "電子代工",
-      "製造業",
-      "ODM"
-    ],
+    "tags": ["Economy", "企業", "電子代工", "製造業", "ODM"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88",
     "readingTime": 18,
     "featured": false,
@@ -3966,13 +2914,7 @@
     "title": "夜市文化",
     "description": "164個列管夜市、台南平均3.8萬人擁有一個夜市，從廟埕到國際觀光景點",
     "category": "Food",
-    "tags": [
-      "夜市",
-      "小吃",
-      "文化",
-      "觀光",
-      "庶民生活"
-    ],
+    "tags": ["夜市", "小吃", "文化", "觀光", "庶民生活"],
     "url": "https://taiwan.md/Food/%E5%A4%9C%E5%B8%82%E6%96%87%E5%8C%96",
     "readingTime": 19,
     "featured": false,
@@ -3983,14 +2925,7 @@
     "title": "夜市經濟學：一場沒有品牌的商業奇蹟",
     "description": "探索台灣夜市如何在沒有品牌、裝潢和固定地點的情況下，創造年產值近4000億的經濟奇蹟",
     "category": "Economy",
-    "tags": [
-      "經濟",
-      "夜市",
-      "台灣",
-      "商業模式",
-      "觀光",
-      "小吃"
-    ],
+    "tags": ["經濟", "夜市", "台灣", "商業模式", "觀光", "小吃"],
     "url": "https://taiwan.md/Economy/%E5%A4%9C%E5%B8%82%E7%B6%93%E6%BF%9F%E5%AD%B8",
     "readingTime": 13,
     "featured": false,
@@ -4001,13 +2936,7 @@
     "title": "夜生活與KTV文化",
     "description": "從錢櫃包廂到深夜食堂，24 小時不打烊的島嶼夜生活",
     "category": "Lifestyle",
-    "tags": [
-      "生活",
-      "夜生活",
-      "KTV",
-      "深夜食堂",
-      "台灣"
-    ],
+    "tags": ["生活", "夜生活", "KTV", "深夜食堂", "台灣"],
     "url": "https://taiwan.md/Lifestyle/%E5%A4%9C%E7%94%9F%E6%B4%BB%E8%88%87KTV%E6%96%87%E5%8C%96",
     "readingTime": 13,
     "featured": false,
@@ -4018,13 +2947,7 @@
     "title": "奇美實業：許文龍的壓克力王國與博物館夢想",
     "description": "從1960年台南仁德小工廠起步，許文龍用一生打造亞洲最大ABS材料王國，更創建奇美博物館回饋社會。證明台灣企業可以兼顧商業成功與人文關懷",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "化學工業",
-      "高分子材料",
-      "台南企業"
-    ],
+    "tags": ["Economy", "企業", "化學工業", "高分子材料", "台南企業"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%A5%87%E7%BE%8E%E5%AF%A6%E6%A5%AD",
     "readingTime": 12,
     "featured": false,
@@ -4055,13 +2978,7 @@
     "title": "明華園",
     "description": "從戶外野台到小巨蛋，台灣歌仔戲第一品牌用四代人的堅持證明：傳統不是過去式，是進行式",
     "category": "People",
-    "tags": [
-      "歌仔戲",
-      "傳統藝術",
-      "表演藝術",
-      "明華園",
-      "陳勝福"
-    ],
+    "tags": ["歌仔戲", "傳統藝術", "表演藝術", "明華園", "陳勝福"],
     "url": "https://taiwan.md/People/%E6%98%8E%E8%8F%AF%E5%9C%92",
     "readingTime": 5,
     "featured": false,
@@ -4072,12 +2989,7 @@
     "title": "林百里",
     "description": "廣達電腦創辦人，筆記型電腦代工之王，AI時代的轉型先鋒",
     "category": "People",
-    "tags": [
-      "企業家",
-      "廣達電腦",
-      "ODM代工",
-      "人工智慧"
-    ],
+    "tags": ["企業家", "廣達電腦", "ODM代工", "人工智慧"],
     "url": "https://taiwan.md/People/%E6%9E%97%E7%99%BE%E9%87%8C",
     "readingTime": 5,
     "featured": false,
@@ -4088,13 +3000,7 @@
     "title": "林青霞",
     "description": "瓊瑤電影女王轉型武俠經典，華語影壇傳奇女星",
     "category": "People",
-    "tags": [
-      "林青霞",
-      "演員",
-      "瓊瑤電影",
-      "東方不敗",
-      "華語電影"
-    ],
+    "tags": ["林青霞", "演員", "瓊瑤電影", "東方不敗", "華語電影"],
     "url": "https://taiwan.md/People/%E6%9E%97%E9%9D%92%E9%9C%9E",
     "readingTime": 12,
     "featured": false,
@@ -4105,14 +3011,7 @@
     "title": "林俊傑",
     "description": "新加坡出生台灣發展的華語創作天王，以《江南》等作品風靡華人世界",
     "category": "People",
-    "tags": [
-      "音樂",
-      "創作歌手",
-      "華語流行",
-      "新加坡",
-      "流行音樂",
-      "金曲獎"
-    ],
+    "tags": ["音樂", "創作歌手", "華語流行", "新加坡", "流行音樂", "金曲獎"],
     "url": "https://taiwan.md/People/%E6%9E%97%E4%BF%8A%E5%82%91",
     "readingTime": 7,
     "featured": false,
@@ -4123,14 +3022,7 @@
     "title": "林書豪",
     "description": "從哈佛學霸到NBA總冠軍，引爆全球林來瘋的台裔美國球員",
     "category": "People",
-    "tags": [
-      "人物",
-      "籃球",
-      "台裔美國人",
-      "NBA",
-      "林來瘋",
-      "哈佛大學"
-    ],
+    "tags": ["人物", "籃球", "台裔美國人", "NBA", "林來瘋", "哈佛大學"],
     "url": "https://taiwan.md/People/%E6%9E%97%E6%9B%B8%E8%B1%AA",
     "readingTime": 8,
     "featured": true,
@@ -4141,13 +3033,7 @@
     "title": "林義傑",
     "description": "極地超馬傳奇，用雙腳征服地球最極端環境的台灣跑者",
     "category": "People",
-    "tags": [
-      "人物",
-      "超級馬拉松",
-      "極地探險",
-      "運動員",
-      "撒哈拉沙漠"
-    ],
+    "tags": ["人物", "超級馬拉松", "極地探險", "運動員", "撒哈拉沙漠"],
     "url": "https://taiwan.md/People/%E6%9E%97%E7%BE%A9%E5%82%91",
     "readingTime": 12,
     "featured": false,
@@ -4175,12 +3061,7 @@
     "title": "林懷民",
     "description": "雲門舞集創辦人，台灣現代舞之父",
     "category": "People",
-    "tags": [
-      "人物",
-      "舞蹈",
-      "藝術",
-      "表演藝術"
-    ],
+    "tags": ["人物", "舞蹈", "藝術", "表演藝術"],
     "url": "https://taiwan.md/People/%E6%9E%97%E6%87%B7%E6%B0%91",
     "readingTime": 6,
     "featured": true,
@@ -4191,14 +3072,7 @@
     "title": "注音符號：台灣獨有的文字密碼",
     "description": "全世界只有台灣還在日常使用的拼音系統——注音符號如何從百年前的古文字簡化方案，成為 2300 萬人的共同密碼",
     "category": "Culture",
-    "tags": [
-      "注音",
-      "語言",
-      "教育",
-      "文化認同",
-      "輸入法",
-      "ㄅㄆㄇ"
-    ],
+    "tags": ["注音", "語言", "教育", "文化認同", "輸入法", "ㄅㄆㄇ"],
     "url": "https://taiwan.md/Culture/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F",
     "readingTime": 13,
     "featured": true,
@@ -4209,13 +3083,7 @@
     "title": "社會住宅與居住正義",
     "description": "台灣如何透過社會住宅政策實現居住正義，讓每個人都有安身立命的地方",
     "category": "Society",
-    "tags": [
-      "社會住宅",
-      "居住正義",
-      "住宅政策",
-      "包租代管",
-      "都市更新"
-    ],
+    "tags": ["社會住宅", "居住正義", "住宅政策", "包租代管", "都市更新"],
     "url": "https://taiwan.md/Society/%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
     "readingTime": 23,
     "featured": false,
@@ -4281,13 +3149,7 @@
     "title": "城市特色與區域文化",
     "description": "從台北的國際都會到台南的古都風情，台灣各城市如何形塑獨特的地方認同",
     "category": "Geography",
-    "tags": [
-      "城市",
-      "區域文化",
-      "地方特色",
-      "都市發展",
-      "文化地理"
-    ],
+    "tags": ["城市", "區域文化", "地方特色", "都市發展", "文化地理"],
     "url": "https://taiwan.md/Geography/%E5%9F%8E%E5%B8%82%E7%89%B9%E8%89%B2%E8%88%87%E5%8D%80%E5%9F%9F%E6%96%87%E5%8C%96",
     "readingTime": 18,
     "featured": true,
@@ -4298,13 +3160,7 @@
     "title": "城市特色與區域文化",
     "description": "從新北404萬人到台南185萬人，看六都如何在產業轉型中塑造各自的城市性格",
     "category": "城市特色與區域文化.md",
-    "tags": [
-      "城市",
-      "區域文化",
-      "六都",
-      "產業轉型",
-      "人口遷移"
-    ],
+    "tags": ["城市", "區域文化", "六都", "產業轉型", "人口遷移"],
     "url": "https://taiwan.md/%E5%9F%8E%E5%B8%82%E7%89%B9%E8%89%B2%E8%88%87%E5%8D%80%E5%9F%9F%E6%96%87%E5%8C%96",
     "readingTime": 15,
     "featured": false,
@@ -4315,13 +3171,7 @@
     "title": "客家文化與語言",
     "description": "硬頸精神與天穿日：台灣客家人的文化傳承與現代復振",
     "category": "Culture",
-    "tags": [
-      "客家",
-      "語言",
-      "文化",
-      "傳統",
-      "族群"
-    ],
+    "tags": ["客家", "語言", "文化", "傳統", "族群"],
     "url": "https://taiwan.md/Culture/%E5%AE%A2%E5%AE%B6%E6%96%87%E5%8C%96%E8%88%87%E8%AA%9E%E8%A8%80",
     "readingTime": 14,
     "featured": false,
@@ -4332,14 +3182,7 @@
     "title": "客家飲食文化",
     "description": "客家人豐富多元的飲食文化，從擂茶的醇厚香味到野薑花粽的山林風情，展現客家族群勤儉持家與就地取材的生活智慧",
     "category": "Food",
-    "tags": [
-      "Food",
-      "客家",
-      "擂茶",
-      "野薑花粽",
-      "傳統美食",
-      "族群文化"
-    ],
+    "tags": ["Food", "客家", "擂茶", "野薑花粽", "傳統美食", "族群文化"],
     "url": "https://taiwan.md/Food/%E5%AE%A2%E5%AE%B6%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
     "readingTime": 14,
     "featured": false,
@@ -4350,13 +3193,7 @@
     "title": "施明德",
     "description": "美麗島事件領袖，民主運動先驅，坐牢25年的政治受難者",
     "category": "People",
-    "tags": [
-      "民主運動",
-      "美麗島事件",
-      "政治受難者",
-      "倒扁紅衫軍",
-      "政治領袖"
-    ],
+    "tags": ["民主運動", "美麗島事件", "政治受難者", "倒扁紅衫軍", "政治領袖"],
     "url": "https://taiwan.md/People/%E6%96%BD%E6%98%8E%E5%BE%B7",
     "readingTime": 9,
     "featured": false,
@@ -4367,12 +3204,7 @@
     "title": "施振榮",
     "description": "宏碁電腦創辦人，微笑曲線理論提出者",
     "category": "People",
-    "tags": [
-      "人物",
-      "企業家",
-      "科技",
-      "管理"
-    ],
+    "tags": ["人物", "企業家", "科技", "管理"],
     "url": "https://taiwan.md/People/%E6%96%BD%E6%8C%AF%E6%A6%AE",
     "readingTime": 7,
     "featured": false,
@@ -4383,13 +3215,7 @@
     "title": "流行音樂與金曲獎",
     "description": "從華語葛萊美到音樂多元化，台灣流行音樂的創新與傳承",
     "category": "Music",
-    "tags": [
-      "金曲獎",
-      "流行音樂",
-      "獨立音樂",
-      "原住民音樂",
-      "華語音樂"
-    ],
+    "tags": ["金曲獎", "流行音樂", "獨立音樂", "原住民音樂", "華語音樂"],
     "url": "https://taiwan.md/Music/%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E8%88%87%E9%87%91%E6%9B%B2%E7%8D%8E",
     "readingTime": 12,
     "featured": false,
@@ -4400,14 +3226,7 @@
     "title": "為什麼台灣需要自己的知識庫",
     "description": "當 AI 模型用人類的語言說著別人寫的故事，台灣人要怎麼確保自己的故事不被改寫？",
     "category": "About",
-    "tags": [
-      "AI",
-      "資訊戰",
-      "開源",
-      "SSOT",
-      "知識主權",
-      "台灣"
-    ],
+    "tags": ["AI", "資訊戰", "開源", "SSOT", "知識主權", "台灣"],
     "url": "https://taiwan.md/About/%E7%82%BA%E4%BB%80%E9%BA%BC%E5%8F%B0%E7%81%A3%E9%9C%80%E8%A6%81%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9F%A5%E8%AD%98%E5%BA%AB",
     "readingTime": 11,
     "featured": false,
@@ -4418,14 +3237,7 @@
     "title": "珍珠奶茶",
     "description": "從台灣夜市小攤到全球飲品帝國，珍珠奶茶的起源爭議與文化征服之路",
     "category": "Food",
-    "tags": [
-      "美食",
-      "珍珠奶茶",
-      "手搖飲",
-      "全球化",
-      "軟實力",
-      "文化外交"
-    ],
+    "tags": ["美食", "珍珠奶茶", "手搖飲", "全球化", "軟實力", "文化外交"],
     "url": "https://taiwan.md/Food/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6",
     "readingTime": 16,
     "featured": true,
@@ -4436,12 +3248,7 @@
     "title": "看見台灣 — 歷史上的台灣印象",
     "description": "從大航海時代到當代，各時代各民族如何看見這座島嶼",
     "category": "About",
-    "tags": [
-      "quotes",
-      "history",
-      "literature",
-      "culture"
-    ],
+    "tags": ["quotes", "history", "literature", "culture"],
     "url": "https://taiwan.md/About/%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E5%BC%95%E8%A8%80%E9%9B%86",
     "readingTime": 14,
     "featured": true,
@@ -4452,12 +3259,7 @@
     "title": "研華科技",
     "description": "全球工業電腦領導廠商，從台灣起家的物聯網智能系統先驅",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "工業電腦",
-      "IoT"
-    ],
+    "tags": ["Economy", "企業", "工業電腦", "IoT"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%A0%94%E8%8F%AF%E7%A7%91%E6%8A%80",
     "readingTime": 14,
     "featured": false,
@@ -4468,14 +3270,7 @@
     "title": "科技園區發展",
     "description": "從竹科到南科，探討台灣科學園區的發展歷程與三大園區的獨特定位",
     "category": "Technology",
-    "tags": [
-      "科學園區",
-      "竹科",
-      "中科",
-      "南科",
-      "高科技產業",
-      "產業聚落"
-    ],
+    "tags": ["科學園區", "竹科", "中科", "南科", "高科技產業", "產業聚落"],
     "url": "https://taiwan.md/Technology/%E7%A7%91%E6%8A%80%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
     "readingTime": 11,
     "featured": true,
@@ -4486,12 +3281,7 @@
     "title": "紀政",
     "description": "飛躍的羚羊，1968墨西哥奧運80公尺跨欄銅牌得主",
     "category": "People",
-    "tags": [
-      "體育",
-      "田徑",
-      "奧運",
-      "跨欄"
-    ],
+    "tags": ["體育", "田徑", "奧運", "跨欄"],
     "url": "https://taiwan.md/People/%E7%B4%80%E6%94%BF",
     "readingTime": 5,
     "featured": false,
@@ -4502,11 +3292,7 @@
     "title": "原住民文學",
     "description": "",
     "category": "Art",
-    "tags": [
-      "文學",
-      "原住民",
-      "口傳文學"
-    ],
+    "tags": ["文學", "原住民", "口傳文學"],
     "url": "https://taiwan.md/Art/%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%AD%B8",
     "readingTime": 16,
     "featured": false,
@@ -4537,13 +3323,7 @@
     "title": "島嶼的山海之巔：台灣國家公園的生態與地景",
     "description": "探索台灣九座國家公園的獨特生態系統與保育價值，從亞熱帶海岸到高山雪線的完整地景",
     "category": "Nature",
-    "tags": [
-      "國家公園",
-      "生態保育",
-      "自然地景",
-      "生物多樣性",
-      "環境保護"
-    ],
+    "tags": ["國家公園", "生態保育", "自然地景", "生物多樣性", "環境保護"],
     "url": "https://taiwan.md/Nature/%E5%B3%B6%E5%B6%BC%E7%9A%84%E5%B1%B1%E6%B5%B7%E4%B9%8B%E5%B7%94%EF%BC%9A%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E7%9A%84%E7%94%9F%E6%85%8B%E8%88%87%E5%9C%B0%E6%99%AF",
     "readingTime": 12,
     "featured": true,
@@ -4590,13 +3370,7 @@
     "title": "島嶼的蛻變：台灣產業轉型與經濟發展軌跡",
     "description": "從農業社會到科技島國，探索台灣如何在短短半世紀內實現經濟奇蹟，成為全球高科技產業的關鍵樞紐",
     "category": "Economy",
-    "tags": [
-      "經濟發展",
-      "產業轉型",
-      "經濟奇蹟",
-      "高科技產業",
-      "台灣發展模式"
-    ],
+    "tags": ["經濟發展", "產業轉型", "經濟奇蹟", "高科技產業", "台灣發展模式"],
     "url": "https://taiwan.md/Economy/%E7%94%A2%E6%A5%AD%E8%BD%89%E5%9E%8B%E8%88%87%E7%B6%93%E6%BF%9F%E7%99%BC%E5%B1%95%E8%BB%8C%E8%B7%A1",
     "readingTime": 15,
     "featured": true,
@@ -4626,13 +3400,7 @@
     "title": "桂綸鎂",
     "description": "從《不能說的秘密》到國際影展常客，低調演技派女星",
     "category": "People",
-    "tags": [
-      "桂綸鎂",
-      "演員",
-      "不能說的秘密",
-      "國際影展",
-      "演技派"
-    ],
+    "tags": ["桂綸鎂", "演員", "不能說的秘密", "國際影展", "演技派"],
     "url": "https://taiwan.md/People/%E6%A1%82%E7%B6%B8%E9%8E%82",
     "readingTime": 11,
     "featured": false,
@@ -4643,14 +3411,7 @@
     "title": "氣候",
     "description": "台灣多樣的亞熱帶季風氣候，從季風系統到颱風，影響島嶼生活的天氣密碼",
     "category": "Geography",
-    "tags": [
-      "氣候",
-      "季風",
-      "颱風",
-      "梅雨",
-      "氣候變遷",
-      "降雨"
-    ],
+    "tags": ["氣候", "季風", "颱風", "梅雨", "氣候變遷", "降雨"],
     "url": "https://taiwan.md/Geography/%E6%B0%A3%E5%80%99",
     "readingTime": 15,
     "featured": false,
@@ -4661,13 +3422,7 @@
     "title": "特有種",
     "description": "台灣豐富的特有種生物，展現島嶼生物地理學的演化奇蹟與保育重要性",
     "category": "Nature",
-    "tags": [
-      "Nature",
-      "特有種",
-      "生物多樣性",
-      "台灣黑熊",
-      "櫻花鉤吻鮭"
-    ],
+    "tags": ["Nature", "特有種", "生物多樣性", "台灣黑熊", "櫻花鉤吻鮭"],
     "url": "https://taiwan.md/Nature/%E7%89%B9%E6%9C%89%E7%A8%AE",
     "readingTime": 8,
     "featured": false,
@@ -4678,13 +3433,7 @@
     "title": "翁啟惠",
     "description": "醣化學世界權威，中研院前院長，諾貝爾獎候選人",
     "category": "People",
-    "tags": [
-      "學者",
-      "化學",
-      "中研院",
-      "醣化學",
-      "浩鼎案"
-    ],
+    "tags": ["學者", "化學", "中研院", "醣化學", "浩鼎案"],
     "url": "https://taiwan.md/People/%E7%BF%81%E5%95%9F%E6%83%A0",
     "readingTime": 6,
     "featured": false,
@@ -4695,13 +3444,7 @@
     "title": "茶文化",
     "description": "台灣從傳統茶藝到現代手搖飲的茶文化演進，展現島嶼獨特的茶葉品種與飲茶文化",
     "category": "Food",
-    "tags": [
-      "Food",
-      "茶文化",
-      "烏龍茶",
-      "高山茶",
-      "手搖飲"
-    ],
+    "tags": ["Food", "茶文化", "烏龍茶", "高山茶", "手搖飲"],
     "url": "https://taiwan.md/Food/%E8%8C%B6%E6%96%87%E5%8C%96",
     "readingTime": 9,
     "featured": true,
@@ -4712,13 +3455,7 @@
     "title": "馬英九",
     "description": "第十二、十三任總統，兩岸關係破冰推手，ECFA簽署者",
     "category": "People",
-    "tags": [
-      "總統",
-      "國民黨",
-      "兩岸關係",
-      "ECFA",
-      "台北市長"
-    ],
+    "tags": ["總統", "國民黨", "兩岸關係", "ECFA", "台北市長"],
     "url": "https://taiwan.md/People/%E9%A6%AC%E8%8B%B1%E4%B9%9D",
     "readingTime": 11,
     "featured": false,
@@ -4729,14 +3466,7 @@
     "title": "高俊明",
     "description": "台灣基督長老教會牧師，戒嚴時期人權鬥士與良心犯",
     "category": "People",
-    "tags": [
-      "人物",
-      "牧師",
-      "人權運動",
-      "戒嚴時期",
-      "良心犯",
-      "基督長老教會"
-    ],
+    "tags": ["人物", "牧師", "人權運動", "戒嚴時期", "良心犯", "基督長老教會"],
     "url": "https://taiwan.md/People/%E9%AB%98%E4%BF%8A%E6%98%8E",
     "readingTime": 12,
     "featured": false,
@@ -4747,13 +3477,7 @@
     "title": "健保制度",
     "description": "台灣全民健康保險（NHI）制度，提供覆蓋全民、價格低廉且高品質的醫療服務，是全球公認的優良健保體系",
     "category": "Lifestyle",
-    "tags": [
-      "Lifestyle",
-      "健保",
-      "醫療制度",
-      "公共衛生",
-      "社會福利"
-    ],
+    "tags": ["Lifestyle", "健保", "醫療制度", "公共衛生", "社會福利"],
     "url": "https://taiwan.md/Lifestyle/%E5%81%A5%E4%BF%9D%E5%88%B6%E5%BA%A6",
     "readingTime": 6,
     "featured": true,
@@ -4793,13 +3517,7 @@
     "title": "國家公園",
     "description": "台灣9座國家公園的生態寶庫，從玉山之巔到海底世界的完整保育體系",
     "category": "Nature",
-    "tags": [
-      "自然",
-      "國家公園",
-      "生態保育",
-      "觀光",
-      "環境保護"
-    ],
+    "tags": ["自然", "國家公園", "生態保育", "觀光", "環境保護"],
     "url": "https://taiwan.md/Nature/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92",
     "readingTime": 17,
     "featured": false,
@@ -4810,13 +3528,7 @@
     "title": "張艾嘉",
     "description": "華語影壇多棲女王，集導演、演員、歌手、編劇於一身",
     "category": "People",
-    "tags": [
-      "電影",
-      "導演",
-      "演員",
-      "歌手",
-      "編劇"
-    ],
+    "tags": ["電影", "導演", "演員", "歌手", "編劇"],
     "url": "https://taiwan.md/People/%E5%BC%B5%E8%89%BE%E5%98%89",
     "readingTime": 5,
     "featured": false,
@@ -4846,12 +3558,7 @@
     "title": "張明正",
     "description": "趨勢科技創辦人，全球資安產業先驅，台灣軟體業國際化典範",
     "category": "People",
-    "tags": [
-      "趨勢科技",
-      "資安產業",
-      "軟體業",
-      "國際化"
-    ],
+    "tags": ["趨勢科技", "資安產業", "軟體業", "國際化"],
     "url": "https://taiwan.md/People/%E5%BC%B5%E6%98%8E%E6%AD%A3",
     "readingTime": 7,
     "featured": false,
@@ -4862,14 +3569,7 @@
     "title": "張惠妹",
     "description": "卑南族天后，華語流行音樂最高銷量天后之一，同志平權代言人",
     "category": "People",
-    "tags": [
-      "音樂",
-      "原住民",
-      "卑南族",
-      "天后",
-      "同志平權",
-      "流行音樂"
-    ],
+    "tags": ["音樂", "原住民", "卑南族", "天后", "同志平權", "流行音樂"],
     "url": "https://taiwan.md/People/%E5%BC%B5%E6%83%A0%E5%A6%B9",
     "readingTime": 6,
     "featured": false,
@@ -4880,14 +3580,7 @@
     "title": "教育制度與升學文化",
     "description": "從聯考制度到十二年國教，台灣教育如何在競爭與多元之間尋求平衡",
     "category": "Society",
-    "tags": [
-      "教育",
-      "升學",
-      "十二年國教",
-      "技職教育",
-      "教育改革",
-      "競爭文化"
-    ],
+    "tags": ["教育", "升學", "十二年國教", "技職教育", "教育改革", "競爭文化"],
     "url": "https://taiwan.md/Society/%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6%E8%88%87%E5%8D%87%E5%AD%B8%E6%96%87%E5%8C%96",
     "readingTime": 16,
     "featured": true,
@@ -4918,12 +3611,7 @@
     "title": "清治時期",
     "description": "1683-1895年清朝統治台灣約212年，從消極治理到積極建設，奠定現代台灣行政區劃與漢人社會基礎",
     "category": "History",
-    "tags": [
-      "History",
-      "清朝",
-      "開港通商",
-      "牡丹社事件"
-    ],
+    "tags": ["History", "清朝", "開港通商", "牡丹社事件"],
     "url": "https://taiwan.md/History/%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F",
     "readingTime": 7,
     "featured": false,
@@ -4934,12 +3622,7 @@
     "title": "荷西明鄭時期",
     "description": "台灣歷史上首次有系統性的殖民統治，從荷蘭人建立熱蘭遮城到鄭成功開台，奠定漢人移居與政治制度基礎",
     "category": "History",
-    "tags": [
-      "History",
-      "荷蘭東印度公司",
-      "明鄭",
-      "鄭成功"
-    ],
+    "tags": ["History", "荷蘭東印度公司", "明鄭", "鄭成功"],
     "url": "https://taiwan.md/History/%E8%8D%B7%E8%A5%BF%E6%98%8E%E9%84%AD%E6%99%82%E6%9C%9F",
     "readingTime": 6,
     "featured": false,
@@ -4950,13 +3633,7 @@
     "title": "莊智淵",
     "description": "桌球教父，四屆奧運代表，獨自苦練的孤獨英雄",
     "category": "People",
-    "tags": [
-      "體育",
-      "桌球",
-      "奧運",
-      "職業桌球",
-      "歐洲聯賽"
-    ],
+    "tags": ["體育", "桌球", "奧運", "職業桌球", "歐洲聯賽"],
     "url": "https://taiwan.md/People/%E8%8E%8A%E6%99%BA%E6%B7%B5",
     "readingTime": 7,
     "featured": false,
@@ -4967,13 +3644,7 @@
     "title": "許文龍",
     "description": "奇美集團創辦人，企業家、小提琴家、藝術收藏家的三重身份，奇美博物館創建者",
     "category": "People",
-    "tags": [
-      "奇美集團",
-      "企業家",
-      "音樂藝術",
-      "博物館",
-      "文化推廣"
-    ],
+    "tags": ["奇美集團", "企業家", "音樂藝術", "博物館", "文化推廣"],
     "url": "https://taiwan.md/People/%E8%A8%B1%E6%96%87%E9%BE%8D",
     "readingTime": 6,
     "featured": false,
@@ -4984,13 +3655,7 @@
     "title": "許芳宜",
     "description": "從宜蘭女孩到瑪乘舞團首席，再回台灣創立拉芳舞團——她用身體說出台灣最有力量的故事",
     "category": "People",
-    "tags": [
-      "舞蹈",
-      "表演藝術",
-      "瑪乘舞團",
-      "拉芳",
-      "現代舞"
-    ],
+    "tags": ["舞蹈", "表演藝術", "瑪乘舞團", "拉芳", "現代舞"],
     "url": "https://taiwan.md/People/%E8%A8%B1%E8%8A%B3%E5%AE%9C",
     "readingTime": 5,
     "featured": false,
@@ -5001,13 +3666,7 @@
     "title": "許倬雲",
     "description": "史學大師，《萬古江河》作者，匹茲堡大學榮休教授",
     "category": "People",
-    "tags": [
-      "歷史學家",
-      "史學",
-      "中國史",
-      "文化史",
-      "學者"
-    ],
+    "tags": ["歷史學家", "史學", "中國史", "文化史", "學者"],
     "url": "https://taiwan.md/People/%E8%A8%B1%E5%80%AC%E9%9B%B2",
     "readingTime": 8,
     "featured": false,
@@ -5018,13 +3677,7 @@
     "title": "許淑淨",
     "description": "2012倫敦奧運舉重銀牌遞補金牌，2016里約奧運金牌",
     "category": "People",
-    "tags": [
-      "體育",
-      "舉重",
-      "奧運",
-      "金牌",
-      "53公斤級"
-    ],
+    "tags": ["體育", "舉重", "奧運", "金牌", "53公斤級"],
     "url": "https://taiwan.md/People/%E8%A8%B1%E6%B7%91%E6%B7%A8",
     "readingTime": 8,
     "featured": false,
@@ -5035,12 +3688,7 @@
     "title": "郭台銘",
     "description": "鴻海精密創辦人，全球電子製造服務龍頭",
     "category": "People",
-    "tags": [
-      "人物",
-      "企業家",
-      "科技",
-      "製造業"
-    ],
+    "tags": ["人物", "企業家", "科技", "製造業"],
     "url": "https://taiwan.md/People/%E9%83%AD%E5%8F%B0%E9%8A%98",
     "readingTime": 9,
     "featured": false,
@@ -5051,13 +3699,7 @@
     "title": "郭泓志",
     "description": "左投悍將，MLB洛杉磯道奇隊，台灣棒球驕傲",
     "category": "People",
-    "tags": [
-      "體育",
-      "棒球",
-      "MLB",
-      "道奇隊",
-      "左投"
-    ],
+    "tags": ["體育", "棒球", "MLB", "道奇隊", "左投"],
     "url": "https://taiwan.md/People/%E9%83%AD%E6%B3%93%E5%BF%97",
     "readingTime": 8,
     "featured": false,
@@ -5068,15 +3710,7 @@
     "title": "郭婞淳",
     "description": "台灣舉重女神，2021 東京奧運金牌得主，59 公斤級三項奧運紀錄保持人",
     "category": "People",
-    "tags": [
-      "人物",
-      "郭婞淳",
-      "舉重",
-      "奧運",
-      "金牌",
-      "運動員",
-      "台灣"
-    ],
+    "tags": ["人物", "郭婞淳", "舉重", "奧運", "金牌", "運動員", "台灣"],
     "url": "https://taiwan.md/People/%E9%83%AD%E5%A9%9E%E6%B7%B3",
     "readingTime": 10,
     "featured": false,
@@ -5087,13 +3721,7 @@
     "title": "陳水扁",
     "description": "第十、十一任總統，2000年首次政黨輪替主角，台灣民主化重要人物",
     "category": "People",
-    "tags": [
-      "總統",
-      "政黨輪替",
-      "民進黨",
-      "台北市長",
-      "貪污案"
-    ],
+    "tags": ["總統", "政黨輪替", "民進黨", "台北市長", "貪污案"],
     "url": "https://taiwan.md/People/%E9%99%B3%E6%B0%B4%E6%89%81",
     "readingTime": 10,
     "featured": false,
@@ -5104,14 +3732,7 @@
     "title": "陳玉勳",
     "description": "台灣喜劇電影導演，《熱帶魚》《總鋪師》《消失的情人節》創作者",
     "category": "People",
-    "tags": [
-      "陳玉勳",
-      "導演",
-      "喜劇電影",
-      "熱帶魚",
-      "總鋪師",
-      "消失的情人節"
-    ],
+    "tags": ["陳玉勳", "導演", "喜劇電影", "熱帶魚", "總鋪師", "消失的情人節"],
     "url": "https://taiwan.md/People/%E9%99%B3%E7%8E%89%E5%8B%B3",
     "readingTime": 11,
     "featured": false,
@@ -5122,14 +3743,7 @@
     "title": "陳昇",
     "description": "獨立音樂先驅，跨年演唱會連唱30年傳奇，華語樂壇的創作鬼才",
     "category": "People",
-    "tags": [
-      "音樂",
-      "獨立音樂",
-      "創作歌手",
-      "跨年演唱會",
-      "民謠",
-      "搖滾"
-    ],
+    "tags": ["音樂", "獨立音樂", "創作歌手", "跨年演唱會", "民謠", "搖滾"],
     "url": "https://taiwan.md/People/%E9%99%B3%E6%98%87",
     "readingTime": 6,
     "featured": false,
@@ -5140,13 +3754,7 @@
     "title": "陳俊良",
     "description": "「設計詩人」，自由落體設計教室創辦人，台灣平面設計界先驅",
     "category": "People",
-    "tags": [
-      "設計師",
-      "平面設計",
-      "設計教育",
-      "自由落體",
-      "設計詩人"
-    ],
+    "tags": ["設計師", "平面設計", "設計教育", "自由落體", "設計詩人"],
     "url": "https://taiwan.md/People/%E9%99%B3%E4%BF%8A%E8%89%AF",
     "readingTime": 11,
     "featured": false,
@@ -5157,14 +3765,7 @@
     "title": "陳建仁",
     "description": "流行病學家，前副總統與行政院長，SARS與COVID-19抗疫功臣",
     "category": "People",
-    "tags": [
-      "學者",
-      "副總統",
-      "行政院長",
-      "流行病學",
-      "公共衛生",
-      "抗疫"
-    ],
+    "tags": ["學者", "副總統", "行政院長", "流行病學", "公共衛生", "抗疫"],
     "url": "https://taiwan.md/People/%E9%99%B3%E5%BB%BA%E4%BB%81",
     "readingTime": 7,
     "featured": false,
@@ -5194,12 +3795,7 @@
     "title": "陳偉殷",
     "description": "台灣旅美棒球投手，MLB中的台灣之光",
     "category": "People",
-    "tags": [
-      "人物",
-      "棒球",
-      "運動",
-      "職業運動員"
-    ],
+    "tags": ["人物", "棒球", "運動", "職業運動員"],
     "url": "https://taiwan.md/People/%E9%99%B3%E5%81%89%E6%AE%B7",
     "readingTime": 7,
     "featured": false,
@@ -5210,15 +3806,7 @@
     "title": "陳樹菊",
     "description": "台東菜販的平凡善舉，用一生詮釋什麼是真正的富有",
     "category": "People",
-    "tags": [
-      "人物",
-      "慈善",
-      "台東",
-      "菜販",
-      "時代雜誌",
-      "富比世",
-      "教育捐款"
-    ],
+    "tags": ["人物", "慈善", "台東", "菜販", "時代雜誌", "富比世", "教育捐款"],
     "url": "https://taiwan.md/People/%E9%99%B3%E6%A8%B9%E8%8F%8A",
     "readingTime": 7,
     "featured": false,
@@ -5229,12 +3817,7 @@
     "title": "創辦人 — 吳哲宇 Che-Yu Wu",
     "description": "從程式碼到詩意：一位台灣藝術家的國際突破之路",
     "category": "About",
-    "tags": [
-      "about",
-      "founder",
-      "artist",
-      "新媒體藝術"
-    ],
+    "tags": ["about", "founder", "artist", "新媒體藝術"],
     "url": "https://taiwan.md/About/%E5%89%B5%E8%BE%A6%E4%BA%BA",
     "readingTime": 15,
     "featured": false,
@@ -5245,15 +3828,7 @@
     "title": "幾米",
     "description": "用繪本溫暖世界的插畫詩人，讓台灣繪本走上國際舞台",
     "category": "People",
-    "tags": [
-      "人物",
-      "繪本作家",
-      "插畫",
-      "文學",
-      "血癌",
-      "宜蘭",
-      "電影改編"
-    ],
+    "tags": ["人物", "繪本作家", "插畫", "文學", "血癌", "宜蘭", "電影改編"],
     "url": "https://taiwan.md/People/%E5%B9%BE%E7%B1%B3",
     "readingTime": 8,
     "featured": false,
@@ -5264,13 +3839,7 @@
     "title": "曾雅妮",
     "description": "世界高爾夫球后，LPGA15座冠軍，曾連續109週世界第一",
     "category": "People",
-    "tags": [
-      "體育",
-      "高爾夫",
-      "LPGA",
-      "世界第一",
-      "職業高爾夫"
-    ],
+    "tags": ["體育", "高爾夫", "LPGA", "世界第一", "職業高爾夫"],
     "url": "https://taiwan.md/People/%E6%9B%BE%E9%9B%85%E5%A6%AE",
     "readingTime": 8,
     "featured": false,
@@ -5281,12 +3850,7 @@
     "title": "童子賢",
     "description": "和碩聯合科技董事長，科技與人文的跨界思想家，誠品書店重要支持者",
     "category": "People",
-    "tags": [
-      "和碩聯合",
-      "科技產業",
-      "人文思想",
-      "誠品書店"
-    ],
+    "tags": ["和碩聯合", "科技產業", "人文思想", "誠品書店"],
     "url": "https://taiwan.md/People/%E7%AB%A5%E5%AD%90%E8%B3%A2",
     "readingTime": 6,
     "featured": false,
@@ -5297,13 +3861,7 @@
     "title": "華碩電腦 (ASUS) - 主機板起家的科技巨人",
     "description": "從台灣新竹起步的主機板小廠，蛻變為全球第五大個人電腦品牌的勵志傳奇",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "電腦硬體",
-      "品牌",
-      "科技"
-    ],
+    "tags": ["Economy", "企業", "電腦硬體", "品牌", "科技"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%8F%AF%E7%A2%A9",
     "readingTime": 17,
     "featured": false,
@@ -5314,13 +3872,7 @@
     "title": "鈕承澤",
     "description": "《艋舺》導演，從演員轉型導演，含爭議面向的電影人",
     "category": "People",
-    "tags": [
-      "鈕承澤",
-      "導演",
-      "演員",
-      "艋舺",
-      "爭議"
-    ],
+    "tags": ["鈕承澤", "導演", "演員", "艋舺", "爭議"],
     "url": "https://taiwan.md/People/%E9%88%95%E6%89%BF%E6%BE%A4",
     "readingTime": 11,
     "featured": false,
@@ -5331,12 +3883,7 @@
     "title": "開源社群與g0v",
     "description": "台灣蓬勃的開源軟體社群與g0v零時政府，推動公民科技與開放政府的創新實踐",
     "category": "Technology",
-    "tags": [
-      "Technology",
-      "開源社群",
-      "g0v",
-      "公民科技"
-    ],
+    "tags": ["Technology", "開源社群", "g0v", "公民科技"],
     "url": "https://taiwan.md/Technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v",
     "readingTime": 8,
     "featured": false,
@@ -5347,15 +3894,7 @@
     "title": "陽岱鋼",
     "description": "日職巨人隊外野手，台灣旅日棒球代表",
     "category": "People",
-    "tags": [
-      "體育",
-      "棒球",
-      "日職",
-      "巨人隊",
-      "外野手",
-      "原住民",
-      "阿美族"
-    ],
+    "tags": ["體育", "棒球", "日職", "巨人隊", "外野手", "原住民", "阿美族"],
     "url": "https://taiwan.md/People/%E9%99%BD%E5%B2%B1%E9%8B%BC",
     "readingTime": 8,
     "featured": false,
@@ -5441,14 +3980,7 @@
     "title": "黃國珍",
     "description": "品學堂創辦人，推動台灣閱讀素養教育，致力改變「會考試但不會思考」的教育困境",
     "category": "People",
-    "tags": [
-      "教育",
-      "閱讀素養",
-      "品學堂",
-      "閱讀理解",
-      "教育創新",
-      "素養教育"
-    ],
+    "tags": ["教育", "閱讀素養", "品學堂", "閱讀理解", "教育創新", "素養教育"],
     "url": "https://taiwan.md/People/%E9%BB%83%E5%9C%8B%E7%8F%8D",
     "readingTime": 3,
     "featured": false,
@@ -5459,13 +3991,7 @@
     "title": "黃震南：藏書界竹野內豐與台灣文史的活水源頭",
     "description": "黃震南是台灣文史工作者、藏書家與作家，以PTT暱稱Sizumaru起家，經營「活水來冊房」專頁分享台灣歷史與舊書文化。著有《台灣史上最有梗的台灣史》等書，被譽為藏書界的竹野內豐。他從嘉義六腳書香家庭出發，父子南北分工蒐集文獻，致力讓嚴肅台灣史變得有趣親民。",
     "category": "People",
-    "tags": [
-      "台灣文史",
-      "藏書家",
-      "黃震南",
-      "台灣歷史",
-      "活水來冊房"
-    ],
+    "tags": ["台灣文史", "藏書家", "黃震南", "台灣歷史", "活水來冊房"],
     "url": "https://taiwan.md/People/%E9%BB%83%E9%9C%87%E5%8D%97",
     "readingTime": 7,
     "featured": false,
@@ -5476,13 +4002,7 @@
     "title": "傳統節慶與慶典",
     "description": "從農曆春節到媽祖遶境，台灣傳統節慶如何連結古老智慧與現代生活",
     "category": "Culture",
-    "tags": [
-      "傳統節慶",
-      "民俗",
-      "文化",
-      "宗教",
-      "節慶"
-    ],
+    "tags": ["傳統節慶", "民俗", "文化", "宗教", "節慶"],
     "url": "https://taiwan.md/Culture/%E5%82%B3%E7%B5%B1%E7%AF%80%E6%85%B6%E8%88%87%E6%85%B6%E5%85%B8",
     "readingTime": 12,
     "featured": true,
@@ -5493,13 +4013,7 @@
     "title": "媽祖與大道公的愛情傳說：台灣最浪漫的氣象預報",
     "description": "「媽祖婆雨、大道公風」不只是氣象諺語，背後藏著一段神明間的愛恨情仇",
     "category": "Culture",
-    "tags": [
-      "台灣文化",
-      "民俗信仰",
-      "媽祖",
-      "保生大帝",
-      "氣象諺語"
-    ],
+    "tags": ["台灣文化", "民俗信仰", "媽祖", "保生大帝", "氣象諺語"],
     "url": "https://taiwan.md/Culture/%E5%AA%BD%E7%A5%96%E8%88%87%E5%A4%A7%E9%81%93%E5%85%AC%E7%9A%84%E5%82%B3%E8%AA%AA",
     "readingTime": 8,
     "featured": false,
@@ -5510,14 +4024,7 @@
     "title": "新創生態系",
     "description": "台灣新創生態的發展歷程，從早期挑戰到現今的加速器、創投環境與獨角獸追求",
     "category": "Economy",
-    "tags": [
-      "新創",
-      "創業",
-      "創投",
-      "加速器",
-      "AppWorks",
-      "獨角獸"
-    ],
+    "tags": ["新創", "創業", "創投", "加速器", "AppWorks", "獨角獸"],
     "url": "https://taiwan.md/Economy/%E6%96%B0%E5%89%B5%E7%94%9F%E6%85%8B%E7%B3%BB",
     "readingTime": 13,
     "featured": true,
@@ -5528,13 +4035,7 @@
     "title": "新媒體藝術",
     "description": "台灣數位藝術的先鋒探索，從實驗室到國際舞台的科技與人文融合",
     "category": "Art",
-    "tags": [
-      "藝術",
-      "新媒體",
-      "數位藝術",
-      "科技藝術",
-      "互動藝術"
-    ],
+    "tags": ["藝術", "新媒體", "數位藝術", "科技藝術", "互動藝術"],
     "url": "https://taiwan.md/Art/%E6%96%B0%E5%AA%92%E9%AB%94%E8%97%9D%E8%A1%93",
     "readingTime": 16,
     "featured": false,
@@ -5577,14 +4078,7 @@
     "title": "楊傳廣",
     "description": "亞洲鐵人，1960羅馬奧運十項全能銀牌，台灣首位奧運獎牌得主",
     "category": "People",
-    "tags": [
-      "體育",
-      "田徑",
-      "奧運",
-      "十項全能",
-      "原住民",
-      "阿美族"
-    ],
+    "tags": ["體育", "田徑", "奧運", "十項全能", "原住民", "阿美族"],
     "url": "https://taiwan.md/People/%E6%A5%8A%E5%82%B3%E5%BB%A3",
     "readingTime": 6,
     "featured": false,
@@ -5595,13 +4089,7 @@
     "title": "楊德昌",
     "description": "台灣新電影運動核心人物，坎城最佳導演，都市疏離的詩人",
     "category": "People",
-    "tags": [
-      "導演",
-      "台灣新電影",
-      "楊德昌",
-      "坎城影展",
-      "都市電影"
-    ],
+    "tags": ["導演", "台灣新電影", "楊德昌", "坎城影展", "都市電影"],
     "url": "https://taiwan.md/People/%E6%A5%8A%E5%BE%B7%E6%98%8C",
     "readingTime": 9,
     "featured": true,
@@ -5632,11 +4120,7 @@
     "title": "當代台灣文學",
     "description": "",
     "category": "Art",
-    "tags": [
-      "文學",
-      "當代",
-      "多元"
-    ],
+    "tags": ["文學", "當代", "多元"],
     "url": "https://taiwan.md/Art/%E7%95%B6%E4%BB%A3%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8",
     "readingTime": 13,
     "featured": false,
@@ -5665,13 +4149,7 @@
     "title": "當代原住民創作歌手",
     "description": "從張惠妹到舒米恩、桑布伊，台灣原住民歌手如何在現代音樂中傳承古老靈魂，創造獨特的當代原住民音樂風景",
     "category": "Music",
-    "tags": [
-      "原住民歌手",
-      "流行音樂",
-      "文化融合",
-      "金曲獎",
-      "當代創作"
-    ],
+    "tags": ["原住民歌手", "流行音樂", "文化融合", "金曲獎", "當代創作"],
     "url": "https://taiwan.md/Music/%E7%95%B6%E4%BB%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%89%B5%E4%BD%9C%E6%AD%8C%E6%89%8B",
     "readingTime": 19,
     "featured": true,
@@ -5682,13 +4160,7 @@
     "title": "經濟奇蹟",
     "description": "台灣從農業社會轉型為高科技產業重鎮的經濟發展歷程，被譽為「台灣經濟奇蹟」",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "台灣經濟",
-      "中小企業",
-      "科學園區",
-      "半導體"
-    ],
+    "tags": ["Economy", "台灣經濟", "中小企業", "科學園區", "半導體"],
     "url": "https://taiwan.md/Economy/%E7%B6%93%E6%BF%9F%E5%A5%87%E8%B9%9F",
     "readingTime": 7,
     "featured": false,
@@ -5699,14 +4171,7 @@
     "title": "葉丙成",
     "description": "台大電機系教授、翻轉教育推手，開發 PaGamO 遊戲化學習平台，將台灣教育創新帶上國際舞台",
     "category": "People",
-    "tags": [
-      "教育",
-      "翻轉教育",
-      "PaGamO",
-      "遊戲化學習",
-      "台大",
-      "教育創新"
-    ],
+    "tags": ["教育", "翻轉教育", "PaGamO", "遊戲化學習", "台大", "教育創新"],
     "url": "https://taiwan.md/People/%E8%91%89%E4%B8%99%E6%88%90",
     "readingTime": 4,
     "featured": false,
@@ -5717,12 +4182,7 @@
     "title": "葉國一",
     "description": "英業達集團創辦人，台灣電子代工產業先驅，筆記型電腦製造巨擘",
     "category": "People",
-    "tags": [
-      "英業達",
-      "電子代工",
-      "ODM",
-      "筆記型電腦"
-    ],
+    "tags": ["英業達", "電子代工", "ODM", "筆記型電腦"],
     "url": "https://taiwan.md/People/%E8%91%89%E5%9C%8B%E4%B8%80",
     "readingTime": 7,
     "featured": false,
@@ -5733,11 +4193,7 @@
     "title": "解嚴後台灣文學",
     "description": "",
     "category": "Art",
-    "tags": [
-      "文學",
-      "解嚴",
-      "本土化"
-    ],
+    "tags": ["文學", "解嚴", "本土化"],
     "url": "https://taiwan.md/Art/%E8%A7%A3%E5%9A%B4%E5%BE%8C%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8",
     "readingTime": 10,
     "featured": false,
@@ -5748,13 +4204,7 @@
     "title": "農業科技與精緻農業",
     "description": "台灣如何從傳統農業轉型為高科技精緻農業，創造農業奇蹟",
     "category": "Economy",
-    "tags": [
-      "精緻農業",
-      "農業科技",
-      "蘭花",
-      "鳳梨釋迦",
-      "智慧農業"
-    ],
+    "tags": ["精緻農業", "農業科技", "蘭花", "鳳梨釋迦", "智慧農業"],
     "url": "https://taiwan.md/Economy/%E8%BE%B2%E6%A5%AD%E7%A7%91%E6%8A%80%E8%88%87%E7%B2%BE%E7%B7%BB%E8%BE%B2%E6%A5%AD",
     "readingTime": 18,
     "featured": false,
@@ -5785,14 +4235,7 @@
     "title": "語言多樣性與母語文化",
     "description": "從台語、客家話到原住民語，台灣如何在多語社會中保存與發展母語文化",
     "category": "Culture",
-    "tags": [
-      "語言",
-      "母語",
-      "台語",
-      "客家話",
-      "原住民語",
-      "多元文化"
-    ],
+    "tags": ["語言", "母語", "台語", "客家話", "原住民語", "多元文化"],
     "url": "https://taiwan.md/Culture/%E8%AA%9E%E8%A8%80%E5%A4%9A%E6%A8%A3%E6%80%A7%E8%88%87%E6%AF%8D%E8%AA%9E%E6%96%87%E5%8C%96",
     "readingTime": 14,
     "featured": true,
@@ -5803,13 +4246,7 @@
     "title": "遠東集團：橫跨十一大產業的台灣商業帝國",
     "description": "從上海紡織廠起家的遠東集團，87年來發展成台灣最多元化的企業帝國，觸角遍及石化、金融、零售、通訊等十一大產業",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "集團企業",
-      "多元經營",
-      "紡織業"
-    ],
+    "tags": ["Economy", "企業", "集團企業", "多元經營", "紡織業"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%81%A0%E6%9D%B1%E9%9B%86%E5%9C%98",
     "readingTime": 13,
     "featured": false,
@@ -5840,12 +4277,7 @@
     "title": "劉德音",
     "description": "台積電董事長，張忠謀接班人，地緣政治中的半導體外交家",
     "category": "People",
-    "tags": [
-      "台積電",
-      "半導體",
-      "地緣政治",
-      "企業領導"
-    ],
+    "tags": ["台積電", "半導體", "地緣政治", "企業領導"],
     "url": "https://taiwan.md/People/%E5%8A%89%E5%BE%B7%E9%9F%B3",
     "readingTime": 6,
     "featured": false,
@@ -5878,11 +4310,7 @@
     "title": "緣起故事 — Taiwan.md 的誕生",
     "description": "從街頭散步的靈感，到為世界策展台灣的完整入口",
     "category": "About",
-    "tags": [
-      "about",
-      "origin",
-      "taiwan-md"
-    ],
+    "tags": ["about", "origin", "taiwan-md"],
     "url": "https://taiwan.md/About/%E7%B7%A3%E8%B5%B7%E6%95%85%E4%BA%8B",
     "readingTime": 4,
     "featured": true,
@@ -5893,13 +4321,7 @@
     "title": "緯創資通 (Wistron) - 全球代工的變革先鋒",
     "description": "從宏碁分拆而生的製造巨擘，年營收破兆的全球第四大電子代工廠，iPhone與 Dell 電腦背後的隱形推手",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "電子代工",
-      "製造業",
-      "ODM"
-    ],
+    "tags": ["Economy", "企業", "電子代工", "製造業", "ODM"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%B7%AF%E5%89%B5%E8%B3%87%E9%80%9A",
     "readingTime": 19,
     "featured": false,
@@ -5910,14 +4332,7 @@
     "title": "蔡依林",
     "description": "從偶像到天后，用舞台重新定義華語流行樂的藝術性表演者",
     "category": "People",
-    "tags": [
-      "人物",
-      "歌手",
-      "演藝圈",
-      "LGBTQ+權益",
-      "流行音樂",
-      "金曲獎"
-    ],
+    "tags": ["人物", "歌手", "演藝圈", "LGBTQ+權益", "流行音樂", "金曲獎"],
     "url": "https://taiwan.md/People/%E8%94%A1%E4%BE%9D%E6%9E%97",
     "readingTime": 6,
     "featured": false,
@@ -5928,13 +4343,7 @@
     "title": "蔡明亮",
     "description": "威尼斯金獅獎得主，馬來西亞華人，慢電影美學大師",
     "category": "People",
-    "tags": [
-      "導演",
-      "蔡明亮",
-      "慢電影",
-      "威尼斯影展",
-      "馬來西亞華人"
-    ],
+    "tags": ["導演", "蔡明亮", "慢電影", "威尼斯影展", "馬來西亞華人"],
     "url": "https://taiwan.md/People/%E8%94%A1%E6%98%8E%E4%BA%AE",
     "readingTime": 12,
     "featured": true,
@@ -5945,14 +4354,7 @@
     "title": "蔡英文",
     "description": "台灣第一位女總統，從學者到政治領袖的民主象徵與歷史開創者",
     "category": "People",
-    "tags": [
-      "人物",
-      "蔡英文",
-      "總統",
-      "女性領袖",
-      "民主",
-      "政治"
-    ],
+    "tags": ["人物", "蔡英文", "總統", "女性領袖", "民主", "政治"],
     "url": "https://taiwan.md/People/%E8%94%A1%E8%8B%B1%E6%96%87",
     "readingTime": 17,
     "featured": false,
@@ -5963,13 +4365,7 @@
     "title": "豬哥亮",
     "description": "台灣秀場文化代表，國民喜劇演員，2017年病逝",
     "category": "People",
-    "tags": [
-      "豬哥亮",
-      "秀場",
-      "喜劇",
-      "綜藝",
-      "台語"
-    ],
+    "tags": ["豬哥亮", "秀場", "喜劇", "綜藝", "台語"],
     "url": "https://taiwan.md/People/%E8%B1%AC%E5%93%A5%E4%BA%AE",
     "readingTime": 11,
     "featured": false,
@@ -5980,14 +4376,7 @@
     "title": "鄧雨賢",
     "description": "台灣歌謠之父，創作《望春風》《雨夜花》《月夜愁》等經典台語歌謠",
     "category": "People",
-    "tags": [
-      "音樂",
-      "台語歌謠",
-      "作曲家",
-      "日治時期",
-      "古典音樂",
-      "桃園"
-    ],
+    "tags": ["音樂", "台語歌謠", "作曲家", "日治時期", "古典音樂", "桃園"],
     "url": "https://taiwan.md/People/%E9%84%A7%E9%9B%A8%E8%B3%A2",
     "readingTime": 7,
     "featured": false,
@@ -6017,13 +4406,7 @@
     "title": "鄭兆村",
     "description": "標槍好手，2017世大運91.36公尺亞洲紀錄",
     "category": "People",
-    "tags": [
-      "體育",
-      "田徑",
-      "標槍",
-      "世大運",
-      "亞洲紀錄"
-    ],
+    "tags": ["體育", "田徑", "標槍", "世大運", "亞洲紀錄"],
     "url": "https://taiwan.md/People/%E9%84%AD%E5%85%86%E6%9D%91",
     "readingTime": 8,
     "featured": false,
@@ -6034,13 +4417,7 @@
     "title": "鄭南榕",
     "description": "言論自由殉道者，《自由時代》雜誌創辦人，4月7日言論自由日紀念人物",
     "category": "People",
-    "tags": [
-      "民主運動",
-      "言論自由",
-      "政治雜誌",
-      "自由時代",
-      "殉道者"
-    ],
+    "tags": ["民主運動", "言論自由", "政治雜誌", "自由時代", "殉道者"],
     "url": "https://taiwan.md/People/%E9%84%AD%E5%8D%97%E6%A6%95",
     "readingTime": 8,
     "featured": true,
@@ -6051,11 +4428,7 @@
     "title": "戰後台灣文學",
     "description": "",
     "category": "Art",
-    "tags": [
-      "文學",
-      "戰後",
-      "鄉土文學"
-    ],
+    "tags": ["文學", "戰後", "鄉土文學"],
     "url": "https://taiwan.md/Art/%E6%88%B0%E5%BE%8C%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8",
     "readingTime": 21,
     "featured": false,
@@ -6066,13 +4439,7 @@
     "title": "戰後經濟發展",
     "description": "台灣從農業社會躍升為亞洲四小龍之一的經濟奇蹟發展歷程",
     "category": "History",
-    "tags": [
-      "經濟史",
-      "工業化",
-      "十大建設",
-      "經濟奇蹟",
-      "產業轉型"
-    ],
+    "tags": ["經濟史", "工業化", "十大建設", "經濟奇蹟", "產業轉型"],
     "url": "https://taiwan.md/History/%E6%88%B0%E5%BE%8C%E7%B6%93%E6%BF%9F%E7%99%BC%E5%B1%95",
     "readingTime": 11,
     "featured": false,
@@ -6083,13 +4450,7 @@
     "title": "盧彥勳",
     "description": "台灣網球一哥，2010溫布頓八強，四屆奧運代表",
     "category": "People",
-    "tags": [
-      "體育",
-      "網球",
-      "奧運",
-      "溫布頓",
-      "職業網球"
-    ],
+    "tags": ["體育", "網球", "奧運", "溫布頓", "職業網球"],
     "url": "https://taiwan.md/People/%E7%9B%A7%E5%BD%A5%E5%8B%B3",
     "readingTime": 7,
     "featured": false,
@@ -6120,13 +4481,7 @@
     "title": "蕭青陽",
     "description": "四度入圍葛萊美獎最佳專輯包裝設計的台灣視覺設計師",
     "category": "People",
-    "tags": [
-      "設計師",
-      "葛萊美獎",
-      "專輯包裝",
-      "視覺設計",
-      "台灣文化"
-    ],
+    "tags": ["設計師", "葛萊美獎", "專輯包裝", "視覺設計", "台灣文化"],
     "url": "https://taiwan.md/People/%E8%95%AD%E9%9D%92%E9%99%BD",
     "readingTime": 10,
     "featured": false,
@@ -6137,14 +4492,7 @@
     "title": "蕭敬騰",
     "description": "台灣「雨神」，金曲歌王，從街頭藝人蛻變為國際舞台巨星",
     "category": "People",
-    "tags": [
-      "音樂",
-      "流行音樂",
-      "爵士樂",
-      "街頭藝人",
-      "金曲獎",
-      "雨神"
-    ],
+    "tags": ["音樂", "流行音樂", "爵士樂", "街頭藝人", "金曲獎", "雨神"],
     "url": "https://taiwan.md/People/%E8%95%AD%E6%95%AC%E9%A8%B0",
     "readingTime": 7,
     "featured": false,
@@ -6155,14 +4503,7 @@
     "title": "賴清德：從礦工家庭到總統府的公共衛生醫師",
     "description": "台灣第16任總統，中華民國憲政史上首位以副總統身分參選並成功當選的政治人物",
     "category": "People",
-    "tags": [
-      "總統",
-      "醫師",
-      "政治人物",
-      "民主進步黨",
-      "公共衛生",
-      "台南"
-    ],
+    "tags": ["總統", "醫師", "政治人物", "民主進步黨", "公共衛生", "台南"],
     "url": "https://taiwan.md/People/%E8%B3%B4%E6%B8%85%E5%BE%B7",
     "readingTime": 13,
     "featured": true,
@@ -6173,13 +4514,7 @@
     "title": "賴聲川",
     "description": "表演工作坊創辦人，《暗戀桃花源》原創者，華語劇場教父",
     "category": "People",
-    "tags": [
-      "賴聲川",
-      "劇場",
-      "表演工作坊",
-      "暗戀桃花源",
-      "戲劇導演"
-    ],
+    "tags": ["賴聲川", "劇場", "表演工作坊", "暗戀桃花源", "戲劇導演"],
     "url": "https://taiwan.md/People/%E8%B3%B4%E8%81%B2%E5%B7%9D",
     "readingTime": 13,
     "featured": false,
@@ -6209,15 +4544,7 @@
     "title": "戴資穎",
     "description": "214週世界球后紀錄保持者，從高雄前鎮到奧運銀牌的台灣羽球女王",
     "category": "People",
-    "tags": [
-      "人物",
-      "戴資穎",
-      "羽球",
-      "世界球后",
-      "奧運",
-      "運動員",
-      "台灣"
-    ],
+    "tags": ["人物", "戴資穎", "羽球", "世界球后", "奧運", "運動員", "台灣"],
     "url": "https://taiwan.md/People/%E6%88%B4%E8%B3%87%E7%A9%8E",
     "readingTime": 15,
     "featured": true,
@@ -6228,13 +4555,7 @@
     "title": "環保與永續發展",
     "description": "從煙囪之島到淨零台灣：40年環保運動的覺醒之路",
     "category": "Society",
-    "tags": [
-      "環保",
-      "永續發展",
-      "淨零排放",
-      "循環經濟",
-      "氣候變遷"
-    ],
+    "tags": ["環保", "永續發展", "淨零排放", "循環經濟", "氣候變遷"],
     "url": "https://taiwan.md/Society/%E7%92%B0%E4%BF%9D%E8%88%87%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95",
     "readingTime": 18,
     "featured": true,
@@ -6245,13 +4566,7 @@
     "title": "聯華電子 (UMC) - 台灣晶圓代工的開拓者",
     "description": "台灣第一家晶圓代工廠，半世紀來見證並推動台灣半導體產業從無到有的奇蹟征程",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "半導體",
-      "晶圓代工",
-      "科技"
-    ],
+    "tags": ["Economy", "企業", "半導體", "晶圓代工", "科技"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E8%8F%AF%E9%9B%BB%E5%AD%90",
     "readingTime": 14,
     "featured": false,
@@ -6262,14 +4577,7 @@
     "title": "謝淑薇",
     "description": "2013溫布頓女雙冠軍，台灣首位大滿貫冠軍",
     "category": "People",
-    "tags": [
-      "體育",
-      "網球",
-      "溫布頓",
-      "大滿貫",
-      "女雙",
-      "職業網球"
-    ],
+    "tags": ["體育", "網球", "溫布頓", "大滿貫", "女雙", "職業網球"],
     "url": "https://taiwan.md/People/%E8%AC%9D%E6%B7%91%E8%96%87",
     "readingTime": 8,
     "featured": false,
@@ -6309,12 +4617,7 @@
     "title": "簡立峰",
     "description": "Google台灣前董事總經理，台灣AI產業推手，科技人才培育先行者",
     "category": "People",
-    "tags": [
-      "Google",
-      "人工智慧",
-      "科技產業",
-      "人才培育"
-    ],
+    "tags": ["Google", "人工智慧", "科技產業", "人才培育"],
     "url": "https://taiwan.md/People/%E7%B0%A1%E7%AB%8B%E5%B3%B0",
     "readingTime": 8,
     "featured": false,
@@ -6365,12 +4668,7 @@
     "title": "魏哲家",
     "description": "台積電總裁，3奈米製程技術推手，半導體製造工藝大師",
     "category": "People",
-    "tags": [
-      "台積電",
-      "半導體製程",
-      "技術創新",
-      "製造工藝"
-    ],
+    "tags": ["台積電", "半導體製程", "技術創新", "製造工藝"],
     "url": "https://taiwan.md/People/%E9%AD%8F%E5%93%B2%E5%AE%B6",
     "readingTime": 6,
     "featured": false,
@@ -6400,13 +4698,7 @@
     "title": "羅大佑",
     "description": "華語流行音樂教父，以《鹿港小鎮》《童年》等經典作品影響華人世界",
     "category": "People",
-    "tags": [
-      "音樂",
-      "創作歌手",
-      "社會批判",
-      "台語歌曲",
-      "流行音樂"
-    ],
+    "tags": ["音樂", "創作歌手", "社會批判", "台語歌曲", "流行音樂"],
     "url": "https://taiwan.md/People/%E7%BE%85%E5%A4%A7%E4%BD%91",
     "readingTime": 5,
     "featured": false,
@@ -6417,13 +4709,7 @@
     "title": "嚴長壽",
     "description": "台灣觀光教父，從亞都麗緻總裁到偏鄉教育推動者",
     "category": "People",
-    "tags": [
-      "人物",
-      "觀光業",
-      "教育",
-      "公益",
-      "飯店業"
-    ],
+    "tags": ["人物", "觀光業", "教育", "公益", "飯店業"],
     "url": "https://taiwan.md/People/%E5%9A%B4%E9%95%B7%E5%A3%BD",
     "readingTime": 10,
     "featured": false,
@@ -6456,14 +4742,7 @@
     "title": "AI 島國的崛起：台灣人工智慧發展與未來策略",
     "description": "台灣從AlphaGo震撼到生成式AI時代，如何運用半導體優勢打造AI生態系，成為全球AI發展的關鍵力量",
     "category": "Technology",
-    "tags": [
-      "人工智慧",
-      "AI",
-      "半導體",
-      "科技政策",
-      "數位轉型",
-      "小國大戰略"
-    ],
+    "tags": ["人工智慧", "AI", "半導體", "科技政策", "數位轉型", "小國大戰略"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%99%BC%E5%B1%95%E8%88%87%E6%9C%AA%E4%BE%86%E7%AD%96%E7%95%A5",
     "readingTime": 21,
     "featured": true,
@@ -6474,12 +4753,7 @@
     "title": "AI人工智慧產業",
     "description": "從製造NVIDIA晶片到打造AI生態系，台灣如何在AI時代找到自己的定位",
     "category": "Technology",
-    "tags": [
-      "Technology",
-      "AI",
-      "人工智慧",
-      "科技產業"
-    ],
+    "tags": ["Technology", "AI", "人工智慧", "科技產業"],
     "url": "https://taiwan.md/Technology/AI%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%94%A2%E6%A5%AD",
     "readingTime": 12,
     "featured": false,
@@ -6490,14 +4764,7 @@
     "title": "AI島國的崛起：台灣人工智慧發展與未來策略",
     "description": "從AlphaGo震撼到生成式AI浪潮，台灣如何以「小國大戰略」在人工智慧領域找到獨特定位",
     "category": "Technology",
-    "tags": [
-      "人工智慧",
-      "AI政策",
-      "半導體",
-      "科技政策",
-      "數位轉型",
-      "創新"
-    ],
+    "tags": ["人工智慧", "AI政策", "半導體", "科技政策", "數位轉型", "創新"],
     "url": "https://taiwan.md/Technology/AI%E7%99%BC%E5%B1%95",
     "readingTime": 22,
     "featured": true,
@@ -6545,6 +4812,24 @@
     "path": "en/People/ang-lee.md"
   },
   {
+    "title": "Ang Lee — Puente Cinematográfico entre Oriente y Occidente",
+    "description": "De la sociedad conservadora de Taiwán a los máximos honores de Hollywood: Cómo Ang Lee se convirtió en el primer director asiático en ganar el Óscar al Mejor Director",
+    "category": "es",
+    "tags": [
+      "director",
+      "cine",
+      "Taiwán",
+      "Hollywood",
+      "Óscar",
+      "puente-cultural"
+    ],
+    "url": "https://taiwan.md/es/People/ang-lee",
+    "readingTime": 51,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "es/People/ang-lee.md"
+  },
+  {
     "title": "Annette Lu (Lu Hsiu-lien)",
     "description": "Pioneer of Taiwan’s women’s movement and the first female vice president in the Chinese-speaking world",
     "category": "en",
@@ -6573,13 +4858,40 @@
     "path": "en/People/audrey-tang.md"
   },
   {
+    "title": "Audrey Tang",
+    "description": "Primera ministra de gabinete transgénero del mundo y pionera practicante del gobierno abierto y la democracia digital",
+    "category": "es",
+    "tags": [
+      "personas",
+      "Audrey Tang",
+      "desarrollo digital",
+      "g0v",
+      "transgénero",
+      "programación",
+      "gobierno abierto",
+      "vTaiwan"
+    ],
+    "url": "https://taiwan.md/es/People/audrey-tang",
+    "readingTime": 60,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/People/audrey-tang.md"
+  },
+  {
     "title": "Beef Noodle Soup",
-    "description": "From mainland Chinese immigrants' nostalgia to Taiwan's national dish - the cultural fusion and global aroma of beef noodle soup",
+    "description": "From mainlander nostalgia to Taiwan's national dish: the cultural fusion and global appeal of beef noodle soup",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "food",
+      "beef noodle soup",
+      "mainlander cuisine",
+      "cultural fusion",
+      "Taipei Beef Noodle Festival",
+      "Michelin"
+    ],
     "url": "https://taiwan.md/en/Food/beef-noodle-soup",
     "readingTime": 59,
-    "featured": false,
+    "featured": true,
     "date": "2026-03-17",
     "path": "en/Food/beef-noodle-soup.md"
   },
@@ -6658,13 +4970,7 @@
     "title": "Century of Taiwanese Watercolor Painting",
     "description": "From the enlightenment of Ishikawa Kin'ichiro during the Japanese colonial period to Chien Chung-Wei's international acclaim today, Taiwanese watercolor painting has flourished for a century, becoming Asia's most vibrant watercolor creative hub.",
     "category": "en",
-    "tags": [
-      "Art",
-      "watercolor",
-      "painting",
-      "水彩",
-      "art history"
-    ],
+    "tags": ["Art", "watercolor", "painting", "水彩", "art history"],
     "url": "https://taiwan.md/en/Art/century-of-taiwanese-watercolor-painting",
     "readingTime": 35,
     "featured": false,
@@ -6741,13 +5047,7 @@
     "title": "Chen Wei-yin: Taiwan's MLB Pioneer",
     "description": "Taiwan's successful Major League Baseball pitcher who brought pride to Taiwan on international baseball's biggest stage",
     "category": "en",
-    "tags": [
-      "baseball",
-      "MLB",
-      "sports",
-      "athlete",
-      "pitcher"
-    ],
+    "tags": ["baseball", "MLB", "sports", "athlete", "pitcher"],
     "url": "https://taiwan.md/en/People/chen-wei-yin-mlb-pitcher",
     "readingTime": 37,
     "featured": false,
@@ -6812,12 +5112,7 @@
     "title": "Chi Cheng: The Flying Antelope",
     "description": "The Flying Antelope, bronze medalist in 80m hurdles at 1968 Mexico Olympics",
     "category": "en",
-    "tags": [
-      "sports",
-      "track and field",
-      "Olympics",
-      "hurdles"
-    ],
+    "tags": ["sports", "track and field", "Olympics", "hurdles"],
     "url": "https://taiwan.md/en/People/chi-cheng-flying-antelope",
     "readingTime": 34,
     "featured": false,
@@ -6942,6 +5237,33 @@
     "path": "en/Geography/climate.md"
   },
   {
+    "title": "Comida Callejera Taiwanesa",
+    "description": "Rica y diversa cultura de comida callejera taiwanesa, mezclando tradiciones culinarias Minnan, Hakka, chinas continentales, indígenas y modernas innovadoras",
+    "category": "es",
+    "tags": [
+      "Comida",
+      "Comida Callejera",
+      "Mercados Nocturnos",
+      "Cocina Taiwanesa"
+    ],
+    "url": "https://taiwan.md/es/Food/taiwanese-street-food",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Food/taiwanese-street-food.md"
+  },
+  {
+    "title": "Comunidad de código abierto y g0v",
+    "description": "La próspera comunidad de software de código abierto de Taiwán y g0v gov-zero, promoviendo prácticas innovadoras en tecnología cívica y gobierno abierto",
+    "category": "es",
+    "tags": ["Technology", "Open Source Community", "g0v", "Civic Technology"],
+    "url": "https://taiwan.md/es/Technology/open-source-and-g0v",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Technology/open-source-and-g0v.md"
+  },
+  {
     "title": "Contemporary Indigenous Art in Taiwan",
     "description": "From traditional crafts to contemporary creation, explore how Taiwanese indigenous artists find their voice on the global art stage, redefining the dialogue between indigenous identity and contemporary art",
     "category": "en",
@@ -7007,11 +5329,7 @@
     "title": "Contemporary Taiwanese Literature",
     "description": "",
     "category": "en",
-    "tags": [
-      "literature",
-      "contemporary",
-      "diversity"
-    ],
+    "tags": ["literature", "contemporary", "diversity"],
     "url": "https://taiwan.md/en/Art/contemporary-taiwanese-literature",
     "readingTime": 46,
     "featured": false,
@@ -7041,32 +5359,98 @@
     "path": "en/People/crowd-lu-indie-folk-treasure.md"
   },
   {
-    "title": "Delta Electronics: Taiwan's Power Empire",
-    "description": "From War Orphan to Asteroid Namesake: How NT$300,000 Built a Global Energy Giant",
-    "category": "en",
+    "title": "Cultura de Aguas Termales",
+    "description": "",
+    "category": "es",
     "tags": [
-      "Economy",
-      "Enterprise",
-      "Power Management",
-      "Green Technology",
-      "Industrial Automation",
-      "ESG"
+      "aguas termales",
+      "beitou",
+      "jiaoxi",
+      "cultura de baño",
+      "relajación",
+      "bienestar"
     ],
-    "url": "https://taiwan.md/en/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E9%81%94%E9%9B%BB%E5%AD%90",
-    "readingTime": 43,
-    "featured": true,
-    "date": "2026-03-22",
-    "path": "en/Economy/台灣企業：台達電子.md"
+    "url": "https://taiwan.md/es/Lifestyle/hot-spring-culture",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Lifestyle/hot-spring-culture.md"
+  },
+  {
+    "title": "Cultura de los Animales Callejeros en Taiwán",
+    "description": "Desde el documental Twelve Nights hasta la Eutanasia Cero: el ajuste de cuentas continuo de una isla con sus callejeros",
+    "category": "es",
+    "tags": [
+      "stray animals",
+      "animal protection",
+      "TNR",
+      "zero euthanasia",
+      "adoption",
+      "campus dogs",
+      "animal welfare"
+    ],
+    "url": "https://taiwan.md/es/Society/stray-animal-culture",
+    "readingTime": 62,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "es/Society/stray-animal-culture.md"
+  },
+  {
+    "title": "Cultura de Tiendas de Conveniencia",
+    "description": "Tiendas de conveniencia con la mayor densidad mundial en Taiwán: cómo se convirtieron en infraestructura de vida más allá del comercio minorista",
+    "category": "es",
+    "tags": [
+      "Tiendas de Conveniencia",
+      "7-ELEVEN",
+      "FamilyMart",
+      "Servicios de Vida",
+      "Innovación Minorista"
+    ],
+    "url": "https://taiwan.md/es/Lifestyle/convenience-store-culture",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Lifestyle/convenience-store-culture.md"
+  },
+  {
+    "title": "Cultura del Mercado Nocturno",
+    "description": "La cultura del mercado nocturno es uno de los símbolos culturales más distintivos de Taiwán. No solo preserva la esencia de",
+    "category": "es",
+    "tags": [
+      "comida",
+      "mercado nocturno",
+      "comida callejera",
+      "cultura",
+      "turismo"
+    ],
+    "url": "https://taiwan.md/es/Food/night-market-culture",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Food/night-market-culture.md"
+  },
+  {
+    "title": "Cultura del Té",
+    "description": "La evolución de la cultura del té de Taiwán desde las ceremonias del té tradicionales hasta las bebidas modernas de té de burbujas, mostrando las variedades únicas de té y la cultura de consumo de la isla",
+    "category": "es",
+    "tags": [
+      "Comida",
+      "Cultura del Té",
+      "Té Oolong",
+      "Té de Alta Montaña",
+      "Té de Burbujas"
+    ],
+    "url": "https://taiwan.md/es/Food/tea-culture",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Food/tea-culture.md"
   },
   {
     "title": "democracy-and-democratization",
     "description": "Taiwan's successful democratization holds significant historical and contemporary importance. It proves that Chinese soc",
     "category": "en",
-    "tags": [
-      "history",
-      "democratization",
-      "politics"
-    ],
+    "tags": ["history", "democratization", "politics"],
     "url": "https://taiwan.md/en/History/democracy-and-democratization",
     "readingTime": 30,
     "featured": false,
@@ -7085,6 +5469,17 @@
     "path": "en/Society/democratic-system.md"
   },
   {
+    "title": "Democratización",
+    "description": "La exitosa experiencia de democratización de Taiwán tiene una importancia histórica y contemporánea significativa. Demuestra que las sociedades chinas son plenamente capaces de establecer instituciones democráticas maduras, proporcionando un importante estudio de caso para la tercera ola de democratización global. Más importante aún, este proceso de transición se llevó a cabo completamente a través de medios pacíficos sin conflictos violentos a gran escala, ofreciendo una valiosa experiencia de referencia para la democratización en otros países autoritarios.",
+    "category": "es",
+    "tags": ["Historia", "Democratización", "Política"],
+    "url": "https://taiwan.md/es/History/democratization",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/History/democratization.md"
+  },
+  {
     "title": "Deng Yu-xian",
     "description": "Father of Taiwanese songs, composer of classics like 'Longing for Spring Breeze,' 'Rainy Night Flower,' and 'Moonlit Night Sorrow'",
     "category": "en",
@@ -7094,6 +5489,40 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/deng-yu-xian-taiwanese-song-composer.md"
+  },
+  {
+    "title": "Derechos Humanos e Igualdad de Género",
+    "description": "El camino progresista de Taiwán en la protección de los derechos humanos y la igualdad de género, desde las violaciones de derechos humanos autoritarias hasta convertirse en pionero de los derechos humanos en Asia",
+    "category": "es",
+    "tags": [
+      "society",
+      "human rights",
+      "gender equality",
+      "same-sex marriage",
+      "transitional justice"
+    ],
+    "url": "https://taiwan.md/es/Society/human-rights-and-gender-equality",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Society/human-rights-and-gender-equality.md"
+  },
+  {
+    "title": "Desarrollo Económico de Posguerra",
+    "description": "El viaje del milagro económico de Taiwán desde una sociedad agrícola hasta convertirse en uno de los Tigres Asiáticos",
+    "category": "es",
+    "tags": [
+      "historia económica",
+      "industrialización",
+      "diez grandes proyectos de construcción",
+      "milagro económico",
+      "transformación industrial"
+    ],
+    "url": "https://taiwan.md/es/History/postwar-economic-development",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/History/postwar-economic-development.md"
   },
   {
     "title": "Development of Contemporary Taiwanese Literature",
@@ -7235,6 +5664,60 @@
     "path": "en/Society/environmental-awakening-and-net-zero-transition.md"
   },
   {
+    "title": "Era Colonial Japonesa",
+    "description": "De 1895-1945, Japón gobernó Taiwán durante 50 años, trayendo modernización integral y gestión institucional mientras implementaba políticas de asimilación, influyendo profundamente en el desarrollo social de Taiwán",
+    "category": "es",
+    "tags": [
+      "Historia",
+      "Dominio Japonés",
+      "Modernización",
+      "Movimiento de Imperialización"
+    ],
+    "url": "https://taiwan.md/es/History/japanese-colonial-era",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/History/japanese-colonial-era.md"
+  },
+  {
+    "title": "Era de la Ley Marcial",
+    "description": "La Era de la Ley Marcial es una fase crucial para comprender el desarrollo político moderno de Taiwán. Este período de gobierno autoritario no solo influyó profundamente en la cultura política de Taiwán, sino que también sentó las bases para la posterior transición democrática. La persecución política y las violaciones de derechos humanos durante la ley marcial se convirtieron en importantes fuerzas motrices para la búsqueda de democracia y libertad de Taiwán, y siguen siendo legados históricos que la justicia transicional debe abordar.",
+    "category": "es",
+    "tags": ["historia", "ley marcial", "autoritarismo", "terror blanco"],
+    "url": "https://taiwan.md/es/History/martial-law-era",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/History/martial-law-era.md"
+  },
+  {
+    "title": "Era Neerlandesa, Española y de Koxinga",
+    "description": "El primer gobierno colonial sistemático de Taiwán, desde el establecimiento del Fuerte Zeelandia por los neerlandeses hasta la fundación de Taiwán por Koxinga, sentando las bases para el asentamiento de los chinos han y las instituciones políticas",
+    "category": "es",
+    "tags": [
+      "Historia",
+      "Compañía Neerlandesa de las Indias Orientales",
+      "Reino de Tungning",
+      "Koxinga"
+    ],
+    "url": "https://taiwan.md/es/History/dutch-spanish-and-koxinga-era",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/History/dutch-spanish-and-koxinga-era.md"
+  },
+  {
+    "title": "Era Prehistórica y Pueblos Indígenas",
+    "description": "La era prehistórica y los pueblos indígenas de Taiwán son el punto de partida clave para comprender la identidad de Taiwán. Como posible patria de los pueblos austronesios, Taiwán sirve no solo como la cuna de las civilizaciones de las islas del Pacífico, sino también como la base de la Taiwán multicultural. Esta historia demuestra que Taiwán ha sido una isla de coexistencia multiétnica desde la antigüedad, sentando las bases para la sociedad pluralista moderna.",
+    "category": "es",
+    "tags": ["Historia", "era prehistórica", "pueblos indígenas"],
+    "url": "https://taiwan.md/es/History/prehistoric-era-and-indigenous-peoples",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/History/prehistoric-era-and-indigenous-peoples.md"
+  },
+  {
     "title": "Ethan Tu (杜奕瑾)",
     "description": "Founder of PTT, former Microsoft AI lead, and creator of Taiwan AI Labs—an architect of Taiwan’s digital public sphere",
     "category": "en",
@@ -7315,16 +5798,28 @@
     "title": "Founder — Che-Yu Wu",
     "description": "New media artist, MonoLab founder, and Taiwan.md initiator",
     "category": "en",
-    "tags": [
-      "about",
-      "founder",
-      "artist"
-    ],
+    "tags": ["about", "founder", "artist"],
     "url": "https://taiwan.md/en/About/founder",
     "readingTime": 9,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/About/founder.md"
+  },
+  {
+    "title": "Gobierno de la Dinastía Qing",
+    "description": "1683-1895 La Dinastía Qing gobernó Taiwán durante 212 años, desde el gobierno pasivo hasta la construcción activa, estableciendo la base de las divisiones administrativas modernas de Taiwán y la sociedad china han",
+    "category": "es",
+    "tags": [
+      "Historia",
+      "Dinastía Qing",
+      "apertura de puertos",
+      "Incidente Mudan"
+    ],
+    "url": "https://taiwan.md/es/History/qing-dynasty-rule",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/History/qing-dynasty-rule.md"
   },
   {
     "title": "Golden Age Echoes: Evolution and Craftsmanship of Taiwan's Tea Culture",
@@ -7352,13 +5847,7 @@
     "title": "Hakka Culture and Language",
     "description": "Hard-neck Spirit and Sky-Mending Day: Cultural Inheritance and Modern Revitalization of Taiwan's Hakka People",
     "category": "en",
-    "tags": [
-      "Hakka",
-      "Language",
-      "Culture",
-      "Tradition",
-      "Ethnic Groups"
-    ],
+    "tags": ["Hakka", "Language", "Culture", "Tradition", "Ethnic Groups"],
     "url": "https://taiwan.md/en/Culture/hakka-culture-and-language",
     "readingTime": 48,
     "featured": false,
@@ -7387,12 +5876,7 @@
     "title": "He Feipeng (何飛鵬)",
     "description": "Founder of Cite Media Group and a key architect of Taiwan’s publishing industry—how He Feipeng guided print culture into the digital age",
     "category": "en",
-    "tags": [
-      "publishing",
-      "media",
-      "digital-transformation",
-      "management"
-    ],
+    "tags": ["publishing", "media", "digital-transformation", "management"],
     "url": "https://taiwan.md/en/People/he-feipeng",
     "readingTime": 27,
     "featured": false,
@@ -7424,11 +5908,7 @@
     "title": "History of Taiwanese Literature",
     "description": "",
     "category": "en",
-    "tags": [
-      "literature",
-      "history",
-      "culture"
-    ],
+    "tags": ["literature", "history", "culture"],
     "url": "https://taiwan.md/en/Art/history-of-taiwanese-literature",
     "readingTime": 60,
     "featured": false,
@@ -7498,6 +5978,25 @@
     "path": "en/People/hou-hsiao-hsien.md"
   },
   {
+    "title": "Hou Hsiao-hsien",
+    "description": "",
+    "category": "es",
+    "tags": [
+      "person",
+      "Hou Hsiao-hsien",
+      "Taiwan New Cinema",
+      "director",
+      "Venice Golden Lion",
+      "Cannes Film Festival",
+      "cinema art"
+    ],
+    "url": "https://taiwan.md/es/People/hou-hsiao-hsien",
+    "readingTime": 82,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/People/hou-hsiao-hsien.md"
+  },
+  {
     "title": "Hsu Shu-ching: Taiwan's Weightlifting Goddess",
     "description": "Taiwan's weightlifting legend who won Olympic gold medals in both 2012 London (upgraded) and 2016 Rio Olympics",
     "category": "en",
@@ -7518,14 +6017,7 @@
     "title": "HTC：從Android開路先鋒到VR轉型之路",
     "description": "1997年王雪紅創立，製造全球第一支Android手機，2011年股價飆破千元超越諾基亞。智慧手機市場失利後，2015年轉戰VR領域，以VIVE重新定義虛擬實境產業",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "科技業",
-      "VR",
-      "智慧手機",
-      "創新"
-    ],
+    "tags": ["Economy", "企業", "科技業", "VR", "智慧手機", "創新"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AE%8F%E9%81%94%E9%9B%BB",
     "readingTime": 16,
     "featured": false,
@@ -7580,6 +6072,23 @@
     "path": "en/Society/human-rights-and-gender-equality.md"
   },
   {
+    "title": "Incidente 228",
+    "description": "El gran evento de 1947 que cambió la trayectoria histórica de Taiwán - desde el estallido hasta el largo camino hacia la justicia transicional",
+    "category": "es",
+    "tags": [
+      "historia",
+      "política",
+      "justicia transicional",
+      "Terror Blanco",
+      "democratización"
+    ],
+    "url": "https://taiwan.md/es/History/228-incident",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/History/228-incident.md"
+  },
+  {
     "title": "Indie Music Scene",
     "description": "From basements to international stages, the flourishing ecosystem and cultural influence of Taiwan's independent music",
     "category": "en",
@@ -7618,11 +6127,7 @@
     "title": "Indigenous Literature",
     "description": "",
     "category": "en",
-    "tags": [
-      "literature",
-      "indigenous peoples",
-      "oral tradition"
-    ],
+    "tags": ["literature", "indigenous peoples", "oral tradition"],
     "url": "https://taiwan.md/en/Art/indigenous-literature",
     "readingTime": 54,
     "featured": false,
@@ -7633,11 +6138,7 @@
     "title": "Indigenous Literature - Traditions and Revival",
     "description": "",
     "category": "en",
-    "tags": [
-      "literature",
-      "indigenous",
-      "oral tradition"
-    ],
+    "tags": ["literature", "indigenous", "oral tradition"],
     "url": "https://taiwan.md/en/Art/indigenous-literature-traditions-and-revival",
     "readingTime": 54,
     "featured": false,
@@ -7744,6 +6245,25 @@
     "path": "en/People/jay-chou.md"
   },
   {
+    "title": "Jay Chou",
+    "description": "Rey del pop mandarín - el creador revolucionario que redefinió la música pop asiática con R&B de estilo chino",
+    "category": "es",
+    "tags": [
+      "people",
+      "Jay Chou",
+      "música pop mandarín",
+      "cantante",
+      "creación",
+      "R&B",
+      "estilo chino"
+    ],
+    "url": "https://taiwan.md/es/People/jay-chou",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/People/jay-chou.md"
+  },
+  {
     "title": "Jensen Huang",
     "description": "Co-founder and CEO of NVIDIA, the ‘godfather of AI,’ whose vision and Taiwan ties reshaped global computing",
     "category": "en",
@@ -7758,14 +6278,7 @@
     "title": "Jeremy Lin",
     "description": "From Harvard to an NBA championship, the Taiwanese‑American guard who sparked Linsanity",
     "category": "en",
-    "tags": [
-      "人物",
-      "籃球",
-      "台裔美國人",
-      "NBA",
-      "林來瘋",
-      "哈佛大學"
-    ],
+    "tags": ["人物", "籃球", "台裔美國人", "NBA", "林來瘋", "哈佛大學"],
     "url": "https://taiwan.md/en/People/jeremy-lin",
     "readingTime": 23,
     "featured": true,
@@ -7857,6 +6370,23 @@
     "path": "en/People/kuo-hsing-chun-olympic-weightlifting-champion.md"
   },
   {
+    "title": "La Industria de Animación Digital e Imagen de Taiwán",
+    "description": "Desde estudios de efectos visuales que han marcado un hito hasta películas animadas aclamadas internacionalmente, Taiwán se ha convertido silenciosamente en uno de los centros más importantes de Asia para la animación digital y la narración visual.",
+    "category": "es",
+    "tags": [
+      "animación",
+      "arte digital",
+      "industria cinematográfica",
+      "tecnología",
+      "economía creativa"
+    ],
+    "url": "https://taiwan.md/es/Art/industria-animacion-digital-taiwan",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2024-01-15",
+    "path": "es/Art/industria-animacion-digital-taiwan.md"
+  },
+  {
     "title": "Lai Ching-te: A public-health doctor who climbed from a mining town to the presidency",
     "description": "Taiwan’s 16th president and the first sitting vice president elected to the office",
     "category": "en",
@@ -7889,12 +6419,7 @@
     "title": "Lee Teng-hui",
     "description": "Architect of Taiwan’s ‘quiet revolution,’ often called ‘Mr. Democracy’ for leading the island’s peaceful democratic transition.",
     "category": "en",
-    "tags": [
-      "people",
-      "politics",
-      "democratization",
-      "president"
-    ],
+    "tags": ["people", "politics", "democratization", "president"],
     "url": "https://taiwan.md/en/People/lee-teng-hui",
     "readingTime": 20,
     "featured": false,
@@ -7913,6 +6438,25 @@
     "path": "en/People/lee-yuan-tseh.md"
   },
   {
+    "title": "Lee Yuan-tseh",
+    "description": "",
+    "category": "es",
+    "tags": [
+      "person",
+      "Lee Yuan-tseh",
+      "Premio Nobel",
+      "química",
+      "científico",
+      "Academia Sinica",
+      "Taiwan"
+    ],
+    "url": "https://taiwan.md/es/People/lee-yuan-tseh",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/People/lee-yuan-tseh.md"
+  },
+  {
     "title": "Li Ang",
     "description": "A feminist literary pioneer whose bold novels confronted patriarchy, sexuality, and violence in Taiwan",
     "category": "en",
@@ -7927,13 +6471,7 @@
     "title": "Li Chih-Kai (李智凱)",
     "description": "Taiwanese gymnast and Tokyo 2020 Olympic pommel horse silver medalist, known as the ‘Tumbling Boy’ from a landmark documentary",
     "category": "en",
-    "tags": [
-      "gymnastics",
-      "Olympics",
-      "pommel horse",
-      "athlete",
-      "Taiwan"
-    ],
+    "tags": ["gymnastics", "Olympics", "pommel horse", "athlete", "Taiwan"],
     "url": "https://taiwan.md/en/People/li-chih-kai",
     "readingTime": 27,
     "featured": false,
@@ -7944,13 +6482,7 @@
     "title": "Li Guoxiu (李國修)",
     "description": "Founder of Ping-Fong Acting Troupe and a defining voice of modern Taiwanese comedy theatre",
     "category": "en",
-    "tags": [
-      "theatre",
-      "comedy",
-      "Ping-Fong",
-      "Taiwanese drama",
-      "playwright"
-    ],
+    "tags": ["theatre", "comedy", "Ping-Fong", "Taiwanese drama", "playwright"],
     "url": "https://taiwan.md/en/People/li-guoxiu",
     "readingTime": 30,
     "featured": false,
@@ -7972,14 +6504,7 @@
     "title": "Lin Bai-li",
     "description": "Founder of Quanta Computer, the architect of the global notebook supply chain, and a key player in Taiwan’s AI server boom",
     "category": "en",
-    "tags": [
-      "people",
-      "Lin Bai-li",
-      "Quanta",
-      "ODM",
-      "laptops",
-      "AI servers"
-    ],
+    "tags": ["people", "Lin Bai-li", "Quanta", "ODM", "laptops", "AI servers"],
     "url": "https://taiwan.md/en/People/lin-bai-li",
     "readingTime": 19,
     "featured": false,
@@ -7990,12 +6515,7 @@
     "title": "Lin Hwai-min",
     "description": "Founder of Cloud Gate Dance Theatre and the pioneering force behind modern dance in Taiwan.",
     "category": "en",
-    "tags": [
-      "people",
-      "dance",
-      "arts",
-      "performing arts"
-    ],
+    "tags": ["people", "dance", "arts", "performing arts"],
     "url": "https://taiwan.md/en/People/lin-hwai-min",
     "readingTime": 22,
     "featured": true,
@@ -8152,12 +6672,7 @@
     "title": "Mark Liu (劉德音)",
     "description": "Chairman of TSMC and Morris Chang’s successor, navigating semiconductor diplomacy in a tense geopolitical era.",
     "category": "en",
-    "tags": [
-      "TSMC",
-      "semiconductors",
-      "geopolitics",
-      "corporate leadership"
-    ],
+    "tags": ["TSMC", "semiconductors", "geopolitics", "corporate leadership"],
     "url": "https://taiwan.md/en/People/mark-liu",
     "readingTime": 24,
     "featured": false,
@@ -8168,12 +6683,7 @@
     "title": "Martial Law Era",
     "description": "The Martial Law Era is a crucial phase for understanding modern Taiwan's political development. This period of authoritarian rule not only profoundly influenced Taiwan's political culture but also laid the foundation for later democratic transition. The political persecution and human rights violations during martial law became important driving forces for Taiwan's pursuit of democracy and freedom, and remain historical legacies that transitional justice must address.",
     "category": "en",
-    "tags": [
-      "history",
-      "martial law",
-      "authoritarianism",
-      "white terror"
-    ],
+    "tags": ["history", "martial law", "authoritarianism", "white terror"],
     "url": "https://taiwan.md/en/History/martial-law-era",
     "readingTime": 38,
     "featured": false,
@@ -8243,6 +6753,25 @@
     "path": "en/People/ming-hua-yuan.md"
   },
   {
+    "title": "Mini Taiwan Pulse — 台灣交通即時 3D 視覺化",
+    "description": "用開放資料感受台灣的脈動——航班光軌劃過天際、船舶穿梭海面、列車奔馳軌道，23 個圖層即時呈現這座島嶼的呼吸。",
+    "category": "resources",
+    "tags": [
+      "resources",
+      "open-data",
+      "visualization",
+      "transportation",
+      "3D",
+      "real-time",
+      "Taiwan.md"
+    ],
+    "url": "https://taiwan.md/resources/mini-taiwan-pulse",
+    "readingTime": 9,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "resources/mini-taiwan-pulse.md"
+  },
+  {
     "title": "Modern Taiwanese Poetry: The Island's Lyricism",
     "description": "",
     "category": "en",
@@ -8283,6 +6812,24 @@
     "path": "en/People/tsmc-morris-chang.md"
   },
   {
+    "title": "Morris Chang — Arquitecto del escudo de silicio de Taiwán",
+    "description": "De ingeniero de Texas Instruments a fundador de TSMC: cómo Morris Chang revolucionó la fabricación global de semiconductores y creó la industria más estratégica de Taiwán",
+    "category": "es",
+    "tags": [
+      "semiconductor",
+      "TSMC",
+      "tecnología",
+      "negocios",
+      "estrategia",
+      "taiwan"
+    ],
+    "url": "https://taiwan.md/es/People/tsmc-morris-chang",
+    "readingTime": 73,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "es/People/tsmc-morris-chang.md"
+  },
+  {
     "title": "National Health Insurance",
     "description": "Taiwan's National Health Insurance (NHI) system provides universal, affordable, and high-quality medical services, recognized globally as an excellent healthcare system",
     "category": "en",
@@ -8308,13 +6855,7 @@
     "title": "New Media Art",
     "description": "Taiwan's pioneering exploration in digital art, from laboratories to international stages - the fusion of technology and humanities",
     "category": "en",
-    "tags": [
-      "art",
-      "new media",
-      "digital art",
-      "tech art",
-      "interactive art"
-    ],
+    "tags": ["art", "new media", "digital art", "tech art", "interactive art"],
     "url": "https://taiwan.md/en/Art/new-media-art",
     "readingTime": 58,
     "featured": false,
@@ -8325,12 +6866,7 @@
     "title": "New Media Art in Taiwan: Digital Creation",
     "description": "",
     "category": "en",
-    "tags": [
-      "new-media-art",
-      "digital-art",
-      "tech-art",
-      "generative-art"
-    ],
+    "tags": ["new-media-art", "digital-art", "tech-art", "generative-art"],
     "url": "https://taiwan.md/en/Art/taiwanese-new-media-art-digital-creation",
     "readingTime": 69,
     "featured": false,
@@ -8347,6 +6883,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/nieh-yung-jen.md"
+  },
+  {
+    "title": "Night Market Culture",
+    "description": "164 official night markets, Tainan averages one night market per 38,000 people — from temple plazas to international tourist attractions",
+    "category": "en",
+    "tags": [
+      "night market",
+      "street food",
+      "culture",
+      "tourism",
+      "grassroots life"
+    ],
+    "url": "https://taiwan.md/en/Food/night-market-culture",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "en/Food/night-market-culture.md"
   },
   {
     "title": "Night Market Economics: A Commercial Miracle Without Brands",
@@ -8367,23 +6920,6 @@
     "path": "en/Economy/night-market-economics.md"
   },
   {
-    "title": "night-market-culture",
-    "description": "Night market culture is one of Taiwan's most distinctive cultural symbols. It not only preserves the essence of traditio",
-    "category": "en",
-    "tags": [
-      "food",
-      "night market",
-      "street food",
-      "culture",
-      "tourism"
-    ],
-    "url": "https://taiwan.md/en/Food/night-market-culture",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Food/night-market-culture.md"
-  },
-  {
     "title": "Nightlife and KTV Culture",
     "description": "",
     "category": "en",
@@ -8398,13 +6934,7 @@
     "title": "Niu Cheng-Ze: Talent and Controversy in Taiwan Cinema",
     "description": "Niu Cheng-Ze is a renowned Taiwan director and actor, famous for films like 'Monga' and 'Paradise in Service.' From child star to acclaimed director, his works often addressed sensitive social issues with distinctive personal style. However, his career and legacy were overshadowed by a 2018 sexual assault conviction, making him a controversial figure in Taiwan's film industry.",
     "category": "en",
-    "tags": [
-      "Niu Cheng-Ze",
-      "Director",
-      "Actor",
-      "Monga",
-      "Controversy"
-    ],
+    "tags": ["Niu Cheng-Ze", "Director", "Actor", "Monga", "Controversy"],
     "url": "https://taiwan.md/en/People/niu-cheng-ze-controversial-filmmaker-monga-director",
     "readingTime": 34,
     "featured": false,
@@ -8415,12 +6945,7 @@
     "title": "official-websites",
     "description": "Taiwan's official websites serve as more than just government service portals—they're windows into Taiwan's democratic g",
     "category": "en",
-    "tags": [
-      "resources",
-      "government",
-      "official",
-      "Taiwan.md"
-    ],
+    "tags": ["resources", "government", "official", "Taiwan.md"],
     "url": "https://taiwan.md/en/resources/official-websites",
     "readingTime": 55,
     "featured": false,
@@ -8431,12 +6956,7 @@
     "title": "official-websites",
     "description": "台灣的官方網站不僅提供政府服務與政策資訊，更是理解台灣政治體制、文化發展、社會治理的重要窗口。這些網站反映了台灣民主政治的透明度、數位治理的進步程度，以及對文化保存與推廣的重視。對於研究台灣、了解台灣、或需要官方資訊的各界人士，這份資源大全",
     "category": "resources",
-    "tags": [
-      "resources",
-      "government",
-      "official",
-      "Taiwan.md"
-    ],
+    "tags": ["resources", "government", "official", "Taiwan.md"],
     "url": "https://taiwan.md/resources/official-websites",
     "readingTime": 18,
     "featured": false,
@@ -8458,12 +6978,7 @@
     "title": "Open Source Community and g0v",
     "description": "Taiwan's thriving open source software community and g0v gov-zero, promoting innovative practices in civic technology and open government",
     "category": "en",
-    "tags": [
-      "Technology",
-      "Open Source Community",
-      "g0v",
-      "Civic Technology"
-    ],
+    "tags": ["Technology", "Open Source Community", "g0v", "Civic Technology"],
     "url": "https://taiwan.md/en/Technology/open-source-and-g0v",
     "readingTime": 30,
     "featured": false,
@@ -8474,11 +6989,7 @@
     "title": "Origin Story — The Birth of Taiwan.md",
     "description": "From a street walk inspiration to curating a complete portal for Taiwan to the world",
     "category": "en",
-    "tags": [
-      "about",
-      "origin",
-      "taiwan-md"
-    ],
+    "tags": ["about", "origin", "taiwan-md"],
     "url": "https://taiwan.md/en/About/origin-story",
     "readingTime": 10,
     "featured": true,
@@ -8500,11 +7011,7 @@
     "title": "Post-Martial Law Taiwanese Literature: An Explosion of Freedom",
     "description": "",
     "category": "en",
-    "tags": [
-      "Literature",
-      "Martial Law",
-      "Localization"
-    ],
+    "tags": ["Literature", "Martial Law", "Localization"],
     "url": "https://taiwan.md/en/Art/post-martial-law-literature-explosion-freedom",
     "readingTime": 27,
     "featured": false,
@@ -8526,11 +7033,7 @@
     "title": "Postwar Taiwanese Literature",
     "description": "",
     "category": "en",
-    "tags": [
-      "literature",
-      "postwar",
-      "nativist literature"
-    ],
+    "tags": ["literature", "postwar", "nativist literature"],
     "url": "https://taiwan.md/en/Art/postwar-taiwanese-literature",
     "readingTime": 72,
     "featured": false,
@@ -8541,11 +7044,7 @@
     "title": "Prehistoric Era and Indigenous Peoples",
     "description": "Taiwan's prehistoric era and indigenous peoples are the key starting point for understanding Taiwan's identity. As a possible homeland of Austronesian peoples, Taiwan serves not only as the cradle of Pacific island civilizations but also as the foundation of multicultural Taiwan. This history proves that Taiwan has been an island of multi-ethnic coexistence since ancient times, laying the groundwork for modern pluralistic society.",
     "category": "en",
-    "tags": [
-      "History",
-      "prehistoric era",
-      "indigenous peoples"
-    ],
+    "tags": ["History", "prehistoric era", "indigenous peoples"],
     "url": "https://taiwan.md/en/History/prehistoric-era-and-indigenous-peoples",
     "readingTime": 41,
     "featured": false,
@@ -8556,14 +7055,7 @@
     "title": "PTT 批踢踢：台灣最頑固的公共廣場",
     "description": "一個 1995 年架在宿舍裡的 BBS，三十年後依然用純文字介面運作，卻深刻塑造了台灣的網路語言、政治討論與集體記憶",
     "category": "Technology",
-    "tags": [
-      "PTT",
-      "BBS",
-      "網路文化",
-      "鄉民",
-      "數位民主",
-      "社群媒體"
-    ],
+    "tags": ["PTT", "BBS", "網路文化", "鄉民", "數位民主", "社群媒體"],
     "url": "https://taiwan.md/Technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2",
     "readingTime": 13,
     "featured": true,
@@ -8571,19 +7063,19 @@
     "path": "Technology/PTT批踢踢.md"
   },
   {
-    "title": "PTT: Taiwan's Most Stubborn Public Square",
-    "description": "A BBS set up in a dorm room in 1995, still running on a plain-text interface thirty years later, yet it profoundly shaped Taiwan's internet language, political discourse, and collective memory",
+    "title": "PTT Bulletin Board System: Taiwan\\'s Most Stubborn Public Square",
+    "description": "A BBS built in a dorm room in 1995 still operates with pure text interfaces 30 years later, yet has profoundly shaped Taiwan\\'s internet language, political discourse, and collective memory",
     "category": "en",
     "tags": [
       "PTT",
       "BBS",
       "internet culture",
+      "netizen culture",
       "digital democracy",
-      "social media",
-      "Taiwan"
+      "social media"
     ],
     "url": "https://taiwan.md/en/Technology/ptt-bulletin-board-system",
-    "readingTime": 33,
+    "readingTime": 34,
     "featured": true,
     "date": "2026-03-21",
     "path": "en/Technology/ptt-bulletin-board-system.md"
@@ -8592,12 +7084,7 @@
     "title": "Qing Dynasty Rule",
     "description": "1683-1895 Qing Dynasty ruled Taiwan for 212 years, from passive governance to active construction, establishing the foundation of modern Taiwan's administrative divisions and Han Chinese society",
     "category": "en",
-    "tags": [
-      "History",
-      "Qing Dynasty",
-      "opening of ports",
-      "Mudan Incident"
-    ],
+    "tags": ["History", "Qing Dynasty", "opening of ports", "Mudan Incident"],
     "url": "https://taiwan.md/en/History/qing-dynasty-rule",
     "readingTime": 41,
     "featured": false,
@@ -8677,12 +7164,7 @@
     "title": "Seeing Taiwan — Historical Impressions of the Island",
     "description": "How different eras and peoples have seen this island, from the Age of Exploration to the contemporary period",
     "category": "en",
-    "tags": [
-      "quotes",
-      "history",
-      "literature",
-      "culture"
-    ],
+    "tags": ["quotes", "history", "literature", "culture"],
     "url": "https://taiwan.md/en/About/seeing-taiwan-quotes",
     "readingTime": 41,
     "featured": true,
@@ -8690,20 +7172,43 @@
     "path": "en/About/seeing-taiwan-quotes.md"
   },
   {
+    "title": "Seguro Nacional de Salud",
+    "description": "El sistema de Seguro Nacional de Salud (NHI) de Taiwán proporciona servicios médicos universales, asequibles y de alta calidad, reconocido mundialmente como un excelente sistema sanitario",
+    "category": "es",
+    "tags": [
+      "Lifestyle",
+      "Health Insurance",
+      "Medical System",
+      "Public Health",
+      "Social Welfare"
+    ],
+    "url": "https://taiwan.md/es/Lifestyle/national-health-insurance",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Lifestyle/national-health-insurance.md"
+  },
+  {
     "title": "semiconductor-industry",
     "description": "Taiwan's semiconductor industry, particularly TSMC, is not only a crucial pillar of Taiwan's economy but also plays a ke",
     "category": "en",
-    "tags": [
-      "technology",
-      "semiconductor",
-      "TSMC",
-      "industry"
-    ],
+    "tags": ["technology", "semiconductor", "TSMC", "industry"],
     "url": "https://taiwan.md/en/Technology/semiconductor-industry",
     "readingTime": 31,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/Technology/semiconductor-industry.md"
+  },
+  {
+    "title": "semiconductor-industry",
+    "description": "La industria de semiconductores de Taiwán, particularmente TSMC, no solo es un pilar crucial de la economía de Taiwán, sino que también desempeña un papel clave",
+    "category": "es",
+    "tags": ["technology", "semiconductor", "TSMC", "industry"],
+    "url": "https://taiwan.md/es/Technology/semiconductor-industry",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Technology/semiconductor-industry.md"
   },
   {
     "title": "Shih Ming-te",
@@ -8715,6 +7220,40 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/shih-ming-te.md"
+  },
+  {
+    "title": "Sistema Democrático",
+    "description": "El camino de Taiwán desde el gobierno autoritario hasta las instituciones democráticas, estableciendo un sistema democrático completo mediante el levantamiento de la ley marcial, las elecciones presidenciales directas y otras fases",
+    "category": "es",
+    "tags": [
+      "Society",
+      "Democratization",
+      "Lifting Martial Law",
+      "Presidential Direct Elections"
+    ],
+    "url": "https://taiwan.md/es/Society/democratic-system",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Society/democratic-system.md"
+  },
+  {
+    "title": "Sistema Educativo de Taiwán",
+    "description": "",
+    "category": "es",
+    "tags": [
+      "educación",
+      "gsat",
+      "academias",
+      "educación de doce años",
+      "estilo de vida",
+      "sociedad"
+    ],
+    "url": "https://taiwan.md/es/Lifestyle/education-system",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Lifestyle/education-system.md"
   },
   {
     "title": "Social Housing and Housing Justice",
@@ -8737,6 +7276,24 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Society/social-movements-and-civic-participation.md"
+  },
+  {
+    "title": "Sopa de Fideos con Ternera",
+    "description": "De la nostalgia de los inmigrantes chinos continentales al plato nacional de Taiwán: la fusión cultural y el aroma global de la sopa de fideos con ternera",
+    "category": "es",
+    "tags": [
+      "gastronomía",
+      "sopa de fideos con ternera",
+      "cocina continental",
+      "fusión cultural",
+      "Festival de Fideos con Ternera de Taipéi",
+      "Michelin"
+    ],
+    "url": "https://taiwan.md/es/Food/beef-noodle-soup",
+    "readingTime": 71,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Food/beef-noodle-soup.md"
   },
   {
     "title": "Soundscape of Taiwan",
@@ -8792,13 +7349,7 @@
     "title": "Stanley Yen (Yen Chang-shou)",
     "description": "Taiwan’s ‘godfather of tourism’ who turned luxury hospitality into a platform for rural education",
     "category": "en",
-    "tags": [
-      "people",
-      "tourism",
-      "education",
-      "philanthropy",
-      "hospitality"
-    ],
+    "tags": ["people", "tourism", "education", "philanthropy", "hospitality"],
     "url": "https://taiwan.md/en/People/stanley-yen",
     "readingTime": 26,
     "featured": false,
@@ -8853,13 +7404,7 @@
     "title": "Sylvia Chang (張艾嘉)",
     "description": "A cross-disciplinary icon of Chinese-language cinema—actor, director, screenwriter, and singer for over five decades",
     "category": "en",
-    "tags": [
-      "film",
-      "director",
-      "actor",
-      "singer",
-      "screenwriter"
-    ],
+    "tags": ["film", "director", "actor", "singer", "screenwriter"],
     "url": "https://taiwan.md/en/People/sylvia-chang",
     "readingTime": 24,
     "featured": false,
@@ -8878,15 +7423,29 @@
     "path": "en/People/tai-tzu-ying.md"
   },
   {
+    "title": "Tai Tzu-ying",
+    "description": "",
+    "category": "es",
+    "tags": [
+      "person",
+      "Tai Tzu-ying",
+      "badminton",
+      "mundo número uno",
+      "Juegos Olímpicos",
+      "atleta",
+      "Taiwan"
+    ],
+    "url": "https://taiwan.md/es/People/tai-tzu-ying",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/People/tai-tzu-ying.md"
+  },
+  {
     "title": "Tai-Yu Wu (吳大猷)",
     "description": "A pioneering theoretical physicist and long-time president of Academia Sinica who shaped the foundations of modern Chinese physics.",
     "category": "en",
-    "tags": [
-      "people",
-      "scientists",
-      "physics",
-      "education"
-    ],
+    "tags": ["people", "scientists", "physics", "education"],
     "url": "https://taiwan.md/en/People/tai-yu-wu",
     "readingTime": 23,
     "featured": true,
@@ -8937,18 +7496,31 @@
     "title": "Taiwan Bread and Baking",
     "description": "From Wu Pao-Chun’s world championship to 85°C’s global expansion, Taiwan’s baking scene blends local flavors with international technique.",
     "category": "en",
-    "tags": [
-      "bread",
-      "baking",
-      "Wu Pao-Chun",
-      "Taiwan-style bread",
-      "85C"
-    ],
+    "tags": ["bread", "baking", "Wu Pao-Chun", "Taiwan-style bread", "85C"],
     "url": "https://taiwan.md/en/Food/taiwan-bread-and-baking",
     "readingTime": 24,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Food/taiwan-bread-and-baking.md"
+  },
+  {
+    "title": "Taiwan Breakfast Culture",
+    "description": "From dan bing and shao bing you tiao to Yonghe Soy Milk\\'s global expansion, breakfast shop aunties and Taiwanese morning rituals",
+    "category": "en",
+    "tags": [
+      "breakfast",
+      "dan bing",
+      "shao bing you tiao",
+      "Yonghe Soy Milk",
+      "Mei Er Mei",
+      "breakfast shop",
+      "soy milk shop"
+    ],
+    "url": "https://taiwan.md/en/Food/taiwan-breakfast-culture",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "en/Food/taiwan-breakfast-culture.md"
   },
   {
     "title": "Taiwan Coffee Culture",
@@ -9028,12 +7600,7 @@
     "title": "Taiwan Contemporary Art",
     "description": "From Taipei Fine Arts Museum to Taiwan Pavilion at Venice Biennale: Taiwan contemporary art's unique position on the global stage",
     "category": "en",
-    "tags": [
-      "art",
-      "contemporary",
-      "culture",
-      "museums"
-    ],
+    "tags": ["art", "contemporary", "culture", "museums"],
     "url": "https://taiwan.md/en/Art/contemporary-art",
     "readingTime": 12,
     "featured": false,
@@ -9137,11 +7704,7 @@
     "title": "Taiwan Folk Songs and Ballads",
     "description": "",
     "category": "en",
-    "tags": [
-      "music",
-      "folk",
-      "ballads"
-    ],
+    "tags": ["music", "folk", "ballads"],
     "url": "https://taiwan.md/en/Music/taiwan-folk-songs-and-ballads",
     "readingTime": 28,
     "featured": false,
@@ -9254,6 +7817,23 @@
     "path": "en/Nature/taiwan-leopard-cat-conservation.md"
   },
   {
+    "title": "Taiwan Long-term Care Development",
+    "description": "The most advanced long-term care system in the world, coexisting with the largest invisible caregiving network",
+    "category": "en",
+    "tags": [
+      "long-term care",
+      "aging society",
+      "foreign caregivers",
+      "social policy",
+      "institutional contradiction"
+    ],
+    "url": "https://taiwan.md/en/Society/taiwan-long-term-care-development",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "en/Society/taiwan-long-term-care-development.md"
+  },
+  {
     "title": "Taiwan Marine Conservation: Battles Against Pollution and Coral Bleaching",
     "description": "How an island nation fights marine debris and coral bleaching: The story of Taiwan's ocean conservation efforts, from Xiaoliuqiu's sea turtles to national policy.",
     "category": "en",
@@ -9337,12 +7917,7 @@
     "title": "Taiwan New Media Art",
     "description": "Exploring the intersection of digital technology and artistic expression on the \"Island of Tech.\"",
     "category": "en",
-    "tags": [
-      "New Media Art",
-      "Digital Art",
-      "Generative Art",
-      "Tech-Art"
-    ],
+    "tags": ["New Media Art", "Digital Art", "Generative Art", "Tech-Art"],
     "url": "https://taiwan.md/en/Art/new-media-art-in-taiwan",
     "readingTime": 48,
     "featured": false,
@@ -9392,11 +7967,7 @@
     "title": "Taiwan People Knowledge Base Project — 200 People Initiative",
     "description": "Taiwan.md people page expansion roadmap, aiming to cover 200 important figures representing Taiwan",
     "category": "en",
-    "tags": [
-      "project",
-      "People",
-      "roadmap"
-    ],
+    "tags": ["project", "People", "roadmap"],
     "url": "https://taiwan.md/en/People/taiwan-people-knowledge-base-roadmap",
     "readingTime": 39,
     "featured": false,
@@ -9518,14 +8089,27 @@
     "path": "en/Culture/taiwan-temple-festivals-and-performance-troupes.md"
   },
   {
-    "title": "Taiwan Theater and Performing Arts - Island Stage",
-    "description": "",
+    "title": "Taiwan Theater and Performing Arts",
+    "description": "How a 26-year-old literature student created the Chinese-speaking world's first contemporary dance company, and how Peking opera performers made Shakespeare speak Chinese",
     "category": "en",
     "tags": [
       "theater",
       "performing arts",
-      "dance"
+      "dance",
+      "Cloud Gate Dance Theatre",
+      "Contemporary Legend Theatre"
     ],
+    "url": "https://taiwan.md/en/Art/%E5%8F%B0%E7%81%A3%E5%8A%87%E5%A0%B4%E8%88%87%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "en/Art/台灣劇場與表演藝術.md"
+  },
+  {
+    "title": "Taiwan Theater and Performing Arts - Island Stage",
+    "description": "",
+    "category": "en",
+    "tags": ["theater", "performing arts", "dance"],
     "url": "https://taiwan.md/en/Art/taiwan-theater-and-performing-arts-island-stage",
     "readingTime": 52,
     "featured": false,
@@ -9791,6 +8375,23 @@
     "path": "en/Technology/taiwan-cybersecurity-industry-development.md"
   },
   {
+    "title": "Taiwan's Digital Animation and Imagery Industry",
+    "description": "From groundbreaking visual effects studios to internationally acclaimed animated films, Taiwan has quietly become one of Asia's most important hubs for digital animation and visual storytelling.",
+    "category": "en",
+    "tags": [
+      "animation",
+      "digital art",
+      "film industry",
+      "technology",
+      "creative economy"
+    ],
+    "url": "https://taiwan.md/en/Art/taiwan-digital-animation-industry",
+    "readingTime": 61,
+    "featured": false,
+    "date": "2024-01-15",
+    "path": "en/Art/taiwan-digital-animation-industry.md"
+  },
+  {
     "title": "Taiwan’s Diplomatic Allies and International Relations",
     "description": "From 70 allies to 12, Taiwan sustains global presence without a UN seat through informal diplomacy, strategic industries, and democratic partnerships.",
     "category": "en",
@@ -9968,6 +8569,24 @@
     "path": "en/Food/taiwan-ice-culture.md"
   },
   {
+    "title": "Taiwan's Incense-Making Culture and Heritage",
+    "description": "From the century-old incense stick craft in Chiayi Yunxiao Community to the incense industry across Taiwan—an ancient trade about devotion, craftsmanship, and persistence.",
+    "category": "en",
+    "tags": [
+      "Incense Making",
+      "Traditional Crafts",
+      "Religious Culture",
+      "Chiayi",
+      "Incense Sticks",
+      "Folk Beliefs"
+    ],
+    "url": "https://taiwan.md/en/Culture/taiwan-incense-making-culture-heritage",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "en/Culture/taiwan-incense-making-culture-heritage.md"
+  },
+  {
     "title": "Taiwan's Indigenous Language Revitalization Movement",
     "description": "From language endangerment crisis to revitalization efforts: examining Taiwan's indigenous language preservation challenges, policy developments, and community-based achievements",
     "category": "en",
@@ -10027,6 +8646,22 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Music/ktv-culture.md"
+  },
+  {
+    "title": "Taiwan's Kuai Kuai Culture: How Green Snacks Became the Tech Industry's Guardian Spirit",
+    "description": "From graduate students' computers to TSMC production lines, why do Taiwanese people believe green Kuai Kuai snacks keep machines running smoothly?",
+    "category": "en",
+    "tags": [
+      "Taiwanese Culture",
+      "Folk Beliefs",
+      "Technology Industry",
+      "Urban Legends"
+    ],
+    "url": "https://taiwan.md/en/Culture/taiwan-kuaikuai-culture",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "en/Culture/taiwan-kuaikuai-culture.md"
   },
   {
     "title": "Taiwan’s Labeling in International Standards",
@@ -10182,13 +8817,7 @@
     "title": "Taiwan’s River Systems and Hydrology: Short, Fast, and Seasonally Extreme",
     "description": "A cultural-geographic overview of Taiwan’s rivers—from Zhuoshui to Gaoping—showing how steep terrain shapes water, cities, and resilience.",
     "category": "en",
-    "tags": [
-      "geography",
-      "rivers",
-      "hydrology",
-      "water resources",
-      "Taiwan"
-    ],
+    "tags": ["geography", "rivers", "hydrology", "water resources", "Taiwan"],
     "url": "https://taiwan.md/en/Geography/taiwan-river-systems-and-hydrology",
     "readingTime": 28,
     "featured": true,
@@ -10296,6 +8925,22 @@
     "path": "en/Technology/taiwan-space-industry-development.md"
   },
   {
+    "title": "Taiwan's Specialty Home Cooking (Shǒulù Cài): The Disappearing Taste Memory",
+    "description": "From Chiayi mint chicken to soup made from banquet leftovers, grandmothers' signature dishes carry family memories but are slowly being lost in the tide of modernization.",
+    "category": "en",
+    "tags": [
+      "Taiwanese Cuisine",
+      "Traditional Cooking",
+      "Family Memory",
+      "Home Cooking"
+    ],
+    "url": "https://taiwan.md/en/Food/taiwan-specialty-home-cooking",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "en/Food/taiwan-specialty-home-cooking.md"
+  },
+  {
     "title": "Taiwan's Startup Ecosystem",
     "description": "From manufacturing mindset to innovation-driven economy: How Taiwan has built a comprehensive startup entrepreneurship ecosystem",
     "category": "en",
@@ -10377,11 +9022,7 @@
     "title": "Taiwanese Architecture: Multicultural Layers",
     "description": "",
     "category": "en",
-    "tags": [
-      "architecture",
-      "culture",
-      "history"
-    ],
+    "tags": ["architecture", "culture", "history"],
     "url": "https://taiwan.md/en/Art/taiwanese-architecture-multicultural-layers",
     "readingTime": 101,
     "featured": true,
@@ -10443,11 +9084,7 @@
     "title": "Taiwanese Cinema: From New Wave to International Recognition",
     "description": "",
     "category": "en",
-    "tags": [
-      "cinema",
-      "new wave",
-      "art"
-    ],
+    "tags": ["cinema", "new wave", "art"],
     "url": "https://taiwan.md/en/Art/taiwanese-cinema-from-new-wave-to-international-recognition",
     "readingTime": 41,
     "featured": true,
@@ -10458,11 +9095,7 @@
     "title": "Taiwanese Cinema: From New Wave to the International Stage",
     "description": "",
     "category": "en",
-    "tags": [
-      "cinema",
-      "new wave",
-      "arts"
-    ],
+    "tags": ["cinema", "new wave", "arts"],
     "url": "https://taiwan.md/en/Art/taiwanese-cinema-new-wave-to-international-stage",
     "readingTime": 41,
     "featured": true,
@@ -10491,11 +9124,7 @@
     "title": "Taiwanese Comics and Illustration",
     "description": "",
     "category": "en",
-    "tags": [
-      "comics",
-      "illustration",
-      "visual art"
-    ],
+    "tags": ["comics", "illustration", "visual art"],
     "url": "https://taiwan.md/en/Art/taiwanese-comics-and-illustration",
     "readingTime": 55,
     "featured": false,
@@ -10512,6 +9141,24 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Art/taiwanese-curators-and-artistic-cultural-construction.md"
+  },
+  {
+    "title": "Taiwanese Enterprise: Delta Electronics",
+    "description": "From War Orphan to Space Legend: How NT$300,000 Redefined Global Power Industry",
+    "category": "en",
+    "tags": [
+      "Economy",
+      "Enterprise",
+      "Power Management",
+      "Green Technology",
+      "Industrial Automation",
+      "ESG"
+    ],
+    "url": "https://taiwan.md/en/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E9%81%94%E9%9B%BB%E5%AD%90",
+    "readingTime": 53,
+    "featured": true,
+    "date": "2026-03-22",
+    "path": "en/Economy/台灣企業：台達電子.md"
   },
   {
     "title": "Taiwanese Experimental and New Media Art",
@@ -10532,6 +9179,22 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Art/taiwanese-experimental-and-new-media-art.md"
+  },
+  {
+    "title": "Taiwanese Homophone Taboos: Why the Number \"Four\" Makes an Entire Society Skip Floors",
+    "description": "From hospitals without fourth floors to license plates selling for $89,000, Taiwanese sensitivity to homophones is unmatched worldwide",
+    "category": "en",
+    "tags": [
+      "Taiwanese culture",
+      "folk beliefs",
+      "homophone culture",
+      "number taboos"
+    ],
+    "url": "https://taiwan.md/en/Culture/taiwanese-homophone-taboos",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "en/Culture/taiwanese-homophone-taboos.md"
   },
   {
     "title": "Taiwanese Indigenous Ecological Wisdom and Environmental Conservation",
@@ -10589,11 +9252,7 @@
     "title": "Taiwanese Literature During the Japanese Colonial Period",
     "description": "",
     "category": "en",
-    "tags": [
-      "literature",
-      "Japanese colonial period",
-      "colonial literature"
-    ],
+    "tags": ["literature", "Japanese colonial period", "colonial literature"],
     "url": "https://taiwan.md/en/Art/taiwanese-literature-during-japanese-colonial-period",
     "readingTime": 63,
     "featured": false,
@@ -10604,11 +9263,7 @@
     "title": "Taiwanese Modern Poetry: Island Lyricism",
     "description": "",
     "category": "en",
-    "tags": [
-      "literature",
-      "poetry",
-      "modern-poetry"
-    ],
+    "tags": ["literature", "poetry", "modern-poetry"],
     "url": "https://taiwan.md/en/Art/taiwanese-modern-poetry-island-lyricism",
     "readingTime": 50,
     "featured": false,
@@ -10688,11 +9343,7 @@
     "title": "Taiwanese Photography",
     "description": "",
     "category": "en",
-    "tags": [
-      "photography",
-      "visual art",
-      "documentary"
-    ],
+    "tags": ["photography", "visual art", "documentary"],
     "url": "https://taiwan.md/en/Art/taiwanese-photography",
     "readingTime": 114,
     "featured": false,
@@ -10703,11 +9354,7 @@
     "title": "Taiwanese Photography: Light and Shadow of the Island",
     "description": "",
     "category": "en",
-    "tags": [
-      "Photography",
-      "Visual Arts",
-      "Documentary"
-    ],
+    "tags": ["Photography", "Visual Arts", "Documentary"],
     "url": "https://taiwan.md/en/Art/taiwanese-photography-light-shadow-island",
     "readingTime": 32,
     "featured": false,
@@ -10729,11 +9376,7 @@
     "title": "Taiwanese Prose: The Depth of the Everyday",
     "description": "",
     "category": "en",
-    "tags": [
-      "Literature",
-      "Prose",
-      "Life Writing"
-    ],
+    "tags": ["Literature", "Prose", "Life Writing"],
     "url": "https://taiwan.md/en/Art/taiwanese-prose-depth-of-everyday",
     "readingTime": 29,
     "featured": false,
@@ -10766,12 +9409,7 @@
     "title": "Taiwanese Street Food",
     "description": "Rich and diverse Taiwanese street food culture, blending Minnan, Hakka, Mainland Chinese, Indigenous, and modern innovative culinary traditions",
     "category": "en",
-    "tags": [
-      "Food",
-      "Street Food",
-      "Night Markets",
-      "Taiwanese Cuisine"
-    ],
+    "tags": ["Food", "Street Food", "Night Markets", "Taiwanese Cuisine"],
     "url": "https://taiwan.md/en/Food/taiwanese-street-food",
     "readingTime": 32,
     "featured": false,
@@ -10782,11 +9420,7 @@
     "title": "Taiwanese Theater and Performing Arts",
     "description": "",
     "category": "en",
-    "tags": [
-      "theater",
-      "performing arts",
-      "dance"
-    ],
+    "tags": ["theater", "performing arts", "dance"],
     "url": "https://taiwan.md/en/Art/taiwanese-theater-and-performing-arts",
     "readingTime": 52,
     "featured": false,
@@ -10797,11 +9431,7 @@
     "title": "Taiwanese Theater and Performing Arts: Island Stage",
     "description": "",
     "category": "en",
-    "tags": [
-      "theater",
-      "performing arts",
-      "dance"
-    ],
+    "tags": ["theater", "performing arts", "dance"],
     "url": "https://taiwan.md/en/Art/taiwanese-theater-performing-arts-island-stage",
     "readingTime": 51,
     "featured": false,
@@ -10812,16 +9442,30 @@
     "title": "Taiwanese Traditional Arts - Folk Treasures",
     "description": "",
     "category": "en",
-    "tags": [
-      "art",
-      "traditional",
-      "folk arts"
-    ],
+    "tags": ["art", "traditional", "folk arts"],
     "url": "https://taiwan.md/en/Art/taiwanese-traditional-arts-folk-treasures",
     "readingTime": 37,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Art/taiwanese-traditional-arts-folk-treasures.md"
+  },
+  {
+    "title": "Té de Burbujas",
+    "description": "De los puestos de mercado nocturno taiwaneses al imperio mundial de bebidas: la controversia del origen y el viaje de conquista cultural del té de burbujas",
+    "category": "es",
+    "tags": [
+      "gastronomía",
+      "té de burbujas",
+      "bebidas agitadas a mano",
+      "globalización",
+      "poder blando",
+      "diplomacia cultural"
+    ],
+    "url": "https://taiwan.md/es/Food/bubble-tea",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Food/bubble-tea.md"
   },
   {
     "title": "Tea Culture",
@@ -10850,6 +9494,24 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Geography/tectonic-plates-and-seismic-activity.md"
+  },
+  {
+    "title": "Teresa Teng — La voz que unió a Asia",
+    "description": "Del campo taiwanés al estrellato asiático: cómo la voz de Teresa Teng trascendió fronteras políticas y creó el primer fenómeno de cultura pop panasi ática",
+    "category": "es",
+    "tags": [
+      "music",
+      "singer",
+      "cultural-icon",
+      "pan-asian",
+      "mandarin-pop",
+      "cultural-diplomacy"
+    ],
+    "url": "https://taiwan.md/es/People/teresa-teng",
+    "readingTime": 66,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "es/People/teresa-teng.md"
   },
   {
     "title": "Teresa Teng — The Voice That United Asia",
@@ -10884,12 +9546,7 @@
     "title": "Terry Gou",
     "description": "Founder of Hon Hai Precision Industry (Foxconn), world's largest electronics manufacturing services company",
     "category": "en",
-    "tags": [
-      "people",
-      "entrepreneur",
-      "technology",
-      "manufacturing"
-    ],
+    "tags": ["people", "entrepreneur", "technology", "manufacturing"],
     "url": "https://taiwan.md/en/People/terry-gou",
     "readingTime": 38,
     "featured": false,
@@ -10974,6 +9631,23 @@
     "path": "en/Music/golden-melodies-legacy-taiwan-pop-music.md"
   },
   {
+    "title": "The Love Story of Mazu and Dadaogong: Taiwan\\'s Most Romantic Weather Forecast",
+    "description": "\"Dadaogong Wind, Mazu Rain\" isn\\'t just a weather saying—it hides a tale of divine love and revenge between two deities",
+    "category": "en",
+    "tags": [
+      "Taiwanese culture",
+      "folk beliefs",
+      "Mazu",
+      "Baosheng Dadi",
+      "weather proverbs"
+    ],
+    "url": "https://taiwan.md/en/Culture/mazu-dadaogong-legend",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "en/Culture/mazu-dadaogong-legend.md"
+  },
+  {
     "title": "The Rise of AI Island: Taiwan's Artificial Intelligence Development and Future Strategy",
     "description": "From the AlphaGo shock to the generative AI wave, how Taiwan uses 'small nation, big strategy' to find its unique position in artificial intelligence",
     "category": "en",
@@ -10999,13 +9673,7 @@
     "title": "The Sunflower Movement",
     "description": "A 30-second microphone announcement that ultimately shifted Taiwan's trade dependence on China from 42% to 32% — looking back after a decade, this occupation movement didn't just block a trade deal, it rewrote Taiwan's economic destiny",
     "category": "en",
-    "tags": [
-      "Society",
-      "History",
-      "Politics",
-      "Democracy",
-      "Civic-Tech"
-    ],
+    "tags": ["Society", "History", "Politics", "Democracy", "Civic-Tech"],
     "url": "https://taiwan.md/en/Society/sunflower-movement",
     "readingTime": 52,
     "featured": true,
@@ -11033,13 +9701,7 @@
     "title": "Threads 在台灣：從現象級爆紅到日常「脆」文化",
     "description": "Meta 的 Threads 在台灣發展出全球罕見的高黏著度——被暱稱為「脆」，成為 Z 世代碎碎念、政治人物「下凡」、迷因發酵的新公共廣場",
     "category": "Technology",
-    "tags": [
-      "社群媒體",
-      "數位文化",
-      "Threads",
-      "Z世代",
-      "政治傳播"
-    ],
+    "tags": ["社群媒體", "數位文化", "Threads", "Z世代", "政治傳播"],
     "url": "https://taiwan.md/Technology/Threads%E5%9C%A8%E5%8F%B0%E7%81%A3",
     "readingTime": 6,
     "featured": true,
@@ -11095,11 +9757,7 @@
     "title": "Traditional Taiwanese Arts",
     "description": "",
     "category": "en",
-    "tags": [
-      "art",
-      "tradition",
-      "folk-art"
-    ],
+    "tags": ["art", "tradition", "folk-art"],
     "url": "https://taiwan.md/en/Art/taiwanese-traditional-arts",
     "readingTime": 36,
     "featured": false,
@@ -11110,11 +9768,7 @@
     "title": "Traditional Taiwanese Arts",
     "description": "",
     "category": "en",
-    "tags": [
-      "art",
-      "tradition",
-      "folk art"
-    ],
+    "tags": ["art", "tradition", "folk art"],
     "url": "https://taiwan.md/en/Art/traditional-taiwanese-arts",
     "readingTime": 36,
     "featured": false,
@@ -11125,12 +9779,7 @@
     "title": "Trail Culture and Civic Stewardship in Taiwan",
     "description": "From the Thousand Miles Trail Association to the iTrail platform, Taiwan’s hiking paths reveal a unique culture of civic science, volunteer care, and ecological ethics.",
     "category": "en",
-    "tags": [
-      "自然",
-      "步道",
-      "公民科學",
-      "生態保育"
-    ],
+    "tags": ["自然", "步道", "公民科學", "生態保育"],
     "url": "https://taiwan.md/en/Nature/trail-culture-and-civic-stewardship",
     "readingTime": 28,
     "featured": false,
@@ -11174,6 +9823,24 @@
     "path": "en/People/tsai-ing-wen.md"
   },
   {
+    "title": "Tsai Ing-wen",
+    "description": "Primera presidenta de Taiwán, un símbolo democrático y pionera histórica que se transformó de académica a líder política",
+    "category": "es",
+    "tags": [
+      "people",
+      "Tsai Ing-wen",
+      "presidenta",
+      "líder femenina",
+      "democracia",
+      "política"
+    ],
+    "url": "https://taiwan.md/es/People/tsai-ing-wen",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/People/tsai-ing-wen.md"
+  },
+  {
     "title": "Tsai Ming‑liang",
     "description": "Venice Golden Lion winner and master of slow cinema, a Malaysian‑Chinese director rooted in Taiwan",
     "category": "en",
@@ -11194,6 +9861,24 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/tung-tzu-hsien-tech-humanist.md"
+  },
+  {
+    "title": "Vida nocturna y cultura KTV",
+    "description": "",
+    "category": "es",
+    "tags": [
+      "nightlife",
+      "ktv",
+      "late-night dining",
+      "entertainment",
+      "lifestyle",
+      "culture"
+    ],
+    "url": "https://taiwan.md/es/Lifestyle/nightlife-and-ktv-culture",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/Lifestyle/nightlife-and-ktv-culture.md"
   },
   {
     "title": "Volunteering and Civic Charity in Taiwan",
@@ -11277,6 +9962,25 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "en/People/wu-ming-yi.md"
+  },
+  {
+    "title": "Wu Ming-Yi",
+    "description": "",
+    "category": "es",
+    "tags": [
+      "person",
+      "Wu Ming-Yi",
+      "literatura",
+      "escritura de naturaleza",
+      "National Dong Hwa University",
+      "Man Booker Prize",
+      "novelista"
+    ],
+    "url": "https://taiwan.md/es/People/wu-ming-yi",
+    "readingTime": 102,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "es/People/wu-ming-yi.md"
   },
   {
     "title": "Xi Murong (席慕蓉)",
@@ -11404,13 +10108,7 @@
     "title": "Yani Tseng",
     "description": "Former women’s world number one in golf, a 15‑time LPGA champion who held the top ranking for 109 consecutive weeks",
     "category": "en",
-    "tags": [
-      "sports",
-      "golf",
-      "lpga",
-      "world-number-one",
-      "professional-golf"
-    ],
+    "tags": ["sports", "golf", "lpga", "world-number-one", "professional-golf"],
     "url": "https://taiwan.md/en/People/yani-tseng",
     "readingTime": 29,
     "featured": false,
@@ -11432,13 +10130,7 @@
     "title": "Zheng Nanrong",
     "description": "Martyr of free speech and founder of Freedom Era Weekly; commemorated on Taiwan’s Freedom of Speech Day (April 7)",
     "category": "en",
-    "tags": [
-      "民主運動",
-      "言論自由",
-      "政治雜誌",
-      "自由時代",
-      "殉道者"
-    ],
+    "tags": ["民主運動", "言論自由", "政治雜誌", "自由時代", "殉道者"],
     "url": "https://taiwan.md/en/People/zheng-nanrong",
     "readingTime": 28,
     "featured": true,
@@ -11477,13 +10169,7 @@
     "title": "Zhuge Liang (Showman)",
     "description": "Icon of Taiwan’s variety-show culture and a beloved Taiwanese-language comedian",
     "category": "en",
-    "tags": [
-      "豬哥亮",
-      "秀場",
-      "喜劇",
-      "綜藝",
-      "台語"
-    ],
+    "tags": ["豬哥亮", "秀場", "喜劇", "綜藝", "台語"],
     "url": "https://taiwan.md/en/People/zhuge-liang-showman",
     "readingTime": 30,
     "featured": false,

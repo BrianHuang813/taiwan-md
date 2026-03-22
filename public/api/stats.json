@@ -1,12 +1,12 @@
 {
-  "totalArticles": 746,
-  "totalCategories": 26,
-  "estimatedContributors": 50,
-  "totalTags": 1759,
+  "totalArticles": 790,
+  "totalCategories": 27,
+  "estimatedContributors": 53,
+  "totalTags": 1935,
   "categories": [
     {
       "name": "en",
-      "count": 364
+      "count": 373
     },
     {
       "name": "History",
@@ -105,8 +105,12 @@
       "count": 1
     },
     {
+      "name": "es",
+      "count": 34
+    },
+    {
       "name": "resources",
-      "count": 1
+      "count": 2
     }
   ],
   "topTags": [
@@ -127,12 +131,12 @@
       "count": 18
     },
     {
-      "name": "半導體",
-      "count": 15
+      "name": "people",
+      "count": 16
     },
     {
-      "name": "people",
-      "count": 14
+      "name": "半導體",
+      "count": 15
     },
     {
       "name": "原住民",
@@ -163,6 +167,10 @@
       "count": 11
     },
     {
+      "name": "Taiwan",
+      "count": 11
+    },
+    {
       "name": "History",
       "count": 10
     },
@@ -175,7 +183,7 @@
       "count": 10
     },
     {
-      "name": "Taiwan",
+      "name": "culture",
       "count": 10
     },
     {
@@ -185,15 +193,11 @@
     {
       "name": "數位轉型",
       "count": 9
-    },
-    {
-      "name": "製造業",
-      "count": 9
     }
   ],
   "languageDistribution": {
-    "zh-TW": 746,
+    "zh-TW": 790,
     "en": 0
   },
-  "lastUpdated": "2026-03-22T01:21:09.222Z"
+  "lastUpdated": "2026-03-22T11:44:52.041Z"
 }
