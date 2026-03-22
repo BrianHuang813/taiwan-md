@@ -100,11 +100,47 @@ const prefix = getLangPrefix(lang);
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+TC:wght@400;600;700;900&display=swap" rel="stylesheet" />
+    <!-- Taiwan Typography System -->
+    <!-- Google Fonts: Noto Sans/Serif TC for fallback -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700;800;900&family=Noto+Serif+TC:wght@400;600;700;900&display=swap"
+      rel="preload"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <!-- LXGW WenKai TC: 霞鶩文楷 for reading content -->
+    <link
+      rel="preload"
+      href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-web@latest/style.css"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <!-- Fallback for critical text -->
+    <noscript>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700;800;900&family=Noto+Serif+TC:wght@400;600;700;900&display=swap"
+        rel="stylesheet"
+      />
+    </noscript>
     <title>{title} | Taiwan.md</title>
-    <SEO title={title} description={description} lang={lang} image={image} type={type} datePublished={datePublished} dateModified={dateModified} content={content} tags={tags} category={category} />
+    <link rel="alternate" type="application/rss+xml" title="Taiwan.md RSS" href="/rss.xml" />
+    <SEO
+      title={title}
+      description={description}
+      lang={lang}
+      image={image}
+      type={type}
+      datePublished={datePublished}
+      dateModified={dateModified}
+      content={content}
+      tags={tags}
+      category={category}
+    />
     <ClientRouter />
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-JGC5W00N7T"></script>
+    <script
+      is:inline
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-JGC5W00N7T"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -198,7 +234,213 @@ const prefix = getLangPrefix(lang);
 </html>
 
 <style is:global>
+  html {
+    font-size: 118%;
+  }
+  :root {
+    --container-wide: 1380px;
+    --container-page: 1180px;
+    --container-reading: 1080px;
+    --space-page-x: clamp(1rem, 2vw, 2rem);
+    --space-section-y: clamp(3.5rem, 7vw, 6rem);
+    --space-1: 0.5rem;
+    --space-2: 0.75rem;
+    --space-3: 1rem;
+    --space-4: 1.5rem;
+    --space-5: 2rem;
+    --space-6: 2.5rem;
+    --space-7: 3rem;
+    --space-8: 4rem;
+    --space-9: 5rem;
+    --radius-chip: 16px;
+    --radius-card: 20px;
+    --radius-pill: 999px;
+    --shadow-soft: 0 8px 30px rgba(15, 23, 42, 0.06);
+    --shadow-card: 0 16px 40px rgba(15, 23, 42, 0.08);
+    --border-soft: 1px solid rgba(148, 163, 184, 0.2);
+    /* === Taiwan Typography System === */
+    --font-title: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
+    --font-reading: 'LXGW WenKai TC', 'LXGW WenKai TC Light', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+    --font-interface: 'Noto Sans TC', 'Source Han Sans TC', 'PingFang TC', sans-serif;
+    --font-quote: 'LXGW WenKai TC', 'Noto Serif TC', serif;
+    --font-mono: 'SF Mono', 'Fira Code', 'Source Code Pro', 'Consolas', monospace;
+    /* Legacy compatibility */
+    --font-editorial: var(--font-title);
+    --title-display-size: clamp(2.25rem, 5vw, 3.2rem);
+    --title-section-size: clamp(1.95rem, 4vw, 2.5rem);
+    --title-subsection-size: clamp(1.3rem, 2.4vw, 1.7rem);
+    --title-minor-size: 1.1rem;
+    --title-line-height: 1.2;
+    --title-letter-spacing: 0;
+    --copy-intro-size: clamp(1rem, 1.6vw, 1.08rem);
+    --copy-intro-line: 1.75;
+    --copy-intro-color: #64748b;
+    --copy-intro-width: 42rem;
+  }
+
   /* Image constraints for article content */
+=======
+  html {
+    font-size: 118%;
+  }
+  :root {
+    --container-wide: 1380px;
+    --container-page: 1180px;
+    --container-reading: 1080px;
+    --space-page-x: clamp(1rem, 2vw, 2rem);
+    --space-section-y: clamp(3.5rem, 7vw, 6rem);
+    --space-1: 0.5rem;
+    --space-2: 0.75rem;
+    --space-3: 1rem;
+    --space-4: 1.5rem;
+    --space-5: 2rem;
+    --space-6: 2.5rem;
+    --space-7: 3rem;
+    --space-8: 4rem;
+    --space-9: 5rem;
+    --radius-chip: 16px;
+    --radius-card: 20px;
+    --radius-pill: 999px;
+    --shadow-soft: 0 8px 30px rgba(15, 23, 42, 0.06);
+    --shadow-card: 0 16px 40px rgba(15, 23, 42, 0.08);
+    --border-soft: 1px solid rgba(148, 163, 184, 0.2);
+    /* === Taiwan Typography System === */
+    --font-title: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
+    --font-reading: 'LXGW WenKai TC', 'LXGW WenKai TC Light', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+    --font-interface: 'Noto Sans TC', 'Source Han Sans TC', 'PingFang TC', sans-serif;
+    --font-quote: 'LXGW WenKai TC', 'Noto Serif TC', serif;
+    --font-mono: 'SF Mono', 'Fira Code', 'Source Code Pro', 'Consolas', monospace;
+    /* Legacy compatibility */
+    --font-editorial: var(--font-title);
+    --title-display-size: clamp(2.25rem, 5vw, 3.2rem);
+    --title-section-size: clamp(1.95rem, 4vw, 2.5rem);
+    --title-subsection-size: clamp(1.3rem, 2.4vw, 1.7rem);
+    --title-minor-size: 1.1rem;
+    --title-line-height: 1.2;
+    --title-letter-spacing: 0;
+    --copy-intro-size: clamp(1rem, 1.6vw, 1.08rem);
+    --copy-intro-line: 1.75;
+    --copy-intro-color: #64748b;
+    --copy-intro-width: 42rem;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Focus styles for keyboard accessibility */
+  *:focus-visible {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+
+  button:focus-visible,
+  a:focus-visible,
+  input:focus-visible {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+
+  /* ===== justfont Webfont — Phase 1 v2 ===== */
+  /* 1. jf-jinxuanlatte (400) → 內文（金萱那提四分糖）*/
+  /* 2. jf-lanyanghei (W8=800, W10=920) → UI/標題 */
+  /* 3. jf-lanyangming (W3/300) → 引言 blockquote */
+  /* 4. jf-kamabit (700) → 柑仔蜜：Hero 標題 + 美食分類 */
+  /* 5. jf-jinxuan (medium/500) → 特殊強調 */
+  /* 6. rixingsong-semibold (600) → 歷史分類標題 */
+
+  body {
+    /* 霞鶩文楷：文藝風格的台灣字體 */
+    font-family: var(--font-reading);
+    font-weight: 400;
+    line-height: 1.75;
+    color: #1a1a2e;
+    background:
+      radial-gradient(
+        circle at top,
+        rgba(226, 232, 240, 0.35),
+        transparent 30%
+      ),
+      linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    /* 優化中文字體顯示 */
+    font-feature-settings: "kern" 1, "liga" 1;
+  }
+
+  /* Taiwan Typography: 標題字體層級 */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-title);
+    letter-spacing: -0.02em;
+    line-height: 1.3;
+  }
+  h1 {
+    font-weight: 900;
+    letter-spacing: -0.03em;
+  }
+  h2 {
+    font-weight: 800;
+  }
+  h3,
+  h4 {
+    font-weight: 700;
+  }
+  h5,
+  h6 {
+    font-weight: 600;
+  }
+
+  /* Blockquote — 霞鶩文楷（文藝引言） */
+  main blockquote {
+    font-family: var(--font-quote);
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.01em;
+    line-height: 1.8;
+  }
+
+  /* Interface — Noto Sans TC 現代界面 */
+  nav,
+  button,
+  .btn-primary,
+  .btn-secondary,
+  .btn-cta,
+  [class*='btn'],
+  .meta-item,
+  .tag,
+  .category-badge,
+  .search-input {
+    font-family: var(--font-interface);
+    font-weight: 600;
+  }
+
+  /* Category-specific title fonts */
+  .jf-food h1 {
+    font-family: 'jf-kamabit', 'Noto Sans TC', sans-serif;
+    font-weight: 700;
+  }
+  .jf-history h1 {
+    font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;
+    font-weight: 600;
+  }
+
+  /* justfont loading transition — smooth font swap */
+  .jf-active *,
+  .jf-inactive * {
+    transition: opacity 0.3s ease-out;
+  }
+
+  /* Main - full width */
+  main {
+    min-height: calc(100vh - 60px);
+  }
   main img {
     max-width: 100%;
     max-height: 400px;

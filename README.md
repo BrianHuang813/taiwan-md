@@ -44,8 +44,8 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | Metric                   | Count |
 | ------------------------ | ----- |
 | 📄 Total pages built     | 660+  |
-| 🇹🇼 Chinese articles      | 361 |
-| 🇺🇸 English articles      | 355  |
+| 🇹🇼 Chinese articles      | 363 |
+| 🇺🇸 English articles      | 357  |
 | 📂 Categories            | 12    |
 | 🏛️ Hub pages             | 12    |
 | 🕸️ Knowledge graph nodes | 220+  |
@@ -75,12 +75,22 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## 🤝 How to Contribute
 
-Four ways, from zero-code to full PR:
+### 🤖 AI 輔助貢獻（最簡單）
+
+把以下文字貼給你的 AI（ChatGPT / Claude / Gemini），它會引導你完成：
+
+**寫文章：**
+> 請閱讀 https://raw.githubusercontent.com/frank890417/taiwan-md/main/CONTRIBUTE_PROMPT.md ，然後引導我為 Taiwan.md 撰寫一篇台灣主題文章。
+
+**翻譯：**
+> 請閱讀 https://raw.githubusercontent.com/frank890417/taiwan-md/main/TRANSLATE_PROMPT.md ，然後協助我翻譯一篇 Taiwan.md 的文章。
+
+### All paths, from zero-code to full PR:
 
 | Path               | For whom                                     |
 | ------------------ | -------------------------------------------- |
-| 🟢 **Fill a form** | Anyone — just write what you know            |
 | 🤖 **Ask your AI** | Paste our prompt to ChatGPT/Claude/Gemini    |
+| 🟢 **Fill a form** | Anyone — just write what you know            |
 | 📧 **Email us**    | Send articles/photos to cheyu.wu@monoame.com |
 | 🔴 **Fork & PR**   | Developers — edit `knowledge/` directly      |
 
@@ -254,20 +264,26 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jacky1822"><img src="https://avatars.githubusercontent.com/u/94786796?v=4?s=80" width="80px;" alt="jacky1822"/><br /><sub><b>jacky1822</b></sub></a><br /><a href="#content-jacky1822" title="Content">🖋</a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4?s=80" width="80px;" alt="hansai-art"/><br /><sub><b>hansai-art</b></sub></a><br /><a href="#content-hansai-art" title="Content">🖋</a> <a href="https://github.com/frank890417/taiwan-md/commits?author=hansai-art" title="Code">💻</a> <a href="https://github.com/frank890417/taiwan-md/pulls?q=is%3Apr+reviewed-by%3Ahansai-art" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4?s=80" width="80px;" alt="hansai-art"/><br /><sub><b>hansai-art</b></sub></a><br /><a href="#content-hansai-art" title="Content">🖋</a> <a href="https://github.com/frank890417/taiwan-md/commits?author=hansai-art" title="Code">💻</a> <a href="https://github.com/frank890417/taiwan-md/pulls?q=is%3Apr+reviewed-by%3Ahansai-art" title="Reviewed Pull Requests">👀</a> <a href="#ideas-hansai-art" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/luofreddy"><img src="https://avatars.githubusercontent.com/u/85281073?v=4?s=80" width="80px;" alt="luofreddy"/><br /><sub><b>luofreddy</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=luofreddy" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fredchu"><img src="https://avatars.githubusercontent.com/u/1243384?v=4?s=80" width="80px;" alt="Fred Chu"/><br /><sub><b>Fred Chu</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/pulls?q=is%3Apr+reviewed-by%3Afredchu" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/frank890417/taiwan-md/issues?q=author%3Afredchu" title="Bug reports">🐛</a> <a href="https://github.com/frank890417/taiwan-md/commits?author=fredchu" title="Code">💻</a> <a href="#content-fredchu" title="Content">🖋</a> <a href="#tool-fredchu" title="Tools">🔧</a> <a href="#translation-fredchu" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fredchu"><img src="https://avatars.githubusercontent.com/u/1243384?v=4?s=80" width="80px;" alt="Fred Chu"/><br /><sub><b>Fred Chu</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/pulls?q=is%3Apr+reviewed-by%3Afredchu" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/frank890417/taiwan-md/issues?q=author%3Afredchu" title="Bug reports">🐛</a> <a href="https://github.com/frank890417/taiwan-md/commits?author=fredchu" title="Code">💻</a> <a href="#content-fredchu" title="Content">🖋</a> <a href="#tool-fredchu" title="Tools">🔧</a> <a href="#ideas-fredchu" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/frank890417/taiwan-md/commits?author=fredchu" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rushyuheng"><img src="https://avatars.githubusercontent.com/u/82425707?v=4?s=80" width="80px;" alt="Rushyuheng"/><br /><sub><b>Rushyuheng</b></sub></a><br /><a href="#content-Rushyuheng" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/f312213213"><img src="https://avatars.githubusercontent.com/u/71749524?v=4?s=80" width="80px;" alt="David"/><br /><sub><b>David</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=f312213213" title="Code">💻</a> <a href="#translation-f312213213" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/siansiansu"><img src="https://avatars.githubusercontent.com/u/33390878?v=4?s=80" width="80px;" alt="siansiansu"/><br /><sub><b>siansiansu</b></sub></a><br /><a href="#content-siansiansu" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YenTingWu"><img src="https://avatars.githubusercontent.com/u/57777349?v=4?s=80" width="80px;" alt="YenTing Wu"/><br /><sub><b>YenTing Wu</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=YenTingWu" title="Code">💻</a> <a href="#tool-YenTingWu" title="Tools">🔧</a> <a href="#translation-YenTingWu" title="Translation">🌍</a> <a href="https://github.com/frank890417/taiwan-md/pulls?q=is%3Apr+reviewed-by%3AYenTingWu" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YenTingWu"><img src="https://avatars.githubusercontent.com/u/57777349?v=4?s=80" width="80px;" alt="YenTing Wu"/><br /><sub><b>YenTing Wu</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=YenTingWu" title="Code">💻</a> <a href="#tool-YenTingWu" title="Tools">🔧</a> <a href="#infra-YenTingWu" title="Infrastructure">🚇</a> <a href="https://github.com/frank890417/taiwan-md/commits?author=YenTingWu" title="Documentation">📖</a> <a href="#ideas-YenTingWu" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4?s=80" width="80px;" alt="ParkCorner"/><br /><sub><b>ParkCorner</b></sub></a><br /><a href="#content-r000tmnt" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/weilinlai719"><img src="https://avatars.githubusercontent.com/u/173038591?v=4?s=80" width="80px;" alt="weilin lai"/><br /><sub><b>weilin lai</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=weilinlai719" title="Code">💻</a> <a href="https://github.com/frank890417/taiwan-md/issues?q=author%3Aweilinlai719" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/idlccp02"><img src="https://avatars.githubusercontent.com/u/233878411?v=4?s=80" width="80px;" alt="idlccp02"/><br /><sub><b>idlccp02</b></sub></a><br /><a href="#content-idlccp02" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/howieyoung"><img src="https://avatars.githubusercontent.com/u/12218074?v=4?s=80" width="80px;" alt="Howie Young"/><br /><sub><b>Howie Young</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=howieyoung" title="Code">💻</a> <a href="#security-howieyoung" title="Security">🛡️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eryet"><img src="https://avatars.githubusercontent.com/u/48248414?v=4?s=80" width="80px;" alt="EryetChen"/><br /><sub><b>EryetChen</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=eryet" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eryet"><img src="https://avatars.githubusercontent.com/u/48248414?v=4?s=80" width="80px;" alt="EryetChen"/><br /><sub><b>EryetChen</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=eryet" title="Code">💻</a> <a href="#content-eryet" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/x1001000"><img src="https://avatars.githubusercontent.com/u/6036508?v=4?s=80" width="80px;" alt="十百千"/><br /><sub><b>十百千</b></sub></a><br /><a href="#content-x1001000" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RayHsu1117"><img src="https://avatars.githubusercontent.com/u/105488123?v=4?s=80" width="80px;" alt="RayHsu1117"/><br /><sub><b>RayHsu1117</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=RayHsu1117" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://andywangtw.dev/"><img src="https://avatars.githubusercontent.com/u/71600455?v=4?s=80" width="80px;" alt="Andy Wang"/><br /><sub><b>Andy Wang</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=AndyWang505" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://penchan.co/"><img src="https://avatars.githubusercontent.com/u/5032148?v=4?s=80" width="80px;" alt="Penchan"/><br /><sub><b>Penchan</b></sub></a><br /><a href="#content-p3nchan" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

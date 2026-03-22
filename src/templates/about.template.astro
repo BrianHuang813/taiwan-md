@@ -221,6 +221,17 @@ const t = useTranslations(lang);
           </div>
 
           <div class="timeline-item">
+            <div class="timeline-marker"></div>
+            <div class="timeline-date">
+              {t('about.timeline.2026-03-22.date')}
+            </div>
+            <div class="timeline-content">
+              <h3>{t('about.timeline.2026-03-22.title')}</h3>
+              <p set:html={t('about.timeline.2026-03-22.desc.html')} />
+            </div>
+          </div>
+
+          <div class="timeline-item">
             <div class="timeline-marker pulse"></div>
             <div class="timeline-date">{t('about.timeline.ongoing.date')}</div>
             <div class="timeline-content">
@@ -619,6 +630,48 @@ const t = useTranslations(lang);
                 loading="lazy"
               />
               <span class="contributor-name">Rushyuheng</span>
+            </a>
+            <a
+              href="https://github.com/idlccp02"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/233878411?v=4"
+                alt="idlccp02"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">idlccp02</span>
+            </a>
+            <a
+              href="https://github.com/x1001000"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/6036508?v=4"
+                alt="x1001000"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">x1001000</span>
+            </a>
+            <a
+              href="https://github.com/p3nchan"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/5032148?v=4"
+                alt="p3nchan"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">p3nchan</span>
             </a>
 
           </div>

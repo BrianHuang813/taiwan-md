@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/generate-api.js",
+    "prebuild": "node scripts/generate-api.js && node scripts/generate-map-markers.js",
     "build": "astro build",
     "postbuild": "npx pagefind --site dist",
     "preview": "astro preview",
@@ -16,12 +16,14 @@
     "check-images": "node scripts/check-images.mjs",
     "sanitize": "node scripts/sanitize-content.mjs",
     "translate:es": "node scripts/translate-to-es.mjs",
+    "check-links": "bash scripts/check-links.sh",
     "astro": "astro",
     "format::check": "prettier --check .",
     "format::write": "prettier --write .",
     "prepare": "husky"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.17",
     "@astrojs/sitemap": "^3.7.1",
     "astro": "^6.0.5",
     "dompurify": "^3.2.4",

@@ -32,6 +32,7 @@ export type Company = {
   employees: number;
   founded: number;
   ticker: string;
+  articleUrl?: string; // optional link to knowledge article
 };
 
 // Sector color mapping
@@ -71,6 +72,7 @@ export const getCompanyConfigs = (
     employees: 76000,
     founded: 1987,
     ticker: '2330',
+    articleUrl: '/economy/台灣企業：台積電',
   },
   {
     name: t('data.company.hon-hai-foxconn'),
@@ -80,6 +82,7 @@ export const getCompanyConfigs = (
     employees: 870000,
     founded: 1974,
     ticker: '2317',
+    articleUrl: '/economy/台灣企業：鴻海精密',
   },
   {
     name: t('data.company.mediatek'),
@@ -89,6 +92,7 @@ export const getCompanyConfigs = (
     employees: 20000,
     founded: 1997,
     ticker: '2454',
+    articleUrl: '/economy/台灣企業：聯發科技',
   },
   {
     name: t('data.company.delta-electronics'),
@@ -98,6 +102,7 @@ export const getCompanyConfigs = (
     employees: 80000,
     founded: 1971,
     ticker: '2308',
+    articleUrl: '/economy/台灣企業：台達電子',
   },
   {
     name: t('data.company.ase-group'),
@@ -107,6 +112,7 @@ export const getCompanyConfigs = (
     employees: 98000,
     founded: 1984,
     ticker: '3711',
+    articleUrl: '/economy/台灣企業：日月光半導體',
   },
   {
     name: t('data.company.quanta-computer'),
@@ -116,6 +122,7 @@ export const getCompanyConfigs = (
     employees: 90000,
     founded: 1988,
     ticker: '2382',
+    articleUrl: '/economy/台灣企業：廣達電腦',
   },
   {
     name: t('data.company.cathay-financial'),
@@ -125,6 +132,7 @@ export const getCompanyConfigs = (
     employees: 55000,
     founded: 2001,
     ticker: '2882',
+    articleUrl: '/economy/台灣企業：國泰金控',
   },
   {
     name: t('data.company.fubon-financial'),
@@ -134,6 +142,7 @@ export const getCompanyConfigs = (
     employees: 48000,
     founded: 2001,
     ticker: '2881',
+    articleUrl: '/economy/台灣企業：富邦金控',
   },
   {
     name: t('data.company.chunghwa-telecom'),
@@ -143,6 +152,7 @@ export const getCompanyConfigs = (
     employees: 23000,
     founded: 1996,
     ticker: '2412',
+    articleUrl: '/economy/台灣企業：中華電信',
   },
   {
     name: t('data.company.umc'),
@@ -152,6 +162,7 @@ export const getCompanyConfigs = (
     employees: 20000,
     founded: 1980,
     ticker: '2303',
+    articleUrl: '/economy/台灣企業：聯華電子',
   },
   {
     name: t('data.company.uni-president'),

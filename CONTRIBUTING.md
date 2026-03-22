@@ -39,7 +39,7 @@ tags: ['標籤1', '標籤2', '標籤3']
 author: '作者名稱'
 difficulty: 'beginner|intermediate|advanced'
 readingTime: 8 # 預估閱讀時間（分鐘）
-featured: false # 是否為精選文章
+featured: false # 是否為精選文章（⚠️ 由維護者統一管理，PR 請勿自行設定為 true）
 ---
 
 # 文章標題
@@ -159,6 +159,22 @@ src/content/en/food/night-market.md
 - 解釋在地文化概念
 - 提供比較和類比
 
+#### Featured 文章管理 🏆
+
+**`featured: true` 由維護者統一管理，PR 請勿自行設定。**
+
+- Featured 文章是各分類最具代表性的內容
+- 建議每分類保持 1-2 篇 featured 文章
+- 維護者會使用 `scripts/manage-featured.sh` 工具統一管理：
+  ```bash
+  # 查看所有 featured 文章
+  bash scripts/manage-featured.sh list
+  
+  # 審計 featured 文章分佈
+  bash scripts/manage-featured.sh audit
+  ```
+- 如果您認為某篇文章應該被設為 featured，請在 PR 中說明理由
+
 ---
 
 ## 🔄 貢獻流程
@@ -212,9 +228,19 @@ bun run dev  # 或 npm run dev
 
 ### 3. 品質檢查
 
-#### 自我檢查清單
+> ⚠️ **所有文章 PR 必須通過 [EDITORIAL.md](./EDITORIAL.md) 標準審核。** 不符合寫作標準的 PR 會被要求修改後重新提交。
 
-- [ ] 符合三層閱讀深度設計
+#### EDITORIAL.md 核心要求（PR 前必讀）
+
+- [ ] **反直覺核心句**：文章有一個能讓讀者驚訝的核心觀點
+- [ ] **開場不塑膠**：前三句有具體事實，不用「X 不僅是 Y，更是 Z」等模板句式
+- [ ] **有來源**：至少 5 個可查證來源（含 URL），2+ 一手來源
+- [ ] **策展人聲音**：每 2-3 段有一句觀點或反思，不只是資料堆疊
+- [ ] **禁止 bullet list 灌水**：用敘事散文寫作，bullet list 僅用於真正的清單
+- [ ] **detect-ai-hollow.sh 分數 ≤ 3**：跑 `bash tools/detect-ai-hollow.sh` 確認
+
+#### 一般自我檢查
+
 - [ ] 內容原創或正確標註來源
 - [ ] 語言流暢，無錯字
 - [ ] Markdown 格式正確

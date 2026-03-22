@@ -1,21 +1,1542 @@
 [
-  { "title": "士林夜市",       "lng": 121.524, "lat": 25.088, "region": "north",   "category": "food",       "link": "/food/夜市文化",                             "desc": "台灣夜市文化的代表性據點" },
-  { "title": "陽明山國家公園", "lng": 121.549, "lat": 25.158, "region": "north",   "category": "nature",     "link": "/nature/國家公園",                           "desc": "台灣第一個國家公園" },
-  { "title": "台北101",        "lng": 121.564, "lat": 25.034, "region": "north",   "category": "economy",    "link": "/economy/經濟奇蹟",                          "desc": "台灣經濟奇蹟的象徵" },
-  { "title": "中正紀念堂",     "lng": 121.521, "lat": 25.036, "region": "north",   "category": "history",    "link": "/history/戒嚴時期",                          "desc": "見證台灣戒嚴時期的歷史建築" },
-  { "title": "西門町",         "lng": 121.508, "lat": 25.042, "region": "north",   "category": "lifestyle",  "link": "/lifestyle/便利商店文化",                    "desc": "台灣便利商店文化發源地" },
-  { "title": "新竹科學園區",   "lng": 120.993, "lat": 24.784, "region": "north",   "category": "technology", "link": "/technology/半導體產業",                     "desc": "台灣半導體產業重鎮" },
-  { "title": "日月潭",         "lng": 120.920, "lat": 23.883, "region": "central", "category": "nature",     "link": "/nature/國家公園",                           "desc": "台灣最美麗的高山湖泊" },
-  { "title": "鹿港",           "lng": 120.437, "lat": 24.055, "region": "central", "category": "culture",    "link": "/culture/廟宇文化與民間信仰",                 "desc": "台灣廟宇文化的重要據點" },
-  { "title": "台中國家歌劇院", "lng": 120.646, "lat": 24.163, "region": "central", "category": "art",        "link": "/art/當代藝術",                              "desc": "台灣當代藝術的重要場域" },
-  { "title": "台南府城",       "lng": 120.201, "lat": 22.997, "region": "south",   "category": "history",    "link": "/history/荷西明鄭時期",                      "desc": "台灣歷史文化古都" },
-  { "title": "高雄港",         "lng": 120.285, "lat": 22.615, "region": "south",   "category": "economy",    "link": "/economy/經濟奇蹟",                          "desc": "台灣重要的海港經濟據點" },
-  { "title": "墾丁國家公園",   "lng": 120.801, "lat": 21.950, "region": "south",   "category": "nature",     "link": "/nature/國家公園",                           "desc": "台灣最南端的國家公園" },
-  { "title": "六堆客家文化",   "lng": 120.588, "lat": 22.638, "region": "south",   "category": "culture",    "link": "/culture/族群（閩南客家原住民外省新住民）",  "desc": "南台灣客家文化保存區" },
-  { "title": "太魯閣國家公園", "lng": 121.621, "lat": 24.157, "region": "east",    "category": "nature",     "link": "/nature/國家公園",                           "desc": "世界級的峽谷地景" },
-  { "title": "花東縱谷",       "lng": 121.354, "lat": 23.483, "region": "east",    "category": "geography",  "link": "/geography/台灣五大地形與地理結構",           "desc": "台灣重要的地理景觀" },
-  { "title": "蘭嶼",           "lng": 121.549, "lat": 22.033, "region": "islands", "category": "culture",    "link": "/culture/原住民族文化",                      "desc": "原住民族文化保存地" },
-  { "title": "池上",           "lng": 121.224, "lat": 23.100, "region": "east",    "category": "food",       "link": "/food/台灣茶文化",                           "desc": "台灣優質稻米產區" },
-  { "title": "澎湖",           "lng": 119.567, "lat": 23.571, "region": "islands", "category": "geography",  "link": "/geography/離島與海洋文化",                  "desc": "台灣海洋文化的代表" },
-  { "title": "金門",           "lng": 118.317, "lat": 24.449, "region": "islands", "category": "history",    "link": "/history/戒嚴時期",                          "desc": "見證兩岸對峙的歷史" }
+  {
+    "title": "創辦人 — 吳哲宇 Che-Yu Wu",
+    "lat": 25.033,
+    "lng": 121.565,
+    "category": "about",
+    "region": "north",
+    "link": "/about/%E5%89%B5%E8%BE%A6%E4%BA%BA%20%E2%80%94%20%E5%90%B3%E5%93%B2%E5%AE%87%20Che-Yu%20Wu",
+    "desc": "從程式碼到詩意：一位台灣藝術家的國際突破之路",
+    "city": "台北"
+  },
+  {
+    "title": "台灣原住民當代藝術",
+    "lat": 25.036074,
+    "lng": 121.572022,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93",
+    "desc": "從傳統工藝到當代創作，探索台灣原住民藝術家如何在全球藝術舞台上發聲，重新定義原住民身份與當代藝術的對話",
+    "city": "台北"
+  },
+  {
+    "title": "台灣實驗與新媒體藝術",
+    "lat": 25.038737,
+    "lng": 121.565724,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E5%8F%B0%E7%81%A3%E5%AF%A6%E9%A9%97%E8%88%87%E6%96%B0%E5%AA%92%E9%AB%94%E8%97%9D%E8%A1%93",
+    "desc": "從錄像藝術到VR互動，探索台灣新媒體藝術的創新發展與科技藝術生態",
+    "city": "台北"
+  },
+  {
+    "title": "台灣建築",
+    "lat": 24.148,
+    "lng": 120.674,
+    "category": "art",
+    "region": "central",
+    "link": "/art/%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%89",
+    "desc": "從石板屋到摩天樓：一座島嶼的建築時光之旅",
+    "city": "台中"
+  },
+  {
+    "title": "台灣新媒體藝術",
+    "lat": 25.037302,
+    "lng": 121.571545,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E5%8F%B0%E7%81%A3%E6%96%B0%E5%AA%92%E9%AB%94%E8%97%9D%E8%A1%93",
+    "desc": "探索台灣的文化與故事",
+    "city": "台北"
+  },
+  {
+    "title": "台灣水彩畫的百年流變",
+    "lat": 24.804,
+    "lng": 120.969,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E5%8F%B0%E7%81%A3%E6%B0%B4%E5%BD%A9%E7%95%AB%E7%9A%84%E7%99%BE%E5%B9%B4%E6%B5%81%E8%AE%8A",
+    "desc": "從日治時期石川欽一郎的啟蒙，到當代簡忠威揚名國際，台灣水彩畫走過百年歷程，成為亞洲最活躍的水彩創作重鎮。",
+    "city": "新竹"
+  },
+  {
+    "title": "台灣當代雕塑發展",
+    "lat": 25.033168,
+    "lng": 121.568142,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E9%9B%95%E5%A1%91%E7%99%BC%E5%B1%95",
+    "desc": "從楊英風、朱銘到新世代，探索台灣雕塑藝術的演變軌跡與創作精神",
+    "city": "台北"
+  },
+  {
+    "title": "台灣策展人與藝術文化建構",
+    "lat": 25.034701,
+    "lng": 121.565652,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E5%8F%B0%E7%81%A3%E7%AD%96%E5%B1%95%E4%BA%BA%E8%88%87%E8%97%9D%E8%A1%93%E6%96%87%E5%8C%96%E5%BB%BA%E6%A7%8B",
+    "desc": "從獨立策展到美術館體系，台灣策展人如何建構當代藝術的文化論述與國際對話",
+    "city": "台北"
+  },
+  {
+    "title": "新媒體藝術",
+    "lat": 25.026655,
+    "lng": 121.561679,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E6%96%B0%E5%AA%92%E9%AB%94%E8%97%9D%E8%A1%93",
+    "desc": "台灣數位藝術的先鋒探索，從實驗室到國際舞台的科技與人文融合",
+    "city": "台北"
+  },
+  {
+    "title": "當代台灣文學",
+    "lat": 25.03969,
+    "lng": 121.566938,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E7%95%B6%E4%BB%A3%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8",
+    "desc": "探索台灣的文化與故事",
+    "city": "台北"
+  },
+  {
+    "title": "台灣當代藝術",
+    "lat": 25.0263,
+    "lng": 121.570994,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93",
+    "desc": "從北美館到威尼斯雙年展台灣館，台灣當代藝術在全球舞台的獨特位置",
+    "city": "台北"
+  },
+  {
+    "title": "人間雜誌",
+    "lat": 24.994,
+    "lng": 121.301,
+    "category": "culture",
+    "region": "north",
+    "link": "/culture/%E4%BA%BA%E9%96%93%E9%9B%9C%E8%AA%8C",
+    "desc": "47 期，四年，一場用攝影和文字發動的安靜革命——台灣報導文學的起點",
+    "city": "桃園"
+  },
+  {
+    "title": "台灣原住民文化",
+    "lat": 24.158,
+    "lng": 121.621,
+    "category": "culture",
+    "region": "east",
+    "link": "/culture/原住民族文化",
+    "desc": "從十六族的多元傳統到當代藝術復振，探索台灣原住民文化的深厚底蘊與現代轉化",
+    "city": "花蓮"
+  },
+  {
+    "title": "台灣原住民族16族文化地圖",
+    "lat": 22.682,
+    "lng": 120.484,
+    "category": "culture",
+    "region": "south",
+    "link": "/culture/原住民族文化",
+    "desc": "探索台灣16個原住民族的分布區域、語言系統、重要祭典與當代創作發展，了解台灣原住民族的多元文化面貌",
+    "city": "屏東"
+  },
+  {
+    "title": "台灣夜市文化與小吃風情",
+    "lat": 25.088,
+    "lng": 121.524,
+    "category": "culture",
+    "region": "north",
+    "link": "/culture/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82%E6%96%87%E5%8C%96%E8%88%87%E5%B0%8F%E5%90%83%E9%A2%A8%E6%83%85",
+    "desc": "深度探索台灣夜市文化的形成背景、獨特魅力，以及代表性小吃的歷史故事與文化意義",
+    "city": "台北"
+  },
+  {
+    "title": "台灣感性：韓國人眼中的台式美學",
+    "lat": 25.0383,
+    "lng": 121.562324,
+    "category": "culture",
+    "region": "north",
+    "link": "/culture/%E5%8F%B0%E7%81%A3%E6%84%9F%E6%80%A7%EF%BC%9A%E9%9F%93%E5%9C%8B%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%8F%B0%E5%BC%8F%E7%BE%8E%E5%AD%B8",
+    "desc": "從 K-pop MV 到首爾書展，「대만감성」如何讓台灣的日常街景成為亞洲最迷人的美學符號",
+    "city": "台北"
+  },
+  {
+    "title": "台灣文化創意園區發展",
+    "lat": 22.62,
+    "lng": 120.282,
+    "category": "culture",
+    "region": "south",
+    "link": "/culture/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
+    "desc": "從舊建築活化到創意聚落，台灣文化創意園區的發展歷程與創新模式",
+    "city": "高雄"
+  },
+  {
+    "title": "台灣老街文化與商業街區",
+    "lat": 25.109,
+    "lng": 121.845,
+    "category": "culture",
+    "region": "north",
+    "link": "/culture/%E5%8F%B0%E7%81%A3%E8%80%81%E8%A1%97%E6%96%87%E5%8C%96%E8%88%87%E5%95%86%E6%A5%AD%E8%A1%97%E5%8D%80",
+    "desc": "從清代港口繁華到日治巴洛克洋樓，台灣老街是一部用磚瓦寫成的庶民史",
+    "city": "新北"
+  },
+  {
+    "title": "台灣茶道與生活美學",
+    "lat": 23.51,
+    "lng": 120.7,
+    "category": "culture",
+    "region": "south",
+    "link": "/culture/%E5%8F%B0%E7%81%A3%E8%8C%B6%E9%81%93%E8%88%87%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%B8",
+    "desc": "從功夫茶到茶席美學，探索台灣如何將東方茶文化與在地生活美學融合創新",
+    "city": "嘉義"
+  },
+  {
+    "title": "台灣街頭藝術與塗鴉文化",
+    "lat": 25.033721,
+    "lng": 121.570551,
+    "category": "culture",
+    "region": "north",
+    "link": "/culture/%E5%8F%B0%E7%81%A3%E8%A1%97%E9%A0%AD%E8%97%9D%E8%A1%93%E8%88%87%E5%A1%97%E9%B4%89%E6%96%87%E5%8C%96",
+    "desc": "從地下塗鴉到合法彩繪，城市牆面如何成為台灣藝術家的創作舞台",
+    "city": "台北"
+  },
+  {
+    "title": "台灣製香文化與香腳原鄉",
+    "lat": 24.055,
+    "lng": 120.437,
+    "category": "culture",
+    "region": "central",
+    "link": "/culture/%E5%8F%B0%E7%81%A3%E8%A3%BD%E9%A6%99%E6%96%87%E5%8C%96%E8%88%87%E9%A6%99%E8%85%B3%E5%8E%9F%E9%84%89",
+    "desc": "從嘉義雲霄社區的百年香腳技藝，到台灣遍布全島的製香產業——一門關於虔誠、手藝與堅持的古老行業",
+    "city": "彰化"
+  },
+  {
+    "title": "台灣諧音禁忌文化：為什麼「四」讓整個社會跳過樓層？",
+    "lat": 24.986743,
+    "lng": 121.299278,
+    "category": "culture",
+    "region": "north",
+    "link": "/culture/%E5%8F%B0%E7%81%A3%E8%AB%A7%E9%9F%B3%E7%A6%81%E5%BF%8C%E6%96%87%E5%8C%96%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E3%80%8C%E5%9B%9B%E3%80%8D%E8%AE%93%E6%95%B4%E5%80%8B%E7%A4%BE%E6%9C%83%E8%B7%B3%E9%81%8E%E6%A8%93%E5%B1%A4%EF%BC%9F",
+    "desc": "從醫院沒有四樓到車牌8888天價標售，台灣人對諧音的敏感程度堪稱世界之最",
+    "city": "桃園"
+  },
+  {
+    "title": "客家文化與語言",
+    "lat": 24.800153,
+    "lng": 120.964201,
+    "category": "culture",
+    "region": "north",
+    "link": "/culture/族群（閩南客家原住民外省新住民）",
+    "desc": "硬頸精神與天穿日：台灣客家人的文化傳承與現代復振",
+    "city": "新竹"
+  },
+  {
+    "title": "族群（閩南客家原住民外省新住民）",
+    "lat": 24.991566,
+    "lng": 121.299583,
+    "category": "culture",
+    "region": "north",
+    "link": "/culture/原住民族文化",
+    "desc": "台灣的族群多元性不僅是歷史發展的結果，更是理解當代台灣社會的關鍵。這種多元共存的社會結構，既是台灣文化創意的源泉，也是民主政治發展的重要基礎。如何在尊重各族群文化特色的同時，建構共同的台灣認同，是台灣社會持續面對的重要課題。",
+    "city": "桃園"
+  },
+  {
+    "title": "中鋼：鐵頭部長與十大建設的鋼鐵傳奇",
+    "lat": 22.620122,
+    "lng": 120.308694,
+    "category": "economy",
+    "region": "south",
+    "link": "/economy/%E4%B8%AD%E9%8B%BC%EF%BC%9A%E9%90%B5%E9%A0%AD%E9%83%A8%E9%95%B7%E8%88%87%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD%E7%9A%84%E9%8B%BC%E9%90%B5%E5%82%B3%E5%A5%87",
+    "desc": "從趙耀東歐美談判智取技術，到高雄小港升起的第一縷白煙，中鋼用50年打造台灣重工業脊樑，是十大建設最成功的明珠",
+    "city": "高雄"
+  },
+  {
+    "title": "台泥：台灣第一上市公司的綠色轉型傳奇",
+    "lat": 22.996,
+    "lng": 120.161,
+    "category": "economy",
+    "region": "south",
+    "link": "/economy/%E5%8F%B0%E6%B3%A5%EF%BC%9A%E5%8F%B0%E7%81%A3%E7%AC%AC%E4%B8%80%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%9A%84%E7%B6%A0%E8%89%B2%E8%BD%89%E5%9E%8B%E5%82%B3%E5%A5%87",
+    "desc": "1962年台灣證交所為它而生，股票代號1101象徵台股起源。從辜家三代經營76年，台泥用一座座水泥窯見證台灣建設奇蹟，如今轉型綠色企業迎戰碳中和時代",
+    "city": "台南"
+  },
+  {
+    "title": "台灣企業：台積電",
+    "lat": 24.802634,
+    "lng": 120.96734,
+    "category": "economy",
+    "region": "north",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB",
+    "desc": "全球晶片代工龍頭，掌握人類數位文明的關鍵命脈",
+    "city": "新竹"
+  },
+  {
+    "title": "奇美實業：許文龍的壓克力王國與博物館夢想",
+    "lat": 22.935,
+    "lng": 120.226,
+    "category": "economy",
+    "region": "south",
+    "link": "/art/當代藝術",
+    "desc": "從1960年台南仁德小工廠起步，許文龍用一生打造亞洲最大ABS材料王國，更創建奇美博物館回饋社會。證明台灣企業可以兼顧商業成功與人文關懷",
+    "city": "台南"
+  },
+  {
+    "title": "宏碁集團 (Acer) - PC 產業的變革先驅",
+    "lat": 24.994203,
+    "lng": 121.297525,
+    "category": "economy",
+    "region": "north",
+    "link": "/economy/%E5%AE%8F%E7%A2%81%E9%9B%86%E5%9C%98%20(Acer)%20-%20PC%20%E7%94%A2%E6%A5%AD%E7%9A%84%E8%AE%8A%E9%9D%A9%E5%85%88%E9%A9%85",
+    "desc": "從台灣桃園起家的個人電腦先驅，創造「多品牌、多通路」商業模式，成為全球 PC 產業的變革引擎",
+    "city": "桃園"
+  },
+  {
+    "title": "台灣企業：巨大機械",
+    "lat": 25.034005,
+    "lng": 121.56482,
+    "category": "economy",
+    "region": "north",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%B7%A8%E5%A4%A7%E6%A9%9F%E6%A2%B0",
+    "desc": "從被美國大廠拋棄的代工奴隸，到制定全球自行車技術標準的隱形帝國",
+    "city": "台北"
+  },
+  {
+    "title": "台灣企業：廣達電腦",
+    "lat": 25.031308,
+    "lng": 121.567301,
+    "category": "economy",
+    "region": "north",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%BB%A3%E9%81%94%E9%9B%BB%E8%85%A6",
+    "desc": "從工廠火災到全球筆電王，林百里如何建造AI時代的新帝國？",
+    "city": "台北"
+  },
+  {
+    "title": "台灣企業：日月光半導體",
+    "lat": 22.625156,
+    "lng": 120.297923,
+    "category": "economy",
+    "region": "south",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E6%97%A5%E6%9C%88%E5%85%89%E5%8D%8A%E5%B0%8E%E9%AB%94",
+    "desc": "全球第一大封測廠，建設公司老闆為何轉戰半導體？",
+    "city": "高雄"
+  },
+  {
+    "title": "台灣企業：玉山金控",
+    "lat": 23.47,
+    "lng": 120.957,
+    "category": "economy",
+    "region": "central",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%8E%89%E5%B1%B1%E9%87%91%E6%8E%A7",
+    "desc": "從信用卡專業銀行到數位金融先鋒，43歲最年輕金控總經理的突破故事",
+    "city": "南投"
+  },
+  {
+    "title": "台灣企業：長春石化",
+    "lat": 22.999,
+    "lng": 120.227,
+    "category": "economy",
+    "region": "south",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%95%B7%E6%98%A5%E7%9F%B3%E5%8C%96",
+    "desc": "1949年台南小工廠到全球化工巨頭，「不上市不借錢」的隱形冠軍故事",
+    "city": "台南"
+  },
+  {
+    "title": "台灣企業：長榮海運",
+    "lat": 25.035272,
+    "lng": 121.565533,
+    "category": "economy",
+    "region": "north",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%95%B7%E6%A6%AE%E6%B5%B7%E9%81%8B",
+    "desc": "從一艘二手船到全球海運帝國，張榮發的藍海傳奇",
+    "city": "台北"
+  },
+  {
+    "title": "夜市經濟學：一場沒有品牌的商業奇蹟",
+    "lat": 24.179,
+    "lng": 120.647,
+    "category": "economy",
+    "region": "central",
+    "link": "/economy/%E5%A4%9C%E5%B8%82%E7%B6%93%E6%BF%9F%E5%AD%B8%EF%BC%9A%E4%B8%80%E5%A0%B4%E6%B2%92%E6%9C%89%E5%93%81%E7%89%8C%E7%9A%84%E5%95%86%E6%A5%AD%E5%A5%87%E8%B9%9F",
+    "desc": "探索台灣夜市如何在沒有品牌、裝潢和固定地點的情況下，創造年產值近4000億的經濟奇蹟",
+    "city": "台中"
+  },
+  {
+    "title": "台灣咖啡產業",
+    "lat": 23.517113,
+    "lng": 120.705732,
+    "category": "food",
+    "region": "south",
+    "link": "/food/%E5%8F%B0%E7%81%A3%E5%92%96%E5%95%A1%E7%94%A2%E6%A5%AD",
+    "desc": "從日治時期的種植起源到Simple Kaffa世界冠軍，台灣咖啡的百年進化史",
+    "city": "嘉義"
+  },
+  {
+    "title": "台灣地方小吃地圖",
+    "lat": 24.803147,
+    "lng": 120.97612,
+    "category": "food",
+    "region": "north",
+    "link": "/food/%E5%8F%B0%E7%81%A3%E5%9C%B0%E6%96%B9%E5%B0%8F%E5%90%83%E5%9C%B0%E5%9C%96",
+    "desc": "從基隆廟口的鼎邊糊到屏東萬巒的豬腳，從新竹的貢丸到台東的釋迦，每個城市都有專屬的味覺DNA。跟著在地人的腳步，探索台灣22個縣市最具代表性的地方小吃，品味島嶼上最真實的庶民文化。",
+    "city": "新竹"
+  },
+  {
+    "title": "台灣手路菜：正在消失的味覺記憶",
+    "lat": 23.48,
+    "lng": 120.449,
+    "category": "food",
+    "region": "south",
+    "link": "/food/%E5%8F%B0%E7%81%A3%E6%89%8B%E8%B7%AF%E8%8F%9C%EF%BC%9A%E6%AD%A3%E5%9C%A8%E6%B6%88%E5%A4%B1%E7%9A%84%E5%91%B3%E8%A6%BA%E8%A8%98%E6%86%B6",
+    "desc": "從嘉義薄荷雞到菜尾湯，阿嬤的拿手好菜承載著家族記憶，卻正在時代變遷中慢慢失傳",
+    "city": "嘉義"
+  },
+  {
+    "title": "台灣新住民美食融合",
+    "lat": 25.034527,
+    "lng": 121.558214,
+    "category": "food",
+    "region": "north",
+    "link": "/food/%E5%8F%B0%E7%81%A3%E6%96%B0%E4%BD%8F%E6%B0%91%E7%BE%8E%E9%A3%9F%E8%9E%8D%E5%90%88",
+    "desc": "當泰式酸辣遇上台灣甜鹹、當越南河粉邂逅台式滷味、當印尼香料擁抱本土食材，一場跨越國界的味覺革命正在台灣悄然發生。新住民帶來的不只是故鄉的料理，更是豐富台灣美食文化的全新可能。",
+    "city": "台北"
+  },
+  {
+    "title": "台灣水果王國",
+    "lat": 22.630962,
+    "lng": 120.304705,
+    "category": "food",
+    "region": "south",
+    "link": "/food/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%9E%9C%E7%8E%8B%E5%9C%8B",
+    "desc": "從芒果荔枝到釋迦蓮霧，熱帶水果多樣性與農業技術突破的甜美傳奇",
+    "city": "高雄"
+  },
+  {
+    "title": "台灣海鮮文化",
+    "lat": 25.128,
+    "lng": 121.739,
+    "category": "food",
+    "region": "north",
+    "link": "/food/%E5%8F%B0%E7%81%A3%E6%B5%B7%E9%AE%AE%E6%96%87%E5%8C%96",
+    "desc": "漁港新鮮直送、海鮮餐廳文化、蚵仔煎等海味料理，展現台灣四面環海的島嶼特色與豐富的海鮮飲食傳統",
+    "city": "基隆"
+  },
+  {
+    "title": "台灣米其林與精緻餐飲",
+    "lat": 25.033444,
+    "lng": 121.569103,
+    "category": "food",
+    "region": "north",
+    "link": "/food/%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E8%88%87%E7%B2%BE%E7%B7%BB%E9%A4%90%E9%A3%B2",
+    "desc": "2018年，米其林指南的紅色封面首次印上「TAIPEI」字樣，標誌著台灣餐飲業正式進入國際評價體系。從街邊小攤到星級餐廳，從庶民美食到精緻料理，台灣餐飲文化在國際舞台上展現出既傳統又創新的迷人風貌。",
+    "city": "台北"
+  },
+  {
+    "title": "夜市文化",
+    "lat": 25.080581,
+    "lng": 121.517983,
+    "category": "food",
+    "region": "north",
+    "link": "/food/夜市文化",
+    "desc": "164個列管夜市、台南平均3.8萬人擁有一個夜市，從廟埕到國際觀光景點",
+    "city": "台北"
+  },
+  {
+    "title": "客家飲食文化",
+    "lat": 24.806523,
+    "lng": 120.961467,
+    "category": "food",
+    "region": "north",
+    "link": "/food/%E5%AE%A2%E5%AE%B6%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
+    "desc": "客家人豐富多元的飲食文化，從擂茶的醇厚香味到野薑花粽的山林風情，展現客家族群勤儉持家與就地取材的生活智慧",
+    "city": "新竹"
+  },
+  {
+    "title": "牛肉麵",
+    "lat": 25.038821,
+    "lng": 121.559274,
+    "category": "food",
+    "region": "north",
+    "link": "/food/%E7%89%9B%E8%82%89%E9%BA%B5",
+    "desc": "從外省移民鄉愁到台灣國民美食，牛肉麵的文化融合與全球飄香",
+    "city": "台北"
+  },
+  {
+    "title": "茶文化",
+    "lat": 25.032454,
+    "lng": 121.568516,
+    "category": "food",
+    "region": "north",
+    "link": "/food/台灣茶文化",
+    "desc": "台灣從傳統茶藝到現代手搖飲的茶文化演進，展現島嶼獨特的茶葉品種與飲茶文化",
+    "city": "台北"
+  },
+  {
+    "title": "台灣五大地形與地理結構：從山脈到平原的島嶼風貌",
+    "lat": 23.462981,
+    "lng": 120.962405,
+    "category": "geography",
+    "region": "central",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E4%BA%94%E5%A4%A7%E5%9C%B0%E5%BD%A2%E8%88%87%E5%9C%B0%E7%90%86%E7%B5%90%E6%A7%8B%EF%BC%9A%E5%BE%9E%E5%B1%B1%E8%84%88%E5%88%B0%E5%B9%B3%E5%8E%9F%E7%9A%84%E5%B3%B6%E5%B6%BC%E9%A2%A8%E8%B2%8C",
+    "desc": "探索台灣獨特的地理結構，從中央山脈到西部平原，認識這座島嶼的地形多樣性",
+    "city": "南投"
+  },
+  {
+    "title": "台灣交通運輸網絡",
+    "lat": 25.037003,
+    "lng": 121.567076,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E4%BA%A4%E9%80%9A%E9%81%8B%E8%BC%B8%E7%B6%B2%E7%B5%A1",
+    "desc": "高鐵、捷運、公路、航空，編織移動台灣的立體交通網絡",
+    "city": "台北"
+  },
+  {
+    "title": "台灣國家風景區系統",
+    "lat": 23.51431,
+    "lng": 120.700627,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%B3%BB%E7%B5%B1",
+    "desc": "從東北角到墾丁，台灣13處國家風景區展現豐富的自然與人文景觀",
+    "city": "嘉義"
+  },
+  {
+    "title": "台灣島嶼地理特色與形成",
+    "lat": 23.509617,
+    "lng": 120.706726,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E5%B3%B6%E5%B6%BC%E5%9C%B0%E7%90%86%E7%89%B9%E8%89%B2%E8%88%87%E5%BD%A2%E6%88%90",
+    "desc": "探索台灣獨特的島嶼地理特色，從板塊運動到地形結構，了解福爾摩沙島的自然奧秘",
+    "city": "嘉義"
+  },
+  {
+    "title": "台灣板塊運動與地震活動",
+    "lat": 25.032876,
+    "lng": 121.562338,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E6%9D%BF%E5%A1%8A%E9%81%8B%E5%8B%95%E8%88%87%E5%9C%B0%E9%9C%87%E6%B4%BB%E5%8B%95",
+    "desc": "探討台灣位於歐亞板塊與菲律賓海板塊交界的地質特性，以及造成頻繁地震活動的原因",
+    "city": "台北"
+  },
+  {
+    "title": "台灣水庫與水資源管理",
+    "lat": 25.025328,
+    "lng": 121.564876,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E6%B0%B4%E5%BA%AB%E8%88%87%E6%B0%B4%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86",
+    "desc": "從缺水危機到水庫淤積，台灣水資源的挑戰與南北分配不均的困境",
+    "city": "台北"
+  },
+  {
+    "title": "台灣河川系統與水文特色：短急流與季節變遷的水文地理",
+    "lat": 25.17,
+    "lng": 121.44,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E6%B2%B3%E5%B7%9D%E7%B3%BB%E7%B5%B1%E8%88%87%E6%B0%B4%E6%96%87%E7%89%B9%E8%89%B2%EF%BC%9A%E7%9F%AD%E6%80%A5%E6%B5%81%E8%88%87%E5%AD%A3%E7%AF%80%E8%AE%8A%E9%81%B7%E7%9A%84%E6%B0%B4%E6%96%87%E5%9C%B0%E7%90%86",
+    "desc": "探索台灣獨特的河川系統，從濁水溪到高屏溪，了解島嶼地形如何塑造台灣的水文特色",
+    "city": "新北"
+  },
+  {
+    "title": "台灣海岸地形與海洋地景",
+    "lat": 25.206,
+    "lng": 121.691,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B2%B8%E5%9C%B0%E5%BD%A2%E8%88%87%E6%B5%B7%E6%B4%8B%E5%9C%B0%E6%99%AF",
+    "desc": "從北部岬灣海岸到東部斷層海岸，台灣豐富多變的海岸地形展現板塊運動的鬼斧神工",
+    "city": "新北"
+  },
+  {
+    "title": "台灣溫泉地景",
+    "lat": 22.695,
+    "lng": 121.032,
+    "category": "geography",
+    "region": "east",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E6%BA%AB%E6%B3%89%E5%9C%B0%E6%99%AF",
+    "desc": "北投、知本、礁溪，溫泉文化與地質科學的美麗交會",
+    "city": "台東"
+  },
+  {
+    "title": "台灣生態多樣性熱點",
+    "lat": 23.470666,
+    "lng": 120.957453,
+    "category": "geography",
+    "region": "central",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7%E7%86%B1%E9%BB%9E",
+    "desc": "3.6 萬平方公里島嶼擠下 5.9 萬種生物，密度是全球平均值的 100 倍",
+    "city": "南投"
+  },
+  {
+    "title": "台灣農業地景與產業分布",
+    "lat": 24.081,
+    "lng": 120.539,
+    "category": "geography",
+    "region": "central",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E5%9C%B0%E6%99%AF%E8%88%87%E7%94%A2%E6%A5%AD%E5%88%86%E5%B8%83",
+    "desc": "從北到南的農業地景變化，彰顯台灣從「台灣穀倉」到「精緻農業」的轉型之路",
+    "city": "彰化"
+  },
+  {
+    "title": "台灣都市發展與城鄉差距",
+    "lat": 25.034364,
+    "lng": 121.559345,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E9%83%BD%E5%B8%82%E7%99%BC%E5%B1%95%E8%88%87%E5%9F%8E%E9%84%89%E5%B7%AE%E8%B7%9D",
+    "desc": "六都格局下的台灣城鄉發展不均，從農業台灣到都市台灣的空間轉型",
+    "city": "台北"
+  },
+  {
+    "title": "地形與地質",
+    "lat": 23.472253,
+    "lng": 120.95659,
+    "category": "geography",
+    "region": "central",
+    "link": "/geography/%E5%9C%B0%E5%BD%A2%E8%88%87%E5%9C%B0%E8%B3%AA",
+    "desc": "台灣島複雜多樣的地形地貌，板塊運動造就的五大山脈與豐富地質景觀",
+    "city": "南投"
+  },
+  {
+    "title": "城市特色與區域文化",
+    "lat": 25.03288,
+    "lng": 121.565366,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/%E5%9F%8E%E5%B8%82%E7%89%B9%E8%89%B2%E8%88%87%E5%8D%80%E5%9F%9F%E6%96%87%E5%8C%96",
+    "desc": "從台北的國際都會到台南的古都風情，台灣各城市如何形塑獨特的地方認同",
+    "city": "台北"
+  },
+  {
+    "title": "離島與海洋文化",
+    "lat": 23.571,
+    "lng": 119.579,
+    "category": "geography",
+    "region": "islands",
+    "link": "/geography/%E9%9B%A2%E5%B3%B6%E8%88%87%E6%B5%B7%E6%B4%8B%E6%96%87%E5%8C%96",
+    "desc": "從澎湖玄武岩到蘭嶼飛魚祭，台灣離島如何孕育獨特的海洋文明",
+    "city": "澎湖"
+  },
+  {
+    "title": "二二八事件與白色恐怖：台灣威權統治下的創傷與記憶",
+    "lat": 22.661,
+    "lng": 121.497,
+    "category": "history",
+    "region": "east",
+    "link": "/history/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E8%88%87%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%EF%BC%9A%E5%8F%B0%E7%81%A3%E5%A8%81%E6%AC%8A%E7%B5%B1%E6%B2%BB%E4%B8%8B%E7%9A%84%E5%89%B5%E5%82%B7%E8%88%87%E8%A8%98%E6%86%B6",
+    "desc": "從1947年二二八事件到長達38年的戒嚴體制，台灣經歷了威權統治下的國家暴力，直到解嚴後才開始面對歷史創傷，推動轉型正義。",
+    "city": "台東"
+  },
+  {
+    "title": "台海危機與兩岸關係發展",
+    "lat": 24.449,
+    "lng": 118.377,
+    "category": "history",
+    "region": "islands",
+    "link": "/history/%E5%8F%B0%E6%B5%B7%E5%8D%B1%E6%A9%9F%E8%88%87%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82%E7%99%BC%E5%B1%95",
+    "desc": "回顧台海三次重大危機及兩岸關係七十餘年發展歷程，理解台海局勢的歷史脈絡與當代挑戰",
+    "city": "金門"
+  },
+  {
+    "title": "台灣海洋貿易史",
+    "lat": 23.00027,
+    "lng": 120.165198,
+    "category": "history",
+    "region": "south",
+    "link": "/history/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E8%B2%BF%E6%98%93%E5%8F%B2",
+    "desc": "大航海時代的台灣，從國際貿易中心到海盜王國的興衰傳奇",
+    "city": "台南"
+  },
+  {
+    "title": "台灣鐵道史",
+    "lat": 23.505409,
+    "lng": 120.70755,
+    "category": "history",
+    "region": "south",
+    "link": "/history/%E5%8F%B0%E7%81%A3%E9%90%B5%E9%81%93%E5%8F%B2",
+    "desc": "從清朝劉銘傳到日治縱貫線到高鐵，鐵道如何塑造台灣的城市發展與文化記憶",
+    "city": "嘉義"
+  },
+  {
+    "title": "國民政府遷台與戰後重建",
+    "lat": 25.037207,
+    "lng": 121.562156,
+    "category": "history",
+    "region": "north",
+    "link": "/history/%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0%E8%88%87%E6%88%B0%E5%BE%8C%E9%87%8D%E5%BB%BA",
+    "desc": "探討1949年國民政府遷台的歷史背景、過程與影響，以及戰後台灣的政治、經濟與社會重建",
+    "city": "台北"
+  },
+  {
+    "title": "日治時期",
+    "lat": 22.626916,
+    "lng": 120.294188,
+    "category": "history",
+    "region": "south",
+    "link": "/history/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F",
+    "desc": "1895-1945年日本統治台灣50年，帶來全面現代化建設與制度化管理，同時實施同化政策，深刻影響台灣社會發展",
+    "city": "高雄"
+  },
+  {
+    "title": "清治時期",
+    "lat": 25.175676,
+    "lng": 121.439966,
+    "category": "history",
+    "region": "north",
+    "link": "/history/%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F",
+    "desc": "1683-1895年清朝統治台灣約212年，從消極治理到積極建設，奠定現代台灣行政區劃與漢人社會基礎",
+    "city": "新北"
+  },
+  {
+    "title": "荷西明鄭時期",
+    "lat": 25.165029,
+    "lng": 121.432145,
+    "category": "history",
+    "region": "north",
+    "link": "/history/%E8%8D%B7%E8%A5%BF%E6%98%8E%E9%84%AD%E6%99%82%E6%9C%9F",
+    "desc": "台灣歷史上首次有系統性的殖民統治，從荷蘭人建立熱蘭遮城到鄭成功開台，奠定漢人移居與政治制度基礎",
+    "city": "新北"
+  },
+  {
+    "title": "便利商店文化",
+    "lat": 25.03344,
+    "lng": 121.567086,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97%E6%96%87%E5%8C%96",
+    "desc": "密度世界第一的台灣超商，如何從零售店變成一整個國家的生活作業系統",
+    "city": "台北"
+  },
+  {
+    "title": "台灣交通系統",
+    "lat": 25.02884,
+    "lng": 121.563047,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E4%BA%A4%E9%80%9A%E7%B3%BB%E7%B5%B1",
+    "desc": "高鐵 90 分鐘縱貫南北，捷運密織都市血脈，機車穿梭巷弄間",
+    "city": "台北"
+  },
+  {
+    "title": "台灣便利商店文化",
+    "lat": 25.040568,
+    "lng": 121.564433,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97%E6%96%87%E5%8C%96",
+    "desc": "密度世界第一的便利商店王國，7-11與全家的在地化創新，重新定義現代生活方式",
+    "city": "台北"
+  },
+  {
+    "title": "台灣公園與日常休閒",
+    "lat": 25.02699,
+    "lng": 121.572841,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%9C%92%E8%88%87%E6%97%A5%E5%B8%B8%E4%BC%91%E9%96%92",
+    "desc": "從清晨太極到夜間散步——台灣公園作為跨世代社交場域的文化觀察",
+    "city": "台北"
+  },
+  {
+    "title": "台灣咖啡文化",
+    "lat": 23.515934,
+    "lng": 120.693295,
+    "category": "lifestyle",
+    "region": "south",
+    "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%92%96%E5%95%A1%E6%96%87%E5%8C%96",
+    "desc": "獨立咖啡廳密度世界前三，從阿里山豆到咖啡廳辦公的島嶼咖啡學",
+    "city": "嘉義"
+  },
+  {
+    "title": "台灣回收與資源循環文化",
+    "lat": 25.02727,
+    "lng": 121.570938,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%9B%9E%E6%94%B6%E8%88%87%E8%B3%87%E6%BA%90%E5%BE%AA%E7%92%B0%E6%96%87%E5%8C%96",
+    "desc": "從垃圾島到回收典範的綠色革命",
+    "city": "台北"
+  },
+  {
+    "title": "台灣捷運發展史",
+    "lat": 25.026249,
+    "lng": 121.566993,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E6%8D%B7%E9%81%8B%E7%99%BC%E5%B1%95%E5%8F%B2",
+    "desc": "從 1996 年木柵線通車到無人駕駛環狀線，台灣捷運如何改變都市面貌與生活方式",
+    "city": "台北"
+  },
+  {
+    "title": "台灣機車文化",
+    "lat": 25.031297,
+    "lng": 121.569753,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E6%A9%9F%E8%BB%8A%E6%96%87%E5%8C%96",
+    "desc": "摩托車密度全球前列的島嶼王國，從通勤工具到生活方式的文化演進",
+    "city": "台北"
+  },
+  {
+    "title": "台灣騎樓文化與街景",
+    "lat": 25.027144,
+    "lng": 121.563351,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E9%A8%8E%E6%A8%93%E6%96%87%E5%8C%96%E8%88%87%E8%A1%97%E6%99%AF",
+    "desc": "遮風避雨的生活廊道，機車、攤販與人情味交織的台灣街頭記憶",
+    "city": "台北"
+  },
+  {
+    "title": "夜生活與KTV文化",
+    "lat": 25.03994,
+    "lng": 121.570088,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%A4%9C%E7%94%9F%E6%B4%BB%E8%88%87KTV%E6%96%87%E5%8C%96",
+    "desc": "從錢櫃包廂到深夜食堂，24 小時不打烊的島嶼夜生活",
+    "city": "台北"
+  },
+  {
+    "title": "宗教與民間信仰：從恐懼管理到信仰帝國",
+    "lat": 25.035521,
+    "lng": 121.570976,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%AE%97%E6%95%99%E8%88%87%E6%B0%91%E9%96%93%E4%BF%A1%E4%BB%B0%EF%BC%9A%E5%BE%9E%E6%81%90%E6%87%BC%E7%AE%A1%E7%90%86%E5%88%B0%E4%BF%A1%E4%BB%B0%E5%B8%9D%E5%9C%8B",
+    "desc": "台灣有全球最高廟宇密度，卻也是宗教自由世界第一——這套矛盾背後隱藏17世紀軍事移民的生存智慧",
+    "city": "台北"
+  },
+  {
+    "title": "溫泉文化",
+    "lat": 22.658299,
+    "lng": 121.501071,
+    "category": "lifestyle",
+    "region": "east",
+    "link": "/lifestyle/溫泉文化",
+    "desc": "從軍事療養到世界三大泥泉：台灣意外成為溫泉王國的故事",
+    "city": "台東"
+  },
+  {
+    "title": "台灣原住民音樂傳統",
+    "lat": 22.682381,
+    "lng": 120.481458,
+    "category": "music",
+    "region": "south",
+    "link": "/music/流行音樂與金曲獎",
+    "desc": "探索台灣 16 族原住民豐富的音樂文化，從古調吟唱到傳統樂器，見證數千年文化傳承",
+    "city": "屏東"
+  },
+  {
+    "title": "台灣樂器製造業：從后里薩克斯風到全球音樂工廠",
+    "lat": 23.863,
+    "lng": 120.917,
+    "category": "music",
+    "region": "central",
+    "link": "/music/流行音樂與金曲獎",
+    "desc": "探索台灣樂器製造業的發展歷程，從后里薩克斯風的全球霸主地位到吉他代工王國，再到音樂盒製造的精密工藝，台灣如何從代工走向自有品牌",
+    "city": "南投"
+  },
+  {
+    "title": "台灣民歌運動",
+    "lat": 25.025023,
+    "lng": 121.560025,
+    "category": "music",
+    "region": "north",
+    "link": "/music/%E5%8F%B0%E7%81%A3%E6%B0%91%E6%AD%8C%E9%81%8B%E5%8B%95",
+    "desc": "從「唱自己的歌」到改變整個華語音樂圈——1970年代那場屬於年輕人的文化革命",
+    "city": "台北"
+  },
+  {
+    "title": "台灣獨立音樂場景演變",
+    "lat": 25.038366,
+    "lng": 121.561199,
+    "category": "music",
+    "region": "north",
+    "link": "/music/流行音樂與金曲獎",
+    "desc": "從地下樂團到獨立音樂，探索台灣非主流音樂三十年發展軌跡與文化意義",
+    "city": "台北"
+  },
+  {
+    "title": "台灣電子音樂與派對文化：從地下 Rave 到國際舞台",
+    "lat": 25.034943,
+    "lng": 121.566063,
+    "category": "music",
+    "region": "north",
+    "link": "/music/流行音樂與金曲獎",
+    "desc": "從1990年代 Rave 派對文化到 Road to Ultra 電音節，台灣電子音樂如何從地下走向主流，孕育出國際級 DJ 與獨立電子廠牌",
+    "city": "台北"
+  },
+  {
+    "title": "台灣音樂祭文化：從春天吶喊到遍地開花的青年文化載體",
+    "lat": 21.948,
+    "lng": 120.803,
+    "category": "music",
+    "region": "south",
+    "link": "/music/流行音樂與金曲獎",
+    "desc": "探索台灣音樂祭從春吶、海洋音樂祭到大港開唱的發展歷程，如何成為獨立樂團孵化器與青年文化的核心表達平台",
+    "city": "屏東"
+  },
+  {
+    "title": "當代台灣獨立音樂場景",
+    "lat": 22.627513,
+    "lng": 120.302566,
+    "category": "music",
+    "region": "south",
+    "link": "/music/流行音樂與金曲獎",
+    "desc": "從地下展演到產業矩陣，解析現代台灣獨立音樂生態圈的發展脈絡與文化影響力",
+    "city": "高雄"
+  },
+  {
+    "title": "台灣原住民生態智慧與環境保育",
+    "lat": 23.992,
+    "lng": 121.602,
+    "category": "nature",
+    "region": "east",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E7%94%9F%E6%85%8B%E6%99%BA%E6%85%A7%E8%88%87%E7%92%B0%E5%A2%83%E4%BF%9D%E8%82%B2",
+    "desc": "探討台灣原住民族數千年來累積的傳統生態知識，以及在現代環境保育中的重要價值與實踐方式",
+    "city": "花蓮"
+  },
+  {
+    "title": "台灣山岳與登山文化",
+    "lat": 23.464479,
+    "lng": 120.959089,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E5%B1%B1%E5%B2%B3%E8%88%87%E7%99%BB%E5%B1%B1%E6%96%87%E5%8C%96",
+    "desc": "268座三千公尺高山與百岳文化：台灣登山運動的發展與山岳保育挑戰",
+    "city": "南投"
+  },
+  {
+    "title": "台灣森林生態系",
+    "lat": 23.476013,
+    "lng": 120.952434,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E6%A3%AE%E6%9E%97%E7%94%9F%E6%85%8B%E7%B3%BB",
+    "desc": "從亞熱帶海岸到高山針葉林，台灣3000公尺垂直落差中的豐富森林世界",
+    "city": "南投"
+  },
+  {
+    "title": "台灣氣候變遷與淨零轉型",
+    "lat": 22.628157,
+    "lng": 120.305099,
+    "category": "nature",
+    "region": "south",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E6%B0%A3%E5%80%99%E8%AE%8A%E9%81%B7%E8%88%87%E6%B7%A8%E9%9B%B6%E8%BD%89%E5%9E%8B",
+    "desc": "台灣面臨氣候變遷衝擊，從極端氣候頻繁發生到2050淨零碳排目標的政策規劃，探討能源轉型過程中的機會與挑戰",
+    "city": "高雄"
+  },
+  {
+    "title": "台灣海洋保育與挑戰：從污染治理到生態復育",
+    "lat": 22.338,
+    "lng": 120.373,
+    "category": "nature",
+    "region": "south",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E4%BF%9D%E8%82%B2%E8%88%87%E6%8C%91%E6%88%B0%EF%BC%9A%E5%BE%9E%E6%B1%A1%E6%9F%93%E6%B2%BB%E7%90%86%E5%88%B0%E7%94%9F%E6%85%8B%E5%BE%A9%E8%82%B2",
+    "desc": "探討台灣海洋面臨的污染挑戰，以及政府和民間團體推動的海洋保育成果，從小琉球到東沙環礁的保育經驗",
+    "city": "屏東"
+  },
+  {
+    "title": "台灣海洋污染治理與保育挑戰",
+    "lat": 22.341885,
+    "lng": 120.370566,
+    "category": "nature",
+    "region": "south",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E6%B1%A1%E6%9F%93%E6%B2%BB%E7%90%86%E8%88%87%E4%BF%9D%E8%82%B2%E6%8C%91%E6%88%B0",
+    "desc": "面對海洋廢棄物、過度捕撈與氣候變遷，探討台灣海洋保育的現況、挑戰與創新解決方案",
+    "city": "屏東"
+  },
+  {
+    "title": "台灣海洋生態",
+    "lat": 22.033,
+    "lng": 121.549,
+    "category": "nature",
+    "region": "east",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E7%94%9F%E6%85%8B",
+    "desc": "黑潮、珊瑚礁與海洋生物多樣性：台灣海域的生態奇蹟與保育挑戰",
+    "city": "台東"
+  },
+  {
+    "title": "台灣海洋生態與珊瑚礁保育",
+    "lat": 21.954339,
+    "lng": 120.810249,
+    "category": "nature",
+    "region": "south",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E7%94%9F%E6%85%8B%E8%88%87%E7%8F%8A%E7%91%9A%E7%A4%81%E4%BF%9D%E8%82%B2",
+    "desc": "台灣四面環海擁有豐富海洋生態，從珊瑚礁白化危機到鯨豚保育，探討海洋國家公園的保護成效與未來挑戰",
+    "city": "屏東"
+  },
+  {
+    "title": "台灣溫泉與地熱",
+    "lat": 22.696517,
+    "lng": 121.035925,
+    "category": "nature",
+    "region": "east",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E6%BA%AB%E6%B3%89%E8%88%87%E5%9C%B0%E7%86%B1",
+    "desc": "從北投硫磺谷到綠島朝日溫泉：台灣地熱資源與溫泉文化的發展歷程",
+    "city": "台東"
+  },
+  {
+    "title": "台灣石虎保育",
+    "lat": 24.561,
+    "lng": 120.821,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E7%9F%B3%E8%99%8E%E4%BF%9D%E8%82%B2",
+    "desc": "全台剩不到五百隻的幽靈貓——當最後的原生貓科走上消失的邊緣",
+    "city": "苗栗"
+  },
+  {
+    "title": "台灣穿山甲",
+    "lat": 25.037672,
+    "lng": 121.571554,
+    "category": "nature",
+    "region": "north",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E7%A9%BF%E5%B1%B1%E7%94%B2",
+    "desc": "全世界被走私最多的哺乳動物，在台灣找到了一個安全的家",
+    "city": "台北"
+  },
+  {
+    "title": "台灣高山生態系與冰河孑遺",
+    "lat": 23.462078,
+    "lng": 120.949036,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E9%AB%98%E5%B1%B1%E7%94%9F%E6%85%8B%E7%B3%BB%E8%88%87%E5%86%B0%E6%B2%B3%E5%AD%91%E9%81%BA",
+    "desc": "探討台灣3000公尺以上高山環境的獨特生態系統，從台灣杉、玉山杜鵑到冰河時期孑遺物種的珍貴生物多樣性",
+    "city": "南投"
+  },
+  {
+    "title": "台灣黑熊",
+    "lat": 25.033829,
+    "lng": 121.572978,
+    "category": "nature",
+    "region": "north",
+    "link": "/nature/%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A",
+    "desc": "胸前的白色 V 字是牠的簽名——台灣山林最後的王者，與牠未完的保育戰",
+    "city": "台北"
+  },
+  {
+    "title": "國家公園",
+    "lat": 23.465471,
+    "lng": 120.959133,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/國家公園",
+    "desc": "台灣9座國家公園的生態寶庫，從玉山之巔到海底世界的完整保育體系",
+    "city": "南投"
+  },
+  {
+    "title": "島嶼的山海之巔：台灣國家公園的生態與地景",
+    "lat": 23.468672,
+    "lng": 120.951647,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/國家公園",
+    "desc": "探索台灣九座國家公園的獨特生態系統與保育價值，從亞熱帶海岸到高山雪線的完整地景",
+    "city": "南投"
+  },
+  {
+    "title": "特有種",
+    "lat": 23.462933,
+    "lng": 120.951529,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/%E7%89%B9%E6%9C%89%E7%A8%AE",
+    "desc": "台灣豐富的特有種生物，展現島嶼生物地理學的演化奇蹟與保育重要性",
+    "city": "南投"
+  },
+  {
+    "title": "生態多樣性",
+    "lat": 23.472769,
+    "lng": 120.956027,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7",
+    "desc": "台灣面積僅佔全球0.025%，卻擁有超過5萬種生物，森林覆蓋率60.71%排名全球第33位",
+    "city": "南投"
+  },
+  {
+    "title": "臺灣的鯨豚",
+    "lat": 23.996177,
+    "lng": 121.609022,
+    "category": "nature",
+    "region": "east",
+    "link": "/nature/%E8%87%BA%E7%81%A3%E7%9A%84%E9%AF%A8%E8%B1%9A",
+    "desc": "全球三分之一鯨豚物種的棲息地——從昔日捕鯨到今日賞鯨，臺灣如何轉身成為海洋生態研究重鎮？",
+    "city": "花蓮"
+  },
+  {
+    "title": "五月天",
+    "lat": 25.034977,
+    "lng": 121.567342,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E4%BA%94%E6%9C%88%E5%A4%A9",
+    "desc": "從師大附中走向世界舞台，定義華語搖滾精神的永遠少年",
+    "city": "台北"
+  },
+  {
+    "title": "伍佰",
+    "lat": 23.484267,
+    "lng": 120.445624,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E4%BC%8D%E4%BD%B0",
+    "desc": "台灣搖滾國寶，本土搖滾樂的代名詞，以《挪威的森林》等作品奠定搖滾地位",
+    "city": "嘉義"
+  },
+  {
+    "title": "吳寶春",
+    "lat": 22.677458,
+    "lng": 120.491976,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E5%90%B3%E5%AF%B6%E6%98%A5",
+    "desc": "世界麵包大賽冠軍，以荔枝玫瑰麵包驚艷國際，從屏東鄉下到世界頂尖烘焙職人",
+    "city": "屏東"
+  },
+  {
+    "title": "呂秀蓮",
+    "lat": 24.987673,
+    "lng": 121.301984,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E5%91%82%E7%A7%80%E8%93%AE",
+    "desc": "台灣女權運動先驅，華人世界首位女性副總統",
+    "city": "桃園"
+  },
+  {
+    "title": "幾米",
+    "lat": 24.752,
+    "lng": 121.753,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E5%B9%BE%E7%B1%B3",
+    "desc": "用繪本溫暖世界的插畫詩人，讓台灣繪本走上國際舞台",
+    "city": "宜蘭"
+  },
+  {
+    "title": "戴資穎",
+    "lat": 22.621467,
+    "lng": 120.297832,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E6%88%B4%E8%B3%87%E7%A9%8E",
+    "desc": "214週世界球后紀錄保持者，從高雄前鎮到奧運銀牌的台灣羽球女王",
+    "city": "高雄"
+  },
+  {
+    "title": "李昂",
+    "lat": 24.060109,
+    "lng": 120.442249,
+    "category": "people",
+    "region": "central",
+    "link": "/people/%E6%9D%8E%E6%98%82",
+    "desc": "《殺夫》《迷園》作者，台灣女性主義文學先鋒",
+    "city": "彰化"
+  },
+  {
+    "title": "李智凱",
+    "lat": 24.756066,
+    "lng": 121.760907,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E6%9D%8E%E6%99%BA%E5%87%B1",
+    "desc": "從《翻滾吧！男孩》的菜市場凱到奧運銀牌，台灣鞍馬王子十六年的翻滾人生",
+    "city": "宜蘭"
+  },
+  {
+    "title": "李登輝",
+    "lat": 25.026849,
+    "lng": 121.56548,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E6%9D%8E%E7%99%BB%E8%BC%9D",
+    "desc": "台灣民主化推手，被譽為「民主先生」",
+    "city": "台北"
+  },
+  {
+    "title": "李遠哲",
+    "lat": 24.811281,
+    "lng": 120.970888,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E6%9D%8E%E9%81%A0%E5%93%B2",
+    "desc": "1986 年諾貝爾化學獎得主，以交叉分子束技術開創化學動力學新領域，台灣首位諾貝爾科學獎得主",
+    "city": "新竹"
+  },
+  {
+    "title": "杜聰明",
+    "lat": 25.033977,
+    "lng": 121.565474,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E6%9D%9C%E8%81%B0%E6%98%8E",
+    "desc": "台灣第一位醫學博士，台灣現代醫學之父",
+    "city": "台北"
+  },
+  {
+    "title": "林書豪",
+    "lat": 25.034523,
+    "lng": 121.565813,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E6%9E%97%E6%9B%B8%E8%B1%AA",
+    "desc": "從哈佛學霸到NBA總冠軍，引爆全球林來瘋的台裔美國球員",
+    "city": "台北"
+  },
+  {
+    "title": "林義雄",
+    "lat": 24.753148,
+    "lng": 121.755631,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E6%9E%97%E7%BE%A9%E9%9B%84",
+    "desc": "民主運動先驅，林宅血案受害者，反核四運動領袖",
+    "city": "宜蘭"
+  },
+  {
+    "title": "楊德昌",
+    "lat": 25.031978,
+    "lng": 121.564578,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E6%A5%8A%E5%BE%B7%E6%98%8C",
+    "desc": "台灣新電影運動核心人物，坎城最佳導演，都市疏離的詩人",
+    "city": "台北"
+  },
+  {
+    "title": "白先勇",
+    "lat": 25.026049,
+    "lng": 121.569243,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E7%99%BD%E5%85%88%E5%8B%87",
+    "desc": "《台北人》作者，現代文學大師與崑曲復興推手",
+    "city": "台北"
+  },
+  {
+    "title": "盧廣仲",
+    "lat": 22.993311,
+    "lng": 120.229102,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E7%9B%A7%E5%BB%A3%E4%BB%B2",
+    "desc": "台灣創作歌手、演員，三金得主（金曲、金鐘、金馬），以草根親切形象與獨特唱腔聞名",
+    "city": "台南"
+  },
+  {
+    "title": "莊智淵",
+    "lat": 22.624062,
+    "lng": 120.299395,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E8%8E%8A%E6%99%BA%E6%B7%B5",
+    "desc": "桌球教父，四屆奧運代表，獨自苦練的孤獨英雄",
+    "city": "高雄"
+  },
+  {
+    "title": "蔡明亮",
+    "lat": 25.034658,
+    "lng": 121.569353,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E8%94%A1%E6%98%8E%E4%BA%AE",
+    "desc": "威尼斯金獅獎得主，馬來西亞華人，慢電影美學大師",
+    "city": "台北"
+  },
+  {
+    "title": "許文龍",
+    "lat": 22.930883,
+    "lng": 120.233691,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E8%A8%B1%E6%96%87%E9%BE%8D",
+    "desc": "奇美集團創辦人，企業家、小提琴家、藝術收藏家的三重身份，奇美博物館創建者",
+    "city": "台南"
+  },
+  {
+    "title": "許芳宜",
+    "lat": 24.744892,
+    "lng": 121.756084,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E8%A8%B1%E8%8A%B3%E5%AE%9C",
+    "desc": "從宜蘭女孩到瑪乘舞團首席，再回台灣創立拉芳舞團——她用身體說出台灣最有力量的故事",
+    "city": "宜蘭"
+  },
+  {
+    "title": "賴清德：從礦工家庭到總統府的公共衛生醫師",
+    "lat": 22.993557,
+    "lng": 120.234571,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E8%B3%B4%E6%B8%85%E5%BE%B7%EF%BC%9A%E5%BE%9E%E7%A4%A6%E5%B7%A5%E5%AE%B6%E5%BA%AD%E5%88%B0%E7%B8%BD%E7%B5%B1%E5%BA%9C%E7%9A%84%E5%85%AC%E5%85%B1%E8%A1%9B%E7%94%9F%E9%86%AB%E5%B8%AB",
+    "desc": "台灣第16任總統，中華民國憲政史上首位以副總統身分參選並成功當選的政治人物",
+    "city": "台南"
+  },
+  {
+    "title": "郭婞淳",
+    "lat": 22.756,
+    "lng": 121.144,
+    "category": "people",
+    "region": "east",
+    "link": "/people/%E9%83%AD%E5%A9%9E%E6%B7%B3",
+    "desc": "台灣舉重女神，2021 東京奧運金牌得主，59 公斤級三項奧運紀錄保持人",
+    "city": "台東"
+  },
+  {
+    "title": "鄧雨賢",
+    "lat": 24.990261,
+    "lng": 121.306156,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E9%84%A7%E9%9B%A8%E8%B3%A2",
+    "desc": "台灣歌謠之父，創作《望春風》《雨夜花》《月夜愁》等經典台語歌謠",
+    "city": "桃園"
+  },
+  {
+    "title": "鍾理和",
+    "lat": 22.6259,
+    "lng": 120.306693,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E9%8D%BE%E7%90%86%E5%92%8C",
+    "desc": "《原鄉人》作者，台灣文學之父，貧病交加仍堅持創作的文學鬥士",
+    "city": "高雄"
+  },
+  {
+    "title": "陳偉殷",
+    "lat": 22.633697,
+    "lng": 120.306426,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E9%99%B3%E5%81%89%E6%AE%B7",
+    "desc": "台灣旅美棒球投手，MLB中的台灣之光",
+    "city": "高雄"
+  },
+  {
+    "title": "陳樹菊",
+    "lat": 22.757592,
+    "lng": 121.144696,
+    "category": "people",
+    "region": "east",
+    "link": "/people/%E9%99%B3%E6%A8%B9%E8%8F%8A",
+    "desc": "台東菜販的平凡善舉，用一生詮釋什麼是真正的富有",
+    "city": "台東"
+  },
+  {
+    "title": "陳水扁",
+    "lat": 25.039744,
+    "lng": 121.559096,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E9%99%B3%E6%B0%B4%E6%89%81",
+    "desc": "第十、十一任總統，2000年首次政黨輪替主角，台灣民主化重要人物",
+    "city": "台北"
+  },
+  {
+    "title": "馬英九",
+    "lat": 25.025531,
+    "lng": 121.563184,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E9%A6%AC%E8%8B%B1%E4%B9%9D",
+    "desc": "第十二、十三任總統，兩岸關係破冰推手，ECFA簽署者",
+    "city": "台北"
+  },
+  {
+    "title": "黃春明",
+    "lat": 24.74754,
+    "lng": 121.746122,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E9%BB%83%E6%98%A5%E6%98%8E",
+    "desc": "《兒子的大玩偶》《看海的日子》作者，宜蘭鄉土文學代表作家",
+    "city": "宜蘭"
+  },
+  {
+    "title": "黃震南：藏書界竹野內豐與台灣文史的活水源頭",
+    "lat": 23.483422,
+    "lng": 120.453059,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E9%BB%83%E9%9C%87%E5%8D%97%EF%BC%9A%E8%97%8F%E6%9B%B8%E7%95%8C%E7%AB%B9%E9%87%8E%E5%85%A7%E8%B1%90%E8%88%87%E5%8F%B0%E7%81%A3%E6%96%87%E5%8F%B2%E7%9A%84%E6%B4%BB%E6%B0%B4%E6%BA%90%E9%A0%AD",
+    "desc": "黃震南是台灣文史工作者、藏書家與作家，以PTT暱稱Sizumaru起家，經營「活水來冊房」專頁分享台灣歷史與舊書文化。著有《台灣史上最有梗的台灣史》等書，被譽為藏書界的竹野內豐。他從嘉義六腳書香家庭出發，父子南北分工蒐集文獻，致力讓嚴肅台灣史變得有趣親民。",
+    "city": "嘉義"
+  },
+  {
+    "title": "齊柏林",
+    "lat": 25.039583,
+    "lng": 121.570799,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E9%BD%8A%E6%9F%8F%E6%9E%97",
+    "desc": "紀錄片導演、空拍攝影師，《看見台灣》導演，用 25 年時間記錄台灣地貌",
+    "city": "台北"
+  },
+  {
+    "title": "動物園與展演動物倫理",
+    "lat": 24.810007,
+    "lng": 120.974495,
+    "category": "society",
+    "region": "north",
+    "link": "/society/%E5%8B%95%E7%89%A9%E5%9C%92%E8%88%87%E5%B1%95%E6%BC%94%E5%8B%95%E7%89%A9%E5%80%AB%E7%90%86",
+    "desc": "從鐵籠裡的大象到 Xpark 的水母牆——台灣正在重新定義人與被展示動物的關係",
+    "city": "新竹"
+  },
+  {
+    "title": "台灣原住民族土地正義與傳統領域",
+    "lat": 24.165144,
+    "lng": 121.622168,
+    "category": "society",
+    "region": "east",
+    "link": "/society/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E5%9C%9F%E5%9C%B0%E6%AD%A3%E7%BE%A9%E8%88%87%E5%82%B3%E7%B5%B1%E9%A0%98%E5%9F%9F",
+    "desc": "探討台灣原住民族土地權利的歷史脈絡、法律發展、傳統領域劃設爭議與原住民族轉型正義委員會的工作成果",
+    "city": "花蓮"
+  },
+  {
+    "title": "台灣環境正義與鄰避爭議",
+    "lat": 22.028386,
+    "lng": 121.553162,
+    "category": "society",
+    "region": "east",
+    "link": "/society/%E5%8F%B0%E7%81%A3%E7%92%B0%E5%A2%83%E6%AD%A3%E7%BE%A9%E8%88%87%E9%84%B0%E9%81%BF%E7%88%AD%E8%AD%B0",
+    "desc": "探討台灣環境負擔分配不均現象，從焚化爐、核廢料到石化業的鄰避衝突，分析環境不平等問題與社會公義議題",
+    "city": "台東"
+  },
+  {
+    "title": "台灣社區與里文化",
+    "lat": 25.025515,
+    "lng": 121.564717,
+    "category": "society",
+    "region": "north",
+    "link": "/society/%E5%8F%B0%E7%81%A3%E7%A4%BE%E5%8D%80%E8%88%87%E9%87%8C%E6%96%87%E5%8C%96",
+    "desc": "從最基層的民主實踐到社區營造的社會創新",
+    "city": "台北"
+  },
+  {
+    "title": "環保與永續發展",
+    "lat": 24.049834,
+    "lng": 120.437414,
+    "category": "society",
+    "region": "central",
+    "link": "/society/%E7%92%B0%E4%BF%9D%E8%88%87%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95",
+    "desc": "從煙囪之島到淨零台灣：40年環保運動的覺醒之路",
+    "city": "彰化"
+  },
+  {
+    "title": "社會住宅與居住正義",
+    "lat": 25.028678,
+    "lng": 121.57008,
+    "category": "society",
+    "region": "north",
+    "link": "/society/%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
+    "desc": "台灣如何透過社會住宅政策實現居住正義，讓每個人都有安身立命的地方",
+    "city": "台北"
+  },
+  {
+    "title": "科技園區發展",
+    "lat": 24.780132,
+    "lng": 120.990807,
+    "category": "technology",
+    "region": "north",
+    "link": "/technology/%E7%A7%91%E6%8A%80%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
+    "desc": "從竹科到南科，探討台灣科學園區的發展歷程與三大園區的獨特定位",
+    "city": "新竹"
+  },
+  {
+    "title": "半導體產業",
+    "lat": 24.788504,
+    "lng": 120.998828,
+    "category": "technology",
+    "region": "north",
+    "link": "/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD",
+    "desc": "從張忠謀的歷史賭注到2奈米時代：台積電如何讓台灣成為全球科技命脈",
+    "city": "新竹"
+  },
+  {
+    "title": "台灣水果王國",
+    "lat": 22.991237,
+    "lng": 120.222893,
+    "category": "food",
+    "region": "south",
+    "link": "/food/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%9E%9C%E7%8E%8B%E5%9C%8B",
+    "desc": "2021年愛文芒果飆破每台斤百元，背後是果農與天災、市場、政治的三重搏鬥",
+    "city": "台南"
+  },
+  {
+    "title": "台灣海岸地形與海洋地景",
+    "lat": 25.206759,
+    "lng": 121.684539,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B2%B8%E5%9C%B0%E5%BD%A2%E8%88%87%E6%B5%B7%E6%B4%8B%E5%9C%B0%E6%99%AF",
+    "desc": "野柳女王頭的脖子正以每年0.2公分的速度變細，總有一天會斷裂——這正是台灣海岸地形的宿命與美麗",
+    "city": "新北"
+  },
+  {
+    "title": "台灣茶道與生活美學",
+    "lat": 25.036542,
+    "lng": 121.56819,
+    "category": "food",
+    "region": "north",
+    "link": "/food/台灣茶文化",
+    "desc": "1981年紫藤廬開幕那晚，黨外人士與文人雅集品茗，這裡不只是茶館，更是反對運動的秘密基地",
+    "city": "台北"
+  },
+  {
+    "title": "台灣選舉與政黨政治",
+    "lat": 25.030529,
+    "lng": 121.566355,
+    "category": "society",
+    "region": "north",
+    "link": "/society/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%88%87%E6%94%BF%E9%BB%A8%E6%94%BF%E6%B2%BB",
+    "desc": "從1950年地方議員到2000年政黨輪替，看台灣如何用選票寫下民主轉型的奇蹟",
+    "city": "台北"
+  },
+  {
+    "title": "台灣都市發展與城鄉差距",
+    "lat": 25.034059,
+    "lng": 121.559063,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E9%83%BD%E5%B8%82%E7%99%BC%E5%B1%95%E8%88%87%E5%9F%8E%E9%84%89%E5%B7%AE%E8%B7%9D",
+    "desc": "70年從農業島變都市島，六都集中7成人口的光與影：繁榮台中vs凋零雲林的殘酷對比",
+    "city": "台北"
+  },
+  {
+    "title": "城市特色與區域文化",
+    "lat": 25.038112,
+    "lng": 121.566741,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E5%9F%8E%E5%B8%82%E7%89%B9%E8%89%B2%E8%88%87%E5%8D%80%E5%9F%9F%E6%96%87%E5%8C%96",
+    "desc": "從新北404萬人到台南185萬人，看六都如何在產業轉型中塑造各自的城市性格",
+    "city": "台北"
+  },
+  {
+    "title": "民主化",
+    "lat": 22.634046,
+    "lng": 120.296897,
+    "category": "society",
+    "region": "south",
+    "link": "/society/%E6%B0%91%E4%B8%BB%E5%8C%96",
+    "desc": "1979年12月10日高雄街頭的警民衝突，最終催生了台灣的民主轉型——但代價是多少人的青春與自由？",
+    "city": "高雄"
+  },
+  {
+    "title": "王齊麟與李洋（麟洋配）",
+    "lat": 25.030349,
+    "lng": 121.56224,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/%E7%8E%8B%E9%BD%8A%E9%BA%9F%E8%88%87%E6%9D%8E%E6%B4%8B%EF%BC%88%E9%BA%9F%E6%B4%8B%E9%85%8D%EF%BC%89",
+    "desc": "從國中同學到奧運金牌：「麟洋配」34分鐘內直落二擊敗中國，寫下台灣羽球史上第一面奧運金牌",
+    "city": "台北"
+  }
 ]
