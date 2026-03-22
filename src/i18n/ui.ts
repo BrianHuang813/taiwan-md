@@ -1,4 +1,6 @@
 import type { Lang } from '../types';
+export type { Lang };
+export type Locale = Lang;
 import { homeUI } from './home';
 import { aboutUI } from './about';
 import { dataUI } from './data';
@@ -7,6 +9,18 @@ export const languages: Record<Lang, string> = {
   en: 'English',
   'zh-TW': '中文',
   es: 'Español',
+};
+
+export const localeNames: Record<Lang, string> = {
+  'zh-TW': '中文',
+  en: 'English',
+  es: 'Español',
+};
+
+export const localeFlags: Record<Lang, string> = {
+  'zh-TW': '🇹🇼',
+  en: '🇬🇧',
+  es: '🇪🇸',
 };
 
 export const defaultLang: Lang = 'zh-TW';
